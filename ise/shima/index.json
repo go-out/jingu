@@ -1,0 +1,306 @@
+{
+    "type": "FeatureCollection",
+    "url": "?id=ise&area=shima",
+    "title": [
+        "Toba - Shima, Mie",
+        "志摩国（志摩・鳥羽）"
+    ],
+    "description": "海女の磯笛は「日本の音風景100選」・リアス式海岸で知られる英虞湾は「日本の夕陽百選」に選ばれるなど、美しい日本の風景が残る「志摩半島」",
+    "info": {
+        "markdown": "../ise/shima/README.md",
+        "links": [
+            {
+                "text": "伊勢志摩観光ナビ",
+                "url": "https://www.iseshima-kanko.jp/",
+                "target": "_blank"
+            },
+            {
+                "text": "【公式】志摩市観光協会 | 志摩観光・旅行情報サイト",
+                "url": "https://www.kanko-shima.com/",
+                "target": "_blank"
+            },
+            {
+                "text": "一般社団法人 鳥羽市観光協会",
+                "url": "https://www.toba.gr.jp/",
+                "target": "_blank"
+            },
+            {
+                "text": "三重交通バス路線図 志摩エリア",
+                "url": "https://www.sanco.co.jp/map/rosenzu/map/shima/",
+                "target": "_blank"
+            },
+            {
+                "text": "お得な乗車券 - 三重交通",
+                "url": "https://www.sanco.co.jp/shuttle/shuttle01-01/post-6/",
+                "target": "_blank"
+            },
+            {
+                "text": "志摩国 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/志摩国",
+                "target": "_blank"
+            },
+            {
+                "text": "志摩半島 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/志摩半島",
+                "target": "_blank"
+            }
+        ]
+    },
+    "events": [
+        {
+            "date": {
+                "month": 6,
+                "date": [
+                    24
+                ]
+            },
+            "title": [
+                "磯部の御神田",
+                "Isobe-no-Miya Otaue Matsuri"
+            ],
+            "description": "三大御田植祭・国の重要無形民俗文化財",
+            "note": [
+                "June 24th every year",
+                "毎年 六月二十四日"
+            ],
+            "cover": {
+                "directory": null,
+                "url": null
+            },
+            "info": {
+                "markdown": "../date/0624.md",
+                "link": [
+                    {
+                        "text": "神宮の一年 Jingu's Annual Ceremonies",
+                        "url": "../date/",
+                        "target": "_self"
+                    }
+                ]
+            }
+        }
+    ],
+    "map": {
+        "center": [
+            136.80879585489942,
+            34.38016650380497
+        ],
+        "bounds": [
+            [
+                136.6898662026644,
+                34.22327863815501
+            ],
+            [
+                137.02022811945398,
+                34.583870246371276
+            ]
+        ],
+        "zoom": 12
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.8087972222434,
+                    34.3801916662852
+                ],
+                "address": "三重県志摩市磯部町上之郷"
+            },
+            "properties": {
+                "title": "伊雑宮",
+                "description": "皇大神宮（内宮）の境外別宮、神宮へ奉る神の食事の食材を採る所「御贄地（みにえどころ）」",
+                "note": [
+                    "神田を持つ唯一の神宮別宮「いぞうぐう」（この神田で採れた米や地元の海産物が、神々に捧げられる食事「神饌（しんせん）」として神宮に供えられる）",
+                    "また古来より、志摩国一宮「磯部（いそべ）の大神宮さん」と呼ばれ、志摩一円の漁業関係者の信仰も篤い（特に漁師や海女さんは「磯守（海幸木守）」を受け、身につけて海に入る風習がある）",
+                    "<u>アクセス</u><br>近鉄志摩線「鳥羽駅」から普通賢島行で約30分「上之郷駅」または「志摩磯部駅」下車<br>内宮前から直行シャトルバス「パールシャトル」で「川辺バス停」下車など",
+                    "（鳥居前町には鰻料理店・中六や神武参剣道場、伊雑宮のおもてなし処・御師の家などがある）"
+                ],
+                "links": [
+                    {
+                        "text": "伊雑宮 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/伊雑宮",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "皇大神宮別宮 伊雜宮 - Google マップ",
+                        "url": "https://maps.app.goo.gl/aSLKmtkKUqcorH6y6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.80348614954426,
+                    34.37524782677822
+                ],
+                "address": "日本 〒517-0206 三重県志摩市磯部町恵利原１２２５番地４"
+            },
+            "properties": {
+                "title": "佐美長神社・佐美長御前神社",
+                "description": "地元では伊雑宮の外宮のように信仰される、伊雑宮の所管社",
+                "note": [
+                    "倭姫命が志摩国を巡行した際、一羽の真名鶴が稲穂をくわえているのを見つけ、それを祀ったのが起源とされる",
+                    "佐美長神社と伊雑宮を結ぶ800mほどの道は「御幸道（ごこうみち）」と呼ばれ、かつて神が両神社を往来したと伝えられる",
+                    "同地に鎮座する「佐美長御前神社」は4つの社から成り、伊雑宮の所管社5社のうち第2位から第5位",
+                    "現在の鎮座地は、「江戸時代に入るまでは海面下あるいは湿地帯であったと考えられ、後代に現社地に移った」とする説と、「小高い丘である故、古くから祀られてきた」とする説がある",
+                    "明治4年（1871年/1872年）に「佐美長神社」に改められる以前は、大歳宮（おおとしのみや）・穂落宮（ほおとしのみや）・飯井高宮（いいのたかみや）・神織田御子神社（かむおたのみこのやしろ）などさまざまな社名が用いられていた",
+                    "<u>アクセス</u><br>近鉄志摩線「鳥羽駅」から普通賢島行で約30分「志摩磯部駅」下車"
+                ],
+                "links": [
+                    {
+                        "text": "佐美長神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/佐美長神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "佐美長神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/nvQojrCHY8QS2Tfr5",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.80382861292497,
+                    34.37704431417559
+                ],
+                "address": "磯部町恵利原1250"
+            },
+            "properties": {
+                "title": "磯部神社",
+                "description": "伊雑宮の摂末社のような関係にある、磯部郷の惣社と称すべき神社",
+                "note": [
+                    "明治41年に創建以来、いくつかの神社を合祀して現在に至る",
+                    "地元では、伊雑宮・佐美長神社（穂落とし神社）と合わせて三社詣でをする慣わしがあるという",
+                    "<u>アクセス</u><br>近鉄志摩線「鳥羽駅」から普通賢島行で約30分「志摩磯部駅」下車"
+                ],
+                "links": [
+                    {
+                        "text": "磯部神社 - ISOBE JHINJYA",
+                        "url": "https://isobejj.com/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "磯部神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/vJG6xHrhketD7Gdt7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.797294539622,
+                    34.388705215303844
+                ],
+                "address": "三重県志摩市磯部町恵利原"
+            },
+            "properties": {
+                "title": "おうむ岩",
+                "description": "その石にむかって声や音を発すると、オウムのようにその声や音のまねをするとされる奇岩",
+                "note": [
+                    "頂上は、磯部町の田園風景が一望できる絶景スポット",
+                    "<u>アクセス</u><br>三重交通バス「恵利原」より徒歩約20分<br>（磯部バスセンター・伊勢市駅前から「宿浦線・御座線」が運行）"
+                ],
+                "links": [
+                    {
+                        "text": "鸚鵡石 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/鸚鵡石",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "鸚鵡岩 - Google マップ",
+                        "url": "https://maps.app.goo.gl/42XxzsPShhwcMCMr7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 14.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.76345567351626,
+                    34.407999302915115
+                ],
+                "address": "日本 〒517-0206 三重県志摩市磯部町恵利原"
+            },
+            "properties": {
+                "title": "恵利原の水穴（天の岩戸）",
+                "description": "山麓は伊雑宮の社叢の原生林、湧き出る岩清水は「日本の名水100選」のひとつ",
+                "note": [
+                    "毎月22日に恵利原老人クラブが例祭を開催し、清掃・整備等の保全活動を行う、志摩市と伊勢市の境に位置する秘境の洞窟",
+                    "指定天然記念物のオオシマザクラも有名で、桜の時期には「桜と餅と名水を楽しむ会」があり、この恵利原地域の伝統芸能である「早餅つき」保存会による餅のふるまいなどがある",
+                    "<u>アクセス</u><br>三重交通バス「天の岩戸口」より徒歩約20分<br>（磯部バスセンター・伊勢市駅前から「宿浦線・御座線」が運行）"
+                ],
+                "links": [
+                    {
+                        "text": "天の岩戸（恵利原の水穴） - Google マップ",
+                        "url": "https://maps.app.goo.gl/MNisfYXVqByXrVKS9",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "恵利原の水穴 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/恵利原の水穴",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.80540833314262,
+                    34.36991388877233
+                ],
+                "address": "三重県志摩市磯部町迫間"
+            },
+            "properties": {
+                "title": "志摩磯部駅",
+                "description": "スペイン・アンダルシア地方の建物がモチーフの駅舎",
+                "note": [
+                    "駅周辺の磯部バスセンターから、伊勢市駅前方面へ三重交通バス「宿浦線・御座線」が運行",
+                    "（日本一の面積を誇るコンビニ「ローソン 志摩磯部店」がある）"
+                ],
+                "links": [
+                    {
+                        "text": "志摩磯部駅 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/志摩磯部駅",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "志摩磯部駅 - Google マップ",
+                        "url": "https://maps.app.goo.gl/MY5fhyRMv5xLVBYA7",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "磯部バスセンター - Google マップ",
+                        "url": "https://maps.app.goo.gl/1oChAP2WbCNHvM246",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15.5
+            }
+        }
+    ]
+}

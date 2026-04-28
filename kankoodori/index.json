@@ -1,0 +1,329 @@
+{
+    "type": "FeatureCollection",
+    "url": "?id=kankoodori",
+    "title": [
+        "Kanko Odori",
+        "かんこ踊り"
+    ],
+    "description": "毎年 八月十三日から十六日・二十四日 🥁 松坂市・津市",
+    "info": {
+        "markdown": "../kankoodori/README.md",
+        "links": [
+            {
+                "text": "神三郡（松阪・多気郡・度会郡） Tsu - Taki - Watarai, Mie",
+                "url": "../?id=ise&area=matsuzaka",
+                "target": "_self"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            136.50852816109352,
+            34.60631981383098
+        ],
+        "bounds": [
+            [
+                136.21630934961564,
+                34.366297221713594
+            ],
+            [
+                136.7294901368362,
+                34.831195094033774
+            ]
+        ],
+        "zoom": 10.5
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.5390514269186,
+                    34.60274084871939
+                ]
+            },
+            "properties": {
+                "title": "猟師かんこ踊り",
+                "description": "八月十三日午後七時半頃から十六日明け方まで（海念寺）",
+                "note": [
+                    "海念寺（かいねんじ）を振り出しに、初盆の家を三日間のあいだに二度訪れる",
+                    "踊り歌は、やれやれ音頭・ふれ音頭・道中音頭と流れ、末を申せばで一踊りを終わる",
+                    "（内容は、道中音頭に網かけ・雉子狩り、さくらこ・世の中などが歌われる）"
+                ],
+                "links": [
+                    {
+                        "text": "海念寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/tL1zj1zq8QdLFZuP8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.52595845336413,
+                    34.60960298482529
+                ]
+            },
+            "properties": {
+                "title": "松ヶ崎かんこ踊り",
+                "description": "八月十四日から十六日 午後七時頃から（松ヶ崎神社、海禅寺）",
+                "note": [
+                    "踊りは松ヶ崎神社から始まり、初盆の家を二日間に分けて回り、最終日には海禅寺で全ての霊に別れを告げ、松ヶ崎神社での踊りを最後に幕を閉じる",
+                    "元々は元蛭子神社を奉祀する漁民たちの祭りで、氏子の安穏と豊年豊漁を祈るものであったが、いつしか念仏踊りが残って初盆供養の踊りとなった"
+                ],
+                "links": [
+                    {
+                        "text": "松ヶ崎神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/sFDph3KbfEi9DFgo7",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "海禅寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/Knk5Dozn3tKf34wa9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.49426137920113,
+                    34.639071463347435
+                ]
+            },
+            "properties": {
+                "title": "新屋庄かんこ踊り",
+                "description": "八月十四日頃 午後七時頃から（称名寺）",
+                "note": [
+                    "称名寺での寺踊りから始まり、初盆の施主の家に踊り込む（初盆の家で踊るのを「施主踊り」「踊り込み」といい、これに対して寺踊りを「式踊り」という）",
+                    "初盆の家を回り終ると、寺に帰ってきて踊り、最後に笠踊りをし、陣立て踊りの節に合わせてシデを打ち合い、盆供養の踊りを終わる"
+                ],
+                "links": [
+                    {
+                        "text": "无㝵光山 称名寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/J5QX3Gzo7jUmPLJv6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.5202583370106,
+                    34.62678919491658
+                ]
+            },
+            "properties": {
+                "title": "曽原かんこ踊",
+                "description": "八月十四日昼過ぎから翌早朝・午前二時頃（法性寺、西光寺）",
+                "note": [
+                    "踊りは一番から七番まで、14日の昼過ぎから法性寺で世古入りの一番に始まり、お寺踊りと念仏踊りをしたあと、西光寺で同じ踊りをして法性寺に戻る",
+                    "つづいて二番、三番と踊り子がかわり、15日の午前2時頃まで踊り続ける"
+                ],
+                "links": [
+                    {
+                        "text": "真如山 法性寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/cq9gw58X59dUDgA2A",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "西光寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/1dBRQp8fKWVf3W3Z7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.52348941773158,
+                    34.63225374307099
+                ]
+            },
+            "properties": {
+                "title": "笠松かんこ踊",
+                "description": "八月十四日 夕方から翌早朝（松養寺、海雲寺）",
+                "note": [
+                    "始めに在所まわりが行われ、本踊りは松養寺、海雲寺で踊る",
+                    "最後のシデミジャキは見物で、二本の赤シデを十文字に組み、シデ竹を叩き割ってアーチを作り、踊り子と責任者が潜ってすべての行事を終わる"
+                ],
+                "links": [
+                    {
+                        "text": "不老山 松養寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/kZepZenMx2n2nGTj7",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "海雲寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/aKE3DBVecjTvA8HZA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.4807222885047,
+                    34.547811613920345
+                ]
+            },
+            "properties": {
+                "title": "西野子踊り",
+                "description": "八月十六日 西野公民館前広場（西野町）",
+                "note": [
+                    "村の神々に捧げる豊年踊りで昭和54年8月、30年振りに復活",
+                    "踊り歌は、神事踊りの色を帯びて、勢子入りに始まり、神楽・世の中・小原木・飛田・鏡鑄(つき)・陣立・花見などが歌われる",
+                    "祭りハッピに羯鼓をつけた子どもたちを中心に、浴衣に編笠の采持ちや笛吹きが外周を取りまく、華やいだ昼間の踊り"
+                ],
+                "links": [
+                    {
+                        "text": "西野公民館 - Google マップ",
+                        "url": "https://maps.app.goo.gl/QCKMWiUcdtmLEPFj9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.51695156643558,
+                    34.651184000410225
+                ]
+            },
+            "properties": {
+                "title": "雲出島貫かんこ踊り",
+                "description": "八月十四日 午後六時から十時（円福寺）",
+                "note": null,
+                "links": [
+                    {
+                        "text": "寿光山 圓福寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/7YDP6f23VDpGL1EYA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.54356831721668,
+                    34.64444488548233
+                ]
+            },
+            "properties": {
+                "title": "香良洲町の宮踊",
+                "description": "八月十五日 午後六時から翌朝（香良洲神社）",
+                "note": [
+                    "津市香良洲町の馬場・地家（じけ）・砂原・小松の４地区が香良洲神社の祭礼に際して奉納する太鼓踊り",
+                    "（現在は盆に踊られるが、かつては旧暦の７月１４～１６日に行われていた）"
+                ],
+                "links": [
+                    {
+                        "text": "香良洲神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/b41EnGEvxLPzpQ7W8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.36470241242483,
+                    34.747205706342
+                ]
+            },
+            "properties": {
+                "title": "南長野のかんこ踊り・北長野祇園踊り",
+                "description": "八月十五日 午後七時から十時ごろ（長野神社）",
+                "note": [
+                    "豊年満作と子供たちの成長を祈願する踊り",
+                    "江戸時代文久２年（１８６３年）に始まったと伝えられ、昭和５３年からは、地域の保存会により継承",
+                    "「宮踊り」は長野神社で、「寺踊り」は北長野遊園地で踊られる"
+                ],
+                "links": [
+                    {
+                        "text": "南長野のかんこ踊り 北長野・細野祇園踊り - 地域文化資産ポータル",
+                        "url": "https://bunkashisan.ne.jp/bunkashisan/24_mie/7149.html",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "長野神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/aQaKtRo9TiQ2bkwF6",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "北長野遊園地 - Google マップ",
+                        "url": "https://maps.app.goo.gl/jaXjxb8PgzQMNdc98",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.35091755242746,
+                    34.73832856755213
+                ]
+            },
+            "properties": {
+                "title": "桂畑地蔵踊り",
+                "description": "八月二十四日 午後六時から十一時頃（洞雲寺）",
+                "note": [
+                    "地蔵盆の日に洞雲寺（ドウウンジ）の子安観音菩薩に「かんこ踊り」が奉納される",
+                    "踊りには「宮踊り」「寺踊り」など10番ほどの演目があり、豊年踊りの系列に属するもので、田植え姿に稲穂の象徴としての花を背負う",
+                    "子宝・五穀豊穣を祈り、南北朝時代から続くと伝えられる"
+                ],
+                "links": [
+                    {
+                        "text": "桂畑地蔵踊り - 地域文化資産ポータル",
+                        "url": "https://bunkashisan.ne.jp/bunkashisan/24_mie/7148.html",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "洞雲寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/865VQmCb4YKBsFjq8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        }
+    ]
+}

@@ -1,0 +1,168 @@
+{
+    "type": "FeatureCollection",
+    "url": "?id=koka",
+    "title": [
+        "Koka - Konan, Shiga",
+        "甲賀・湖南"
+    ],
+    "description": "三重・京都と接する滋賀の奥地、甲賀忍者・信楽焼・近江茶など独自の文化が根付く桃源郷",
+    "info": {
+        "markdown": "../koka/README.md",
+        "links": [
+            {
+                "text": "甲賀市 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/甲賀市",
+                "target": "_blank"
+            },
+            {
+                "text": "湖南市 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/湖南市",
+                "target": "_blank"
+            },
+            {
+                "text": "紫香楽宮 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/紫香楽宮",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            136.2650291,
+            34.93876916
+        ],
+        "bounds": [
+            [
+                135.93882777055114,
+                34.790669231444994
+            ],
+            [
+                136.44474111443282,
+                35.11913067051576
+            ]
+        ],
+        "zoom": 10.75
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.27729459972636,
+                    34.87411000993349
+                ],
+                "address": "滋賀県甲賀市甲賀町油日1042"
+            },
+            "properties": {
+                "title": "油日岳",
+                "description": "滋賀県甲賀市にある油日神社のご神体とされている山（標高約693m）",
+                "note": [
+                    "山頂には奥宮もある。山頂からの展望はない",
+                    "登山する場合は奥余野森林公園から周回する、または那須ヶ原山から縦走するのが一般的"
+                ],
+                "links": [
+                    {
+                        "text": "油日岳 - Google マップ",
+                        "url": "https://maps.app.goo.gl/t9vSAxUmCXj6idLo7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.2497111108568,
+                    34.88700555562973
+                ],
+                "address": "滋賀県甲賀市甲賀町油日1042"
+            },
+            "properties": {
+                "title": "油日神社",
+                "description": "油日岳を神体山とし、「日本三代実録」に陽成天皇の元慶元年（877）、従五位下の神階を授けられた古社",
+                "note": [
+                    "建造物5棟が国の重要文化財、国史跡「甲賀郡中惣遺跡群」の一部"
+                ],
+                "links": [
+                    {
+                        "text": "油日神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/油日神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "油日神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/YcdkUugYWGuR649H6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.10982886,
+                    34.94409894
+                ],
+                "address": "水口町三大寺"
+            },
+            "properties": {
+                "title": "飯道山",
+                "description": "飯道神社が鎮座する、原始より山岳信仰の対象だった飯道神「いひみち（いいみち）」の聖地（標高約664m）",
+                "note": [
+                    "戦国期には甲賀忍者の修行の場でもあった（本殿は国の重要文化財）"
+                ],
+                "links": [
+                    {
+                        "text": "飯道神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/飯道神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "飯道山 - Google マップ",
+                        "url": "https://maps.app.goo.gl/QvdHr516at2ZTooJ8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 14
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.16323814,
+                    34.93510236
+                ],
+                "address": "甲南町森尻310"
+            },
+            "properties": {
+                "title": "矢川神社",
+                "description": "もと杣川流域は二十二ヶ村開拓の祖神と仰がれ、杣一ノ宮と称された「甲賀八座」のひとつ",
+                "note": [
+                    "国史跡「甲賀郡中惣遺跡群」の一部"
+                ],
+                "links": [
+                    {
+                        "text": "矢川神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/矢川神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "矢川神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/bSEWVRqcQy1Sdewj9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": null
+            }
+        }
+    ]
+}

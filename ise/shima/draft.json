@@ -1,0 +1,865 @@
+{
+    "url": "date/?map=ise&area=shima_toba",
+    "date": null,
+    "title": [
+        "Toba - Shima, Mie",
+        "志摩国（志摩・鳥羽）"
+    ],
+    "description": "海女の磯笛は「日本の音風景100選」・リアス式海岸で知られる英虞湾は「日本の夕陽百選」に選ばれるなど、美しい日本の風景が残る「志摩半島」",
+    "cover": {
+        "title": [
+            "志摩国（志摩・鳥羽）",
+            "Toba - Shima, Mie"
+        ],
+        "description": "恒例祭典・行事と催し",
+        "note": [
+            "_",
+            "_"
+        ],
+        "directory": null,
+        "url": null
+    },
+    "info": {
+        "index": null,
+        "markdown": "../ise/shima/README.md",
+        "links": [
+            {
+                "text": "志摩国（志摩・鳥羽） Shima (Toba - Shima), Mie",
+                "url": "../?id=ise&area=shima",
+                "target": "_self"
+            }
+        ]
+    },
+    "events": [
+        {
+            "date": {
+                "month": 1,
+                "date": 1
+            },
+            "title": [
+                "名のり・注連縄切り・火祭り",
+                "大王町波切"
+            ],
+            "description": "名のり 19:00頃～ 注連縄切り・火まつり 0:00頃～",
+            "note": [
+                "December 31th - January 1st every year",
+                "毎年 大晦日から元日"
+            ],
+            "cover": {
+                "directory": null,
+                "url": null
+            },
+            "info": {
+                "note": null,
+                "markdown": null,
+                "link": null
+            }
+        },
+        {
+            "date": {
+                "month": 1,
+                "date": 1
+            },
+            "title": [
+                "ゲーター祭",
+                "八代神社（神島）"
+            ],
+            "description": "三重県無形民俗文化財",
+            "note": [
+                "January 1st every year",
+                "毎年 一月一日"
+            ],
+            "cover": {
+                "directory": null,
+                "url": null
+            },
+            "info": {
+                "note": null,
+                "markdown": null,
+                "link": null
+            }
+        },
+        {
+            "date": {
+                "month": 2,
+                "date": null
+            },
+            "title": [
+                "御船祭",
+                "青峰山"
+            ],
+            "description": "海事関係者から奉納された大小の大漁旗があふれはためく",
+            "note": [
+                "Around Febrary every year",
+                "毎年 旧暦一月十八日"
+            ],
+            "cover": {
+                "directory": null,
+                "url": null
+            },
+            "info": {
+                "note": null,
+                "markdown": null,
+                "link": null
+            }
+        },
+        {
+            "date": {
+                "month": 6,
+                "date": [
+                    24
+                ]
+            },
+            "title": [
+                "磯部の御神田",
+                "Isobe-no-Miya Otaue Matsuri"
+            ],
+            "description": "三大御田植祭・国の重要無形民俗文化財",
+            "note": [
+                "June 24th every year",
+                "毎年 六月二十四日"
+            ],
+            "cover": {
+                "directory": null,
+                "url": null
+            },
+            "info": {
+                "markdown": "../date/0624.md",
+                "link": [
+                    {
+                        "text": "神宮の一年 Jingu's Annual Ceremonies",
+                        "url": "../date/",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 7,
+                "date": "7日に近い日曜"
+            },
+            "title": [
+                "明神祭",
+                "伊射波神社（かぶらこさん）"
+            ],
+            "description": "",
+            "note": [
+                "Around July every year",
+                "毎年 七月七日に近い日曜日 午前十時"
+            ],
+            "cover": {
+                "directory": null,
+                "url": null
+            },
+            "info": {
+                "note": null,
+                "link": null
+            }
+        },
+        {
+            "date": {
+                "month": 7,
+                "date": 11
+            },
+            "title": [
+                "しろんご祭り",
+                "菅島"
+            ],
+            "description": "海人の島「菅島」を代表する夏祭り",
+            "note": [
+                "July 11th every year",
+                "毎年 七月十一日"
+            ],
+            "cover": {
+                "directory": null,
+                "url": null
+            },
+            "info": {
+                "note": null,
+                "markdown": null,
+                "link": null
+            }
+        },
+        {
+            "date": {
+                "month": 8,
+                "date": 13
+            },
+            "title": [
+                "鼓踊り",
+                "佐田の浜"
+            ],
+            "description": "",
+            "note": [
+                "August 13th every year",
+                "毎年 八月十三日"
+            ],
+            "cover": {
+                "directory": null,
+                "url": null
+            },
+            "info": {
+                "note": null,
+                "markdown": null,
+                "link": null
+            }
+        },
+        {
+            "date": {
+                "month": 8,
+                "date": 14
+            },
+            "title": [
+                "ささら踊り",
+                "立神薬師堂"
+            ],
+            "description": "四年に一度",
+            "note": [
+                "August 14th every year",
+                "毎年 八月十四日"
+            ],
+            "cover": {
+                "directory": null,
+                "url": null
+            },
+            "info": {
+                "note": null,
+                "markdown": null,
+                "link": null
+            }
+        },
+        {
+            "date": {
+                "month": 8,
+                "date": 14
+            },
+            "title": [
+                "大念仏",
+                "大王町波切"
+            ],
+            "description": "",
+            "note": [
+                "August 14th every year",
+                "毎年 八月十四日"
+            ],
+            "cover": {
+                "directory": null,
+                "url": null
+            },
+            "info": {
+                "note": null,
+                "markdown": null,
+                "link": null
+            }
+        },
+        {
+            "date": {
+                "month": 8,
+                "date": 15
+            },
+            "title": [
+                "志摩加茂五郷の盆祭行事",
+                "大念仏、火柱祭り"
+            ],
+            "description": "河内、松尾ほか",
+            "note": [
+                "August 15th every year",
+                "毎年 八月十五日"
+            ],
+            "cover": {
+                "directory": null,
+                "url": null
+            },
+            "info": {
+                "note": null,
+                "markdown": null,
+                "link": null
+            }
+        },
+        {
+            "date": {
+                "month": 9,
+                "date": "中旬申の日"
+            },
+            "title": [
+                "わらじ祭り（波切のわらじ曳き）",
+                "大王町波切"
+            ],
+            "description": "三重県指定無形民俗文化財",
+            "note": [
+                "Mid-September every year",
+                "毎年 九月中旬の「申（さる）の日」"
+            ],
+            "cover": {
+                "directory": null,
+                "url": null
+            },
+            "info": {
+                "note": [
+                    "大王町波切（波切神社、波切漁港周辺、須場の浜）",
+                    "ダンダラボッチ伝説に由来し、巨大な「わらじ」を海へ流して、海上安全や大漁を祈願する伝統的な祭り"
+                ],
+                "link": null
+            }
+        },
+        {
+            "date": {
+                "month": 11,
+                "date": 23
+            },
+            "title": [
+                "二船祭",
+                "三重県鳥羽市国崎町の海沿い"
+            ],
+            "description": "海士潜女（あまさきくぐめ）神社の祭礼",
+            "note": [
+                "November 23th every year",
+                "毎年 十一月二十三日"
+            ],
+            "cover": {
+                "directory": null,
+                "url": null
+            },
+            "info": {
+                "note": [
+                    "若者が2隻の小船に5人ずつ乗り込み、海上で速さを競い合う、古くから伝わる伝統行事"
+                ],
+                "link": null
+            }
+        },
+        {
+            "date": {
+                "month": 11,
+                "date": 23
+            },
+            "title": [
+                "安楽島の御魚取神事",
+                "伊射波神社（かぶらこさん）"
+            ],
+            "description": "志摩国一の宮として、海の安全と恵みを祈る重要な神事",
+            "note": [
+                "November 23th every year",
+                "毎年 十一月二十三日 午前十時"
+            ],
+            "cover": {
+                "directory": null,
+                "url": null
+            },
+            "info": {
+                "note": null,
+                "link": null
+            }
+        }
+    ],
+    "map": {
+        "center": [
+            136.80879585489942,
+            34.38016650380497
+        ],
+        "bounds": [
+            [
+                136.6898662026644,
+                34.22327863815501
+            ],
+            [
+                137.02022811945398,
+                34.583870246371276
+            ]
+        ],
+        "zoom": 10.55
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.8449928780596,
+                    34.49027326923054
+                ],
+                "address": "〒517-0011 三重県鳥羽市鳥羽１丁目"
+            },
+            "properties": {
+                "title": "みなとオアシスとば",
+                "description": "市営定期船のターミナルとして離島への定期船が発着",
+                "note": [
+                    "1階には鳥羽マリンターミナル、2階には鳥羽湾を一望できる交流ラウンジや交流デッキを設置",
+                    "（伊勢志摩と三河を結ぶ最短ルート「伊勢湾フェリー」も発着）"
+                ],
+                "links": [
+                    {
+                        "text": "市営定期船／鳥羽市ホームページ",
+                        "url": "https://www.city.toba.mie.jp/soshiki/t_kanri/gyomu/doro_kotsu/kokyo_kotsu/1913.html",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "鳥羽マリンターミナル - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/鳥羽マリンターミナル",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "鳥羽マリンターミナル - Google マップ",
+                        "url": "https://maps.app.goo.gl/VpdJgDpWCDJBkxgQ6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.9824099371881,
+                    34.54672775628822
+                ],
+                "address": "日本 〒517-0001 三重県鳥羽市神島町"
+            },
+            "properties": {
+                "title": "神島",
+                "description": "名が示すように「神の支配する島」と信じられていた離島",
+                "note": [
+                    "志摩諸島で本土から最も遠い島で、古くは「歌島（かじま）・亀島・甕島」などと呼ばれた",
+                    "石灰岩が風化してできた独特の景観の「カルスト地形」があり、白い塔のようにそびえ立つカルスト地形と海の青さのコントラストが神秘的",
+                    "島の北部に鎮座する八代神社には、古墳時代から室町時代にわたる総数百余点の神宝が秘蔵されている",
+                    "<u>アクセス</u><br>鳥羽市営定期船：鳥羽港鳥羽港佐田浜（鳥羽マリンターミナル）より所要時間 36-46分<br>（鳥羽水族館近くの中之郷港からも乗船可能）"
+                ],
+                "links": [
+                    {
+                        "text": "神島 (三重県) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/神島_(三重県)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "神島のカルスト地形 - Google マップ",
+                        "url": "https://maps.app.goo.gl/Vyw5rBAezkNRE2zN9",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "八畳岩 - Google マップ",
+                        "url": "https://maps.app.goo.gl/iJxRHhtNNsJa8XrY6",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "八代神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/h93VeF9S7VbzdU717",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 14.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.9002230603976,
+                    34.49844771698922
+                ],
+                "address": "菅島町"
+            },
+            "properties": {
+                "title": "菅島",
+                "description": "毎年7月第2土曜日に鳥羽を代表する海女の祭り「しろんご祭り」が開催される、海女が暮らす離島",
+                "note": [
+                    "島の西部にある福浦で縄文土器や弥生土器、古墳が発見されており、太古の時代から人々の居住があったことが分かっている"
+                ],
+                "links": [
+                    {
+                        "text": "菅島 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/菅島",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "菅島 - Google マップ",
+                        "url": "https://maps.app.goo.gl/etbdNfQvasG9n1Be7",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "菅島神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/mFdfogfgrbzjrDhs5",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "しろんご浜 - Google マップ",
+                        "url": "https://maps.app.goo.gl/va7saFW64qf9QFEQ7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.8415645,
+                    34.48851637
+                ],
+                "address": "三重県鳥羽市鳥羽1-24-26"
+            },
+            "properties": {
+                "title": "戸田家",
+                "description": "鳥羽湾を一望する絶好のロケーションにある天保元年（1830年）創業の老舗旅館",
+                "note": [
+                    "戸田家の湯めぐりは男女あわせて13湯・足湯2湯・岩盤浴20床（個性豊かな5種類の貸切風呂も無料）"
+                ],
+                "links": [
+                    {
+                        "text": "【戸田家】伊勢志摩･鳥羽の旅館なら伊勢志摩国立公園 戸田家",
+                        "url": "https://www.todaya.co.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "戸田家 - Google マップ",
+                        "url": "https://maps.app.goo.gl/rB87fvMyY6AwXEzm8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.83824444452924,
+                    34.48962222205268
+                ],
+                "address": "三重県鳥羽市鳥羽1-22-19"
+            },
+            "properties": {
+                "title": "浜離宮",
+                "description": "志摩・鳥羽の中では希少な自家源泉100%の天然温泉宿",
+                "links": [
+                    {
+                        "text": "鳥羽小浜温泉 あわらぎの湯 浜離宮【公式】",
+                        "url": "http://www.hamarikyu.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "浜離宮 - Google マップ",
+                        "url": "https://maps.app.goo.gl/kJZmTeQ1dA2xfptg7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.84379419486,
+                    34.486086890785
+                ],
+                "address": "三重県鳥羽市鳥羽1-8-7"
+            },
+            "properties": {
+                "title": "ザ・貝屋",
+                "description": "ＪＲ鳥羽駅前にあるサザエストリートにある焼貝の専門店（営業時間 10:00 - 17:00）",
+                "note": null,
+                "links": [
+                    {
+                        "text": "鳥羽で貝を食べるなら「ザ・貝屋」｜海鮮焼き,鳥羽駅",
+                        "url": "https://www.the-kaiya-toba.com/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "ザ・貝屋 - Google マップ",
+                        "url": "https://maps.app.goo.gl/p3gvvkN5a1ehL3yV8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.8442836,
+                    34.48439
+                ],
+                "address": "三重県鳥羽市鳥羽1-6-19"
+            },
+            "properties": {
+                "title": "お食事処 ふる里館",
+                "description": "地元の魚介を気軽に楽しめる食事処（営業時間 11:00 - 17:00）",
+                "note": null,
+                "links": [
+                    {
+                        "text": "ふる里館 - Google マップ",
+                        "url": "https://maps.app.goo.gl/t9UGvC9DWzXSUK6w6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.8408036,
+                    34.4828875
+                ],
+                "address": "三重県鳥羽市鳥羽2-4-3"
+            },
+            "properties": {
+                "title": "鳥羽 久兵衛",
+                "description": "酒は三重県産・魚は地元の魚介類・鶏は伊勢鶏、1971年創業の鳥羽で一番古い居酒屋（営業時間 18:00 - 24:00）",
+                "note": null,
+                "links": [
+                    {
+                        "text": "安心して飲める鳥羽の居酒屋「鳥羽 久兵衛」",
+                        "url": "https://pc-nct.biz/kyube/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "久兵衛 - Google マップ",
+                        "url": "https://maps.app.goo.gl/p3Jruhdnxa6KkAkg7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.83986388895246,
+                    34.48350000000662
+                ],
+                "address": "三重県鳥羽市鳥羽2-9"
+            },
+            "properties": {
+                "title": "賀多神社",
+                "description": "鳥羽春祭りには神社の例祭が行われ、能楽が奉納される",
+                "note": [
+                    "20年ごとに遷宮を行っており、外宮の別宮である多賀宮と月夜見宮の古材を用いて、20年ごとに遷宮が行われる",
+                    "（映画『ゴジラ』の神楽のシーンは賀多神社の能を撮影したもの）"
+                ],
+                "links": [
+                    {
+                        "text": "賀多神社",
+                        "url": "http://katajinja.or.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "賀多神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/賀多神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "賀多神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/T8fPu8qApmEiBFRN9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.8147023976337,
+                    34.48497225234625
+                ],
+                "address": "〒516-0021 三重県伊勢市朝熊町１−１１"
+            },
+            "properties": {
+                "title": "伊勢志摩中央市場 ザ・朝市",
+                "description": "鳥羽の昼食＆お土産はおまかせ！季節の魚貝がたくさんの海産物店（営業時間 8:00 - 17:00）",
+                "note": null,
+                "links": [
+                    {
+                        "text": "伊勢志摩中央市場 ザ・朝市",
+                        "url": "https://www.the-asaichi.co.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "（株）伊勢志摩中央市場ザ朝市 - Google マップ",
+                        "url": "https://maps.app.goo.gl/AcjfEBiDrDrw2eVP7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.87408051,
+                    34.47340208
+                ],
+                "address": "安楽島町加布良古1210"
+            },
+            "properties": {
+                "title": "伊射波神社",
+                "description": "鳥羽の三女神（志摩国の海上守護神）を祀る志摩国一宮",
+                "note": [
+                    "海に向かって鳥居が建っており、昭和初期までは海岸まで船で来て参拝したという",
+                    "加布良古崎（かぶらこざき）にあるため、地元では「かぶらこさん」とも呼ばれる",
+                    "<u>アクセス</u><br>鳥羽駅（JR東海参宮線または近鉄鳥羽線）から「かもめバス（鳥羽市コミュニティバス、安楽島行き）」で「安楽島バス停」下車 （下車後徒歩約40分）"
+                ],
+                "links": [
+                    {
+                        "text": "伊射波神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/伊射波神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "志摩國一之宮 伊射波神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/USTRZKc3LgXvvXtu9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.7990305550893,
+                    34.331880555682716
+                ],
+                "address": "三重県志摩市阿児町鵜方875-20"
+            },
+            "properties": {
+                "title": "横山展望台",
+                "description": "真珠養殖の一大産地であり、日本有数のリアス海岸美を誇る「英虞湾」の大パノラマが一望",
+                "note": [
+                    "横山園地に設置されている展望台は森の中の遊歩道で繋がっていて、初心者でも楽しみながらハイキングができるコースが多数"
+                ],
+                "links": [
+                    {
+                        "text": "横山展望台・横山ビジターセンター",
+                        "url": "https://chubu.env.go.jp/nature/yokoyama/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "横山展望台でハイキング！英虞湾一望の横山園地で豊かな自然を楽しもう | 観光特集",
+                        "url": "https://www.iseshima-kanko.jp/feature/yokoyamawalk",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "横山展望台 - Google マップ",
+                        "url": "https://maps.app.goo.gl/idcSg3HYQALYet5Y6",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "横山展望台 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/横山展望台",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.84116084,
+                    34.28771443
+                ],
+                "address": "大王町波切2199"
+            },
+            "properties": {
+                "title": "ともやま公園",
+                "description": "伊勢志摩国立公園の中央部、三方を英虞湾に囲まれた自然公園",
+                "note": [
+                    "園内にはビジターセンターや芝生広場などの施設もあり"
+                ],
+                "links": [
+                    {
+                        "text": "ともやま公園事務所／志摩市ホームページ",
+                        "url": "https://www.city.shima.mie.jp/kakuka/tomoyama/index.html",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "ともやま公園 - Google マップ",
+                        "url": "https://maps.app.goo.gl/AGMpbEZEVEvJtRYu5",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "登茂山 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/登茂山",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 13.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.90174577707245,
+                    34.27843014793396
+                ],
+                "address": "〒517-0603 三重県志摩市大王町波切"
+            },
+            "properties": {
+                "title": "大王崎",
+                "description": "断崖にくだける黒潮のしぶきの壮観な光景、航海の難所",
+                "note": [
+                    "大王埼灯台のある城山から波切神社のある宮山までを指す、遠州（えんしゅう）灘と熊野灘を二分するように突出している岬"
+                ],
+                "links": [
+                    {
+                        "text": "大王崎 - Google マップ",
+                        "url": "https://maps.app.goo.gl/XFrHYukcYJGhGDaQ6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.76700368,
+                    34.27799654
+                ],
+                "address": "Shimacho Goza"
+            },
+            "properties": {
+                "title": "石仏地蔵尊",
+                "description": "志摩半島の先端の御座港の一角にある、干潮時に現れる石仏地蔵尊",
+                "note": [
+                    "満潮になると海に沈み、潮が引くとその姿を現す、全国的にも珍しい海中地蔵"
+                ],
+                "links": [
+                    {
+                        "text": "石仏地蔵尊 - Google マップ",
+                        "url": "https://maps.app.goo.gl/CBN9ARAgURxaELR5A",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15.5
+            }
+        }
+    ]
+}

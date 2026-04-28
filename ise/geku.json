@@ -1,0 +1,505 @@
+{
+    "type": "FeatureCollection",
+    "url": "?id=ise&name=geku",
+    "title": [
+        "Toyouke Dai-Jingu (Geku), Ise Mie",
+        "豊受大神宮（外宮）の摂末社"
+    ],
+    "description": "三重県伊勢市・鳥羽市に分布する、外宮が管理する16の摂社（せっしゃ）と8の末社（まっしゃ）",
+    "info": {
+        "note": [
+            ""
+        ],
+        "links": [
+            {
+                "text": "神宮（伊勢神宮） Jingu, Ise Mie",
+                "url": "../?id=ise",
+                "target": "_self"
+            },
+            {
+                "text": "志摩国（志摩・鳥羽） Shima (Toba - Shima), Mie",
+                "url": "../?id=ise&area=shima",
+                "target": "_self"
+            },
+            {
+                "text": "摂末社 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/摂末社",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            136.7028817751551,
+            34.48646897084477
+        ],
+        "bounds": [
+            [
+                136.63765738742654,
+                34.38671769916034
+            ],
+            [
+                136.9303437927751,
+                34.56375300573832
+            ]
+        ],
+        "zoom": 11.75
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.6948996472966,
+                    34.494860872336986
+                ]
+            },
+            "properties": {
+                "title": "草奈伎神社 くさなぎ",
+                "description": "外宮の中でも格式の高い神社、外宮摂社第1位",
+                "note": [
+                    "同じ社地には外宮摂社第2位の「大間国生神社（おおまくなり）」が同座する",
+                    "20年に1度の社殿の造り替えが行われてきたほか、他の摂社以下の神社に比べ多くの祭祀が行われる"
+                ],
+                "links": [
+                    {
+                        "text": "草奈伎神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/草奈伎神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "草奈伎神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/uXHq93VXYMzsBWwJ9",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "大間国生神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/RYCVE52g91P1KFmy8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.70210734143785,
+                    34.48883482823615
+                ]
+            },
+            "properties": {
+                "title": "度会国御神社 わたらいくに",
+                "description": "外宮の宮域内に鎮座する、外宮摂社3位",
+                "note": [
+                    "創建当初の鎮座地は山田前田村であったとされる、外宮の鎮座（雄略天皇22年）以前よりあったと考えられている神社",
+                    "周辺には外宮末社8社の第7位「大津神社（おおつ）」がある"
+                ],
+                "links": [
+                    {
+                        "text": "度会国御神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/度会国御神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "度会国御神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/uSz6hzd3ebaNJXq67",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "大津神社 (伊勢市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/大津神社_(伊勢市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "大津神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/BvsJZ9DQANBDddgq6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.70810293628972,
+                    34.485078778842706
+                ]
+            },
+            "properties": {
+                "title": "度会大国玉比賣神社 わたらいおおくにたま",
+                "description": "外宮の宮域林（神宮林）に鎮座する、外宮摂社4位",
+                "note": [
+                    "境内の参道とは直接つながっておらず、外宮の宮域に沿って進むと参道口が現れる",
+                    "境内は昼間でも暗いほどの鬱蒼とした大木に囲まれていて、周辺には外宮末社8社の第1位「伊我理神社（いがり）」・第3位「井中神社（いなか）」が鎮座する"
+                ],
+                "links": [
+                    {
+                        "text": "度会大国玉比賣神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/度会大国玉比賣神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "度会大国玉比賣神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/osCCpLsGRv15rHPd8",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "伊我理神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/伊我理神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "伊我理神社､井中神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/MStKsRBXwD7SWfHJ9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.70743888458287,
+                    34.48064123524142
+                ]
+            },
+            "properties": {
+                "title": "田上大水神社 たのえおおみず",
+                "description": "外宮宮域・高倉山の南に鎮座する、外宮摂社第5位",
+                "note": [
+                    "同じ社地には外宮摂社第6位の「田上大水御前神社（たのえおおみずみまえ）」が同座",
+                    "また、高倉山南東の端には外宮摂社第13位の「山末神社（やまずえ）」が鎮座する"
+                ],
+                "links": [
+                    {
+                        "text": "田上大水神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/田上大水神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "田上大水神社､田上大水御前神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/YFTAuk2bhU1hLLpF9",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "山末神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/山末神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "山末神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/4Ch2xv9HJbjfM25L7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.689389585402,
+                    34.48972974161224
+                ]
+            },
+            "properties": {
+                "title": "志等美神社・大河内神社",
+                "description": "宮川の洪水から地域を守る堤防の守護神、外宮摂社第7位（しとみ）・8位（おおこうち）",
+                "note": [
+                    "同じ社地には外宮末社8社の第4位の「打懸神社（うちかけ）」が同座"
+                ],
+                "links": [
+                    {
+                        "text": "志等美神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/志等美神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "志等美神社・大河内神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/xPTpMdiN7PmMMwsf7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.69672917197244,
+                    34.49501376949195
+                ]
+            },
+            "properties": {
+                "title": "清野井庭神社 きよのいば",
+                "description": "鎮座地近隣の灌漑用水の神、外宮摂社第9位",
+                "links": [
+                    {
+                        "text": "清野井庭神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/清野井庭神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "清野井庭神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/8ZuivUpWnYoY1y2g7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.70627920821397,
+                    34.49300575536763
+                ]
+            },
+            "properties": {
+                "title": "高河原神社 たかがわら",
+                "description": "外宮別宮「月夜見宮」の宮域に同座する、外宮摂社第10位",
+                "links": [
+                    {
+                        "text": "高河原神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/高河原神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "高河原神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/gdMwqgxtBq9Exxeh9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.7214667502817,
+                    34.514789705767754
+                ]
+            },
+            "properties": {
+                "title": "河原神社 かわら",
+                "description": "水田の中に茂る森の中に鎮座する、外宮摂社第11位",
+                "note": [
+                    "同じ社地には外宮末社8社の第6位の「毛理神社（もり）」が同座"
+                ],
+                "links": [
+                    {
+                        "text": "河原神社 (伊勢市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/河原神社_(伊勢市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "河原神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/okEv9CxqPKjrDPdA8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.71450549275107,
+                    34.498907134262936
+                ]
+            },
+            "properties": {
+                "title": "河原淵神社 かわら",
+                "description": "水地域の氏神「船江上社」などが同座する、外宮摂社第12位",
+                "links": [
+                    {
+                        "text": "河原淵神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/河原淵神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "河原淵神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/BqVEJVgmC54mZCAJ7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.69861733569445,
+                    34.50571666355485
+                ]
+            },
+            "properties": {
+                "title": "宇須乃野神社 うすのの",
+                "description": "山田原を構成する原野の1つである宇須野（宇須乃野）にゆかりの深い神社、外宮摂社第14位",
+                "note": [
+                    "同じ社地には外宮末社8社の第2位の「県神社（あがた）」が同座"
+                ],
+                "links": [
+                    {
+                        "text": "宇須乃野神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/宇須乃野神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "宇須乃野神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/5MAxZNTM2ndC5zxZ9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.7368780663295,
+                    34.51212165274703
+                ]
+            },
+            "properties": {
+                "title": "御食神社 みけ",
+                "description": "地域住民からは産土神として信仰され「辰神さん」と呼ばれている、外宮摂社第15位",
+                "note": [
+                    "伊勢の海の玄関口として栄えた三重県伊勢市神社港（かみやしろこう）に鎮座する",
+                    "新年最初の辰の日に「お水取り」が行われる"
+                ],
+                "links": [
+                    {
+                        "text": "御食神社 (伊勢市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/御食神社_(伊勢市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "御食神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/ZusYuMrHnzWb2QJ97",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.67921385624174,
+                    34.50450535646442
+                ]
+            },
+            "properties": {
+                "title": "小俣神社 おばた",
+                "description": "外宮摂社としては唯一宮川の外側（西岸）に鎮座する、外宮摂社第16位",
+                "note": [
+                    "神宮式年遷宮の対象となり、20年に一度建て替えられる",
+                    "地元では氏神の祭礼当日に小俣神社へ参拝する風習がある"
+                ],
+                "links": [
+                    {
+                        "text": "小俣神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/小俣神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "小俣神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/ynoy9MfQKHJGhs3b9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.84570580392767,
+                    34.47153284552819
+                ],
+                "address": "日本 〒517-0011 三重県鳥羽市鳥羽５丁目２番"
+            },
+            "properties": {
+                "title": "赤崎神社 あかさき",
+                "description": "伊勢神宮を構成する125社のうち鳥羽市に鎮座する唯一の神社（外宮末社8社の第5位）",
+                "note": [
+                    "鳥羽湾内の海岸から外宮に奉納する御贄（みにえ）採取の守り神とされる",
+                    "毎年6月22日に夏の到来を告げる鳥羽を代表する祭り「赤崎祭（あかさきまつり）」が行われる"
+                ],
+                "links": [
+                    {
+                        "text": "赤崎神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/赤崎神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "赤崎神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/jFtAvnyYoonLDTiW7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.72976167509307,
+                    34.526215015221666
+                ]
+            },
+            "properties": {
+                "title": "志宝屋神社 しおや",
+                "description": "製塩業が盛んに行われていた鎮座地の塩業の神（外宮末社8社の第8位）",
+                "note": [
+                    "20世紀までは造船の街であった伊勢市大湊町に鎮座",
+                    "周囲を堤防で囲まれていて、神社の森は「鵜の森」と呼ばれる"
+                ],
+                "links": [
+                    {
+                        "text": "志宝屋神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/志宝屋神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "志宝屋神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/3aS2DPNBMHePJh8W7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        }
+    ]
+}

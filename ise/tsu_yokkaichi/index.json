@@ -1,0 +1,257 @@
+{
+    "type": "FeatureCollection",
+    "url": "?id=ise&area=tsu_yokkaichi",
+    "title": [
+        "Yokkaichi - Tsu, Mie",
+        "伊勢平野"
+    ],
+    "description": "三重県の人口の大半が集中する、四日市・津などの都市が集まる政治・経済・文化の中心",
+    "info": {
+        "markdown": "../ise/tsu_yokkaichi/README.md",
+        "links": [
+            {
+                "text": "三重県津市の観光情報サイト「津の時間」 - 津市観光協会",
+                "url": "https://tsukanko.jp/",
+                "target": "_blank"
+            },
+            {
+                "text": "令和7年度 県・市指定無形文化財・無形民俗文化財の実施予定｜津市公式ウェブサイト",
+                "url": "https://www.info.city.tsu.mie.jp/kosodate_kyouiku/kyouikuiinkai/1004357/1004663/1004674.html",
+                "target": "_blank"
+            },
+            {
+                "text": "津市 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/津市",
+                "target": "_blank"
+            },
+            {
+                "text": "亀山市 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/亀山市",
+                "target": "_blank"
+            },
+            {
+                "text": "鈴鹿市 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/鈴鹿市",
+                "target": "_blank"
+            },
+            {
+                "text": "四日市市 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/鈴鹿市",
+                "target": "_blank"
+            },
+            {
+                "text": "伊勢平野 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/伊勢平野",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            136.45701851100142,
+            34.77952545618976
+        ],
+        "bounds": [
+            [
+                136.25571336229365,
+                34.64445491736643
+            ],
+            [
+                136.77187760417257,
+                35.069805950473
+            ]
+        ],
+        "zoom": 11
+    },
+    "events": [
+        {
+            "date": {
+                "month": 8,
+                "date": [
+                    13,
+                    14,
+                    15,
+                    16,
+                    24
+                ]
+            },
+            "title": [
+                "かんこ踊り",
+                "Kanko Odori"
+            ],
+            "description": "松坂市・津市 🥁 Matsuzaka - Tsu City, Mie",
+            "note": [
+                "August 13 - 16th and 24th every year",
+                "毎年 八月十三日から十六日・二十四日"
+            ],
+            "info": {
+                "markdown": "../kankoodori/README.md",
+                "links": [
+                    {
+                        "text": "かんこ踊り Kanko Odori",
+                        "url": "../?id=kankoodori",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 10,
+                "date": "中旬"
+            },
+            "title": [
+                "津まつり",
+                "津市中央"
+            ],
+            "description": "約400年の歴史を誇る伝統行事、三重県内最大規模の祭り",
+            "note": [
+                "Mid-October every year",
+                "毎年 十月中旬 金土日曜日（金曜は前夜祭）"
+            ],
+            "info": {
+                "markdown": "../ise/tsu_yokkaichi/tsumatsuri.md",
+                "links": [
+                    {
+                        "text": "津まつり公式サイト | 約390年の歴史を誇る伝統行事",
+                        "url": "https://tsumatsuri.info/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "津まつり【公式】(@tsumatsuri) • Instagram",
+                        "url": "https://www.instagram.com/tsumatsuri/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "津まつり - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/津まつり",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        }
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.45168406189185, 34.964381769453766
+                ]
+            },
+            "properties": {
+                "title": "椿大神社 つばきおおかみやしろ",
+                "description": "三重県では伊勢神宮・二見興玉神社に次いで3番目に参拝者数の多い神社、伊勢国一宮\n猿田彦大神を祀る神社の総本社「猿田彦大本宮」"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.60128413045692, 34.901295688514594
+                ]
+            },
+            "properties": {
+                "title": "都波岐神社・奈加等神社",
+                "description": "都波岐神社（つばき）は伊勢国一宮\n二社を合併して都波岐奈加等神社とも称される"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.43697064,
+                    34.85491019
+                ],
+                "address": "野村4-4-65"
+            },
+            "properties": {
+                "title": "忍山神社",
+                "description": "神主・忍山宿祢の長女で、景行天皇の王子ヤマトタケルの妻「弟橘姫命」の生誕の地として知られる\n元伊勢｢奈其波志忍山宮(なごはしのおしやまのみや)｣とも"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.42828034,
+                    34.85733124
+                ],
+                "address": "布気町1663"
+            },
+            "properties": {
+                "title": "布氣皇舘太神社",
+                "description": "元伊勢｢奈其波志忍山宮(なごはしのおしやまのみや)｣とも\n現在は｢式内社 布氣神社｣が当社に、｢式内社 忍山神社｣と元伊勢が忍山神社にということで概ね落ち着いているように見受けられます"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.54175094,
+                    34.84477201
+                ],
+                "address": "三重県鈴鹿市稲生町7992"
+            },
+            "properties": {
+                "title": "鈴鹿サーキット",
+                "description": "日本のモータースポーツの聖地"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.55227499988345,
+                    34.83732777780957
+                ],
+                "address": "三重県鈴鹿市稲生西2-24-20"
+            },
+            "properties": {
+                "title": "伊奈冨神社",
+                "description": "伊勢国総社の推定神社の一つ。紫つつじの名所"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.50145801096312,
+                    34.71493981619409
+                ]
+            },
+            "properties": {
+                "title": "力士料理 金鍋",
+                "description": "津餃子も有名なちゃんこ鍋屋（旅館併設）",
+                "note": [
+                    "営業時間 17:00～22:00"
+                ],
+                "links": [
+                    {
+                        "text": "三重県･津市/居酒屋/宴会/ちゃんこ･力士料理 金鍋/心の宿みかさ旅館",
+                        "url": "https://www.ztv.ne.jp/maruchi/mikasa/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "力士料理 金鍋 - Google マップ",
+                        "url": "https://maps.app.goo.gl/YcKPKkWQxif3rFyg8",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "みかさ旅館 - Google マップ",
+                        "url": "https://maps.app.goo.gl/EMxTAV6P8bC6M8nT7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        }
+    ]
+}

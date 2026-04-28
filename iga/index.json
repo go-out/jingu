@@ -1,0 +1,652 @@
+{
+    "type": "FeatureCollection",
+    "url": "?id=iga",
+    "title": [
+        "Iga - Nabari - Soni, Mie and Nara",
+        "伊賀国（伊賀・名張）と曽爾高原"
+    ],
+    "description": "峨々（がが）たる山々に囲まれた自然の要塞、谷あいの盆地に潜む「忍びの国」",
+    "info": {
+        "markdown": "../iga/README.md",
+        "links": [
+            {
+                "text": "伊賀国 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/伊賀国",
+                "target": "_blank"
+            },
+            {
+                "text": "伊賀 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/伊賀",
+                "target": "_blank"
+            },
+            {
+                "text": "伊賀市 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/伊賀市",
+                "target": "_blank"
+            },
+            {
+                "text": "名張市 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/名張市",
+                "target": "_blank"
+            },
+            {
+                "text": "上野盆地 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/上野盆地",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            136.15090675,
+            34.69128311
+        ],
+        "bounds": [
+            [
+                135.94106772990915,
+                34.42860838118321
+            ],
+            [
+                136.32122338632968,
+                34.902277014241946
+            ]
+        ],
+        "zoom": 10.25
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.09330057886189,
+                    34.61901594717675
+                ],
+                "address": "三重県名張市平尾3319"
+            },
+            "properties": {
+                "title": "宇流冨志禰神社",
+                "description": "元伊勢「隠市守宮（なばりいちのもりのみや）」の比定地の一つ",
+                "note": [
+                    "主祭神「宇奈根命」は水・穀物の神であり、名の由来は元々の御神体である赤岩が置かれている場所が名張川のうねりの側にあることから、うねる→うなね（宇奈根）となったと伝わる<br>また、「潤うふし水」が元となり、「宇流冨志禰（うるふしね）」と名付けられたと伝わる",
+                    "「春日社記」では、神護景雲元年（767年）に武甕槌神が鹿島神宮（茨城県）から春日大社（奈良県）へ遷祀する際に、当地に留まったのが起源とされている"
+                ],
+                "links": [
+                    {
+                        "text": "宇流冨志禰神社",
+                        "url": "http://urufushine.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "宇流富志禰神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/宇流富志禰神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "宇流冨志禰神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/1gvp1Nm9cMLuwb327",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.10944893150486,
+                    34.61873171852224
+                ],
+                "address": "〒518-0441 三重県名張市夏見2162番地"
+            },
+            "properties": {
+                "title": "積田神社",
+                "description": "春日大社から「奥の宮」と称され、現在も幣帛を賜わっている（「つむた」または「せきた」）",
+                "note": [
+                    "東側の丘陵地には縄文・弥生時代からの遺跡があり、その頃からこの地周辺に人々が住み着いていたとされる",
+                    "「春日社記」では、神護景雲元年（767年）に武甕槌神が鹿島神宮（茨城県）から春日大社（奈良県）へ遷祀する際に、当地に留まったのが起源とされている"
+                ],
+                "links": [
+                    {
+                        "text": "積田神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/積田神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "積田神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/pKmh7MqNbQUVp6fS7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.11600555525885,
+                    34.568391666677265
+                ],
+                "address": "三重県名張市箕曲中村"
+            },
+            "properties": {
+                "title": "香落渓",
+                "description": "名張川の支流である青蓮寺川の上流域にある静かな峡谷（谷の長さは8kmに及ぶ）",
+                "note": [
+                    "屏風岩・小太郎岩・天狗柱岩・鬼面岩・鹿落岩などと名づけられた奇岩群が人の目を楽しませるほか、茶屋滝・抹揚淵などの名所も見られる",
+                    "一帯は野生動物と植生の宝庫でもあり、特に紅葉の季節には山が真っ赤に色づくことから、関西・中京方面からの観光客で賑わう",
+                    "（香落渓の一部を含む青蓮寺川の最上流域は、奈良県宇陀郡曽爾村に属している）",
+                    "近鉄名張駅より、三重交通バス（山粕西または曽爾高原行き）で約30分"
+                ],
+                "links": [
+                    {
+                        "text": "香落渓 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/香落渓",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "香落渓 - Google マップ",
+                        "url": "https://maps.app.goo.gl/6ojgFj8sraVq3kVD9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.08541944450803,
+                    34.563125
+                ],
+                "address": "三重県名張市赤目町長坂"
+            },
+            "properties": {
+                "title": "赤目四十八滝",
+                "description": "宇陀川支流の滝川渓谷の約4㎞にわたって点在する一連の階段状の滝の総称",
+                "note": [
+                    "古より山岳信仰の聖地であり、地元には「滝参り」という呼び方が今も残る",
+                    "奈良時代には修験道の開祖である役行者（役小角）の修行の場ともなった",
+                    "渓谷とその周辺地域は野生動物と植生の宝庫で、るオオサンショウウオの棲息地として知られる",
+                    "四季折々に楽しめるハイキングコースが整備されており、峠を挟んで香落渓（かおちだに）へとつながっている",
+                    "近鉄大阪線・赤目口駅前バス停より、三重交通の路線バス「11 赤目線 赤目滝行き」で約10分"
+                ],
+                "links": [
+                    {
+                        "text": "忍者修行の里 赤目四十八滝",
+                        "url": "https://www.akame48taki.com/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "赤目四十八滝 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/赤目四十八滝",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "赤目四十八滝 - Google マップ",
+                        "url": "https://maps.app.goo.gl/57e3bGXVs53qNUJx8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 12.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.1468656518287,
+                    34.54247565967957
+                ],
+                "address": "日本 〒633-1201 奈良県宇陀郡曽爾村伊賀見２０３７番地"
+            },
+            "properties": {
+                "title": "川下神社",
+                "description": "香落渓の上流端、巨岩・奇岩の溜り場となっている川中の巨岩上に鎮座する社",
+                "note": [
+                    "「鎧岳」の北東麓・南東には「倶留尊山（くろそやま）」、霊峰に囲まれた古代からの霊地と思われる場所",
+                    "近鉄名張駅より、三重交通バス（山粕西または曽爾高原行き）「山粕西」下車すぐ"
+                ],
+                "links": [
+                    {
+                        "text": "川下神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/o7bYxB6z6PPDJpJi6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.1515361111694,
+                    34.524488888846506
+                ],
+                "address": "奈良県宇陀郡曽爾村大字太良路８３０"
+            },
+            "properties": {
+                "title": "曽爾高原温泉 お亀の湯",
+                "description": "ススキの大海原で有名な曽爾高原の麓にある「美人の湯」と呼ぶにふさわしい温泉",
+                "links": [
+                    {
+                        "text": "曽爾村・曽爾高原の温泉「お亀の湯」キャンプ場「サン・ビレッジ曽爾」",
+                        "url": "https://www.soni-kogen.com/hotspring/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "お亀の湯 - Google マップ",
+                        "url": "https://maps.app.goo.gl/in4ZsuBRk9FgCoCv6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.16048216,
+                    34.51783677
+                ],
+                "address": "奈良県宇陀郡御杖村菅野"
+            },
+            "properties": {
+                "title": "曽爾高原",
+                "description": "倶留尊山（くろそやま）のふもとに広がる約40haの広大なススキの草原",
+                "note": [
+                    "秋には山全体が黄金色のススキに包まれる絶景スポット",
+                    "毎年3月中旬に野焼きが行われ、春から夏にかけては青々とした美しい草原が広がる",
+                    "近鉄名張駅からバスで「曽爾高原」下車（約20分）、または「太良路」下車"
+                ],
+                "links": [
+                    {
+                        "text": "曽爾高原 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/曽爾高原",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "曽爾村 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/曽爾村",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "曽爾高原 - Google マップ",
+                        "url": "https://maps.app.goo.gl/Tj8JNqEDzCqYRF3d7",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "太良路 - Google マップ",
+                        "url": "https://maps.app.goo.gl/61dwWHXaYRCGgTyF7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 13.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.19455403239493,
+                    34.494251845987606
+                ],
+                "address": "奈良県宇陀郡御杖村神末1020"
+            },
+            "properties": {
+                "title": "御杖神社",
+                "description": "奈良県と三重県の境に位置する御杖村の名の由来、元伊勢「佐々波多宮」の比定地の一つ（みつえ）",
+                "note": [
+                    "毎年１１月第１日曜日には秋まつりが開催され、神輿の上で子どもたちが太鼓を叩く太鼓台が、威勢の良いかけ声とともに地域を練り歩きます"
+                ],
+                "links": [
+                    {
+                        "text": "ホーム／御杖村",
+                        "url": "https://www.vill.mitsue.nara.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "御杖神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/御杖神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "御杖神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/EwFgXseamvXtkiPK9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.26013394866368,
+                    34.5121005877331
+                ]
+            },
+            "properties": {
+                "title": "美杉町奥津",
+                "description": "美杉（みすぎ）地域の中核を成す、JR名松線の終着駅「伊勢奥津（おきつ）」が置かれている地区",
+                "note": [
+                    "駅前は商店街で、商店や公共施設などが建ち並び、周囲は山林で山腹には耕地がある",
+                    "また、駅前にある特定非営利活動法人「コルチカムの里」で電動アシスト自転車の無料貸し出しを行っている"
+                ],
+                "links": [
+                    {
+                        "text": "名松線 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/名松線",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "美杉町奥津 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/美杉町奥津",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "伊勢奥津駅 - Google マップ",
+                        "url": "https://maps.app.goo.gl/3JrFKp4TgXZKSSuT6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 13
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.21613433349876,
+                    34.58114008605598
+                ],
+                "address": "日本 〒518-0216 三重県伊賀市高尾４２２９番地"
+            },
+            "properties": {
+                "title": "藤原千方伝承地",
+                "description": "平安時代から語り継がれる鬼伝説の地",
+                "note": [
+                    "忍者の祖とされる4人の荒法師（四鬼）を引き連れ、平安時代に朝廷軍と戦ったという豪族「藤原千方（ちかた）」ゆかりの地"
+                ],
+                "links": [
+                    {
+                        "text": "藤原千方ゆかりの地を訪ねて",
+                        "url": "https://www.igaueno.net/?page_id=4413",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "藤原千方伝承地めぐり その1",
+                        "url": "https://yosuzumex.daa.jp/hibi/chikata/chikata_01.html",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "藤原千方伝承地めぐり その２",
+                        "url": "https://yosuzumex.daa.jp/hibi/chikata/chikata_02.html",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "藤原千方の四鬼 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/藤原千方の四鬼",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 13.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.16388376,
+                    34.67827898
+                ],
+                "address": "比土4724"
+            },
+            "properties": {
+                "title": "伊賀市役所城之越遺跡",
+                "description": "日本庭園のルーツとされる古代祭祀の庭（国の名勝・史跡および三重県指定史跡）",
+                "note": [
+                    "開館時間 9：00 - 16：30 | 休館日 毎週月曜日から木曜日"
+                ],
+                "links": [
+                    {
+                        "text": "城之越遺跡 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/城之越遺跡",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "城之越遺跡 - Google マップ",
+                        "url": "https://maps.app.goo.gl/hCJ9AiQAJYviJ45f6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.15090675,
+                    34.69128311
+                ],
+                "address": "三重県伊賀市上神戸317"
+            },
+            "properties": {
+                "title": "神戸神社",
+                "description": "高天山（金剛山）・三輪山・熱田神宮を結ぶ線上に鎮座、元伊勢「穴穂宮」の比定地の一つ（かんべ）",
+                "note": [
+                    "毎年6月に伊勢神宮へ干鮎1800尾を献納する「初魚掛祭」が行われる"
+                ],
+                "links": [
+                    {
+                        "text": "神戸神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/LTUKaxK7r3Z23mbH8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.14568125034083,
+                    34.71204139628789
+                ],
+                "address": "日本 〒518-0124 三重県伊賀市下郡５９１番地"
+            },
+            "properties": {
+                "title": " 猪田神社",
+                "description": "神奈備山と推される西麓に東面して鎮座する、元伊勢「穴穂宮」の比定地の一つ（いだ）",
+                "note": [
+                    "山の北麓に西面して鎮座する同名社がある"
+                ],
+                "links": [
+                    {
+                        "text": "猪田神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/Lbdoz54M1xxG5AbP8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.1430333328247,
+                    34.71515000025432
+                ],
+                "address": "三重県伊賀市猪田5139"
+            },
+            "properties": {
+                "title": "猪田神社",
+                "description": "神奈備山と推される北麓に西面して鎮座する、元伊勢「穴穂宮」の比定地の一つ（いだ）",
+                "note": [
+                    "山の東麓に西面して鎮座する同名社がある"
+                ],
+                "links": [
+                    {
+                        "text": "猪田神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/2QRZqrEkn9C2dJka9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.12976469,
+                    34.76190451
+                ],
+                "address": "上野西日南町1762"
+            },
+            "properties": {
+                "title": "一乃湯",
+                "description": "石柱門と唐破風屋根の本館が国の登録有形文化財に登録されているる公衆浴場（銭湯）",
+                "note": [
+                    "営業時間 14:00 - 23:00 | 定休日 木曜日",
+                    "風呂の種類 深湯、浅湯、薬湯、電気風呂、水風呂"
+                ],
+                "links": [
+                    {
+                        "text": "一乃湯 (三重県) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/一乃湯_(三重県)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "一乃湯 - Google マップ",
+                        "url": "https://maps.app.goo.gl/9wb1mimRqRnREhL96",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.12854166666668,
+                    34.770375000105965
+                ],
+                "address": "三重県伊賀市上野丸之内"
+            },
+            "properties": {
+                "title": "上野公園",
+                "description": "伊賀上野城・伊賀流忍者博物館・芭蕉翁記念館などが点在する公園",
+                "links": [
+                    {
+                        "text": "伊賀上野城",
+                        "url": "http://igaueno-castle.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "上野城 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/上野城",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "上野公園 - Google マップ",
+                        "url": "https://maps.app.goo.gl/pSMpnRgU7gFNB6Kx7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.16393888897366,
+                    34.78736666679382
+                ],
+                "address": "三重県伊賀市一之宮877"
+            },
+            "properties": {
+                "title": "敢国神社",
+                "description": "伊賀国一宮、元伊勢「敢都美恵宮」の比定地の一つ（あえくに）",
+                "note": [
+                    "旧阿拝郡一帯に勢力を持った「阿閇氏（敢氏/阿閉氏）」の氏神、南宮山（伊賀小富士）が神奈備として祀られたと推測される",
+                    "獅子神楽舞初式（1月3日）、獅子神楽舞上祭（4月17日）、例祭（12月5日）において獅子神楽が奉納される",
+                    "伊賀各地の獅子神楽の原型になるものとされ、三重県指定無形民俗文化財に指定"
+                ],
+                "links": [
+                    {
+                        "text": "敢国神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/敢国神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "敢国神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/qptp5zg3GWx6CztQ9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.24694234,
+                    34.84304734
+                ],
+                "address": "柘植町2280"
+            },
+            "properties": {
+                "title": "都美恵神社",
+                "description": "古くから地域の産土神として祀られる、元伊勢「敢都美恵宮」の比定地の一つ（つみえ）",
+                "note": [
+                    "かつては「霊山中腹の穴師谷（あしだん）」に祀られていたとされる",
+                    "毎年4月5日には例祭があり、都美恵太鼓や獅子舞が奉納される",
+                    "7月の祇園祭では宵宮に奉納花火、翌日の祇園祭では稚児踊りや花笠神事（うちわ取り）が行われる"
+                ],
+                "links": [
+                    {
+                        "text": "都美恵神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/8wYsJLBsZA8SM8ZC9",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "都美恵神社（旧地） - Google マップ",
+                        "url": "https://maps.app.goo.gl/TDAswktVZSUk33XN7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        }
+    ]
+}

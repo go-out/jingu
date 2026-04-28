@@ -1,0 +1,158 @@
+{
+    "type": "FeatureCollection",
+    "url": "?id=ise&area=kuwana_inabe",
+    "title": [
+        "Kuwana - Inbe, Mie",
+        "北勢（桑名・員弁）"
+    ],
+    "description": "宿場町・城下町・港町として栄えた「伊勢国」への東の玄関口",
+    "info": {
+        "markdown": "../ise/kuwana_inabe/README.md",
+        "links": [
+            {
+                "text": "北勢 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/北勢",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            136.62408703836115,
+            35.134567952208016
+        ],
+        "bounds": [
+            [
+                136.38402231970178,
+                34.95975328594895
+            ],
+            [
+                136.77187723226643,
+                35.26318194322995
+            ]
+        ],
+        "zoom": 11
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.62408703836115,
+                    35.134567952208016
+                ],
+                "address": "日本 〒511-0106 三重県桑名市多度町多度１６８１番地"
+            },
+            "properties": {
+                "title": "多度大社 たど",
+                "description": "お伊勢参らば お多度もかけよ お多度かけねば 片参り"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.64574719756934,
+                    35.11846264086658
+                ],
+                "address": "日本 〒511-0117 三重県桑名市多度町下野代３０６８番地"
+            },
+            "properties": {
+                "title": "野志里神社 のじり",
+                "description": "元伊勢「野代宮」の比定地のひとつ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.6769919997118,
+                    35.07438284713619
+                ],
+                "address": "日本 〒511-0811 三重県桑名市東方２１９４番地"
+            },
+            "properties": {
+                "title": "尾野神社",
+                "description": "元伊勢「野代宮」の比定地のひとつ\n\n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.67836025271828,
+                    35.0518019301978
+                ],
+                "address": "日本 〒511-0839 三重県桑名市安永７８７番地"
+            },
+            "properties": {
+                "title": "城南神社",
+                "description": "元伊勢「野代宮」の比定地のひとつ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.72946388880413,
+                    35.02836111068726
+                ],
+                "address": "三重県桑名市長島町浦安333"
+            },
+            "properties": {
+                "title": "ナガシマスパーランド",
+                "description": "西日本有数の絶叫マシンの台数を誇り「東の富士急、西のナガシマ」と並び称されている"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.69670046925222,
+                    35.06808244606232
+                ],
+                "address": "日本 〒511-0021 三重県桑名市川口町４１番地"
+            },
+            "properties": {
+                "title": "伊勢国 一の鳥居",
+                "description": "七里の渡し（しちりのわたし）場跡にある鳥居"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.69460555606418,
+                    35.06542777803209
+                ],
+                "address": "三重県桑名市本町"
+            },
+            "properties": {
+                "title": "春日神社(桑名宗社)",
+                "description": "石取祭（いしとりまつり、いしどりまつり）\n「日本一やかましい祭り」、「天下の奇祭」"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.69244566,
+                    35.07094455
+                ],
+                "address": "桑名663-5"
+            },
+            "properties": {
+                "title": "六華苑",
+                "description": "旧2代目諸戸清六邸（東諸戸邸）の総称。国の重要文化財・名勝。洋館とそれに連なる和館、複数の蔵などの建造物と池泉回遊式日本庭園を持ち、総面積は18,000平方メートル余に及ぶ"
+            }
+        }
+    ]
+}

@@ -1,0 +1,942 @@
+{
+    "type": "FeatureCollection",
+    "url": "?id=ise&name=naiku",
+    "title": [
+        "Kotai Jingu (Naiku), Ise Mie",
+        "皇大神宮（内宮）の摂末社"
+    ],
+    "description": "三重県伊勢市と多気郡に分布する、内宮が管理する27の摂社（せっしゃ）と16の末社（まっしゃ）",
+    "info": {
+        "note": [
+            ""
+        ],
+        "links": [
+            {
+                "text": "神宮（伊勢神宮） Jingu, Ise Mie",
+                "url": "../?id=ise",
+                "target": "_self"
+            },
+            {
+                "text": "神三郡（松阪・多気郡・度会郡） Tsu - Taki - Watarai, Mie",
+                "url": "../?id=ise&area=matsuzaka",
+                "target": "_self"
+            },
+            {
+                "text": "摂末社 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/摂末社",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            136.72504108198467,
+            34.4555004677909
+        ],
+        "bounds": [
+            [
+                136.42593333350283,
+                34.366297221713594
+            ],
+            [
+                136.8187748289298,
+                34.71596998081034
+            ]
+        ],
+        "zoom": 11
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.7530275438633,
+                    34.48756374336746
+                ],
+                "address": "三重県伊勢市二見町茶屋字堅田442-2"
+            },
+            "properties": {
+                "title": "朝熊神社 あさくま",
+                "description": "内宮摂社第1位の格式の高い神社、同じ社地には内宮摂社第2位の「朝熊御前神社（あさくまみまえ）」が同座",
+                "note": [
+                    "他の摂社以下の神社に比べ多くの祭祀が行われる（先に朝熊神社へ参った後、朝熊御前神社に参るのが正式な参拝順序）",
+                    "朝熊川対岸には内宮末社16社の第16位の鏡宮神社（かがみのみや）が鎮座する"
+                ],
+                "links": [
+                    {
+                        "text": "朝熊神社 (伊勢市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/朝熊神社_(伊勢市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "鏡宮神社 (伊勢市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/鏡宮神社_(伊勢市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "朝熊神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/PKzMYb6oQ7Y51f7o6",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "朝熊御前神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/fCFujoi3atNE6XEs9",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "鏡宮神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/uxRzvPGWyZDtYqid9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.6554701393846,
+                    34.45697146486964
+                ],
+                "address": "三重県伊勢市津村町字白木723"
+            },
+            "properties": {
+                "title": "園相神社 そない",
+                "description": "神宮の御園を守る神を祀る、内宮摂社第3位",
+                "note": [
+                    "地域では鎮座地名を取って「白木さん」「しろきの宮」と呼ばれる"
+                ],
+                "links": [
+                    {
+                        "text": "園相神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/園相神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "園相神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/QetDjmhp6fJ4Z42G6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.60757251478657,
+                    34.461238850754185
+                ],
+                "address": "三重県度会郡玉城町山神字岡谷1398"
+            },
+            "properties": {
+                "title": "鴨神社 かも",
+                "description": "神宮125社の中では最難所と言える、大日山の中腹に鎮座する内宮摂社第4位",
+                "note": [
+                    "旧暦の3月16日に「宮田もり神事」という庚申待を行う",
+                    "境内の下を流れる沢は、どんな日照りの日でも枯れたことがないと伝えられる",
+                    "付近に鉄道駅やバス停留所はなく、鎮座地の山神集落までJR参宮線田丸駅より南西へ徒歩約50分（約4.0km）、同線外城田駅より南へ徒歩約53分（約4.3km）離れている"
+                ],
+                "links": [
+                    {
+                        "text": "鴨神社 (玉城町) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/鴨神社_(玉城町)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "鴨神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/3irtXNWt7dq5gnSP8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.62119541580887,
+                    34.47911531705897
+                ],
+                "address": "三重県度会郡玉城町勝田字上ノ山3642"
+            },
+            "properties": {
+                "title": "鴨下神社 かもしも",
+                "description": "鴨神社から神宮を見て下に2.5km離れた所に鎮座する地域の水の神（内宮末社16社の第1位）",
+                "links": [
+                    {
+                        "text": "鴨下神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/鴨下神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "鴨下神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/Xd685o2yu5hksTeE9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.59847738639905,
+                    34.46742857945107
+                ],
+                "address": "日本 〒519-0437 三重県度会郡玉城町積良"
+            },
+            "properties": {
+                "title": "津布良神社 つぶら",
+                "description": "社域は「苔なめらかなり」の形容そのまま（内宮末社16社の第2位）",
+                "note": [
+                    "祭神はこの地の守護神で田野の水の神、内宮の禰宜を務め鎮座地周辺を開拓した荒木田氏との関係が深い"
+                ],
+                "links": [
+                    {
+                        "text": "津布良神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/津布良神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "津布良神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/CsAfbP7HFTVW9uY56",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.72883676537708,
+                    34.472473537869604
+                ]
+            },
+            "properties": {
+                "title": "葭原神社 あしはら",
+                "description": "内宮別宮のひとつ「月読宮」の境内に同座（内宮末社16社の第3位）",
+                "links": [
+                    {
+                        "text": "葭原神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/葭原神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "葭原神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/SVg7CEDCkH9TRL9C7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.64813293,
+                    34.47970577
+                ],
+                "address": "玉城町小社曽根"
+            },
+            "properties": {
+                "title": "小社神社 おごそ",
+                "description": "祭神はこの土地の灌漑用水の神（内宮末社16社の第4位）",
+                "note": [
+                    "内宮の禰宜を務め鎮座地周辺を開拓した荒木田氏が本拠を置いていた地",
+                    "「雨の宮」と呼ばれ、ひでりの折には雨乞祈願が行われたという"
+                ],
+                "links": [
+                    {
+                        "text": "小社神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/小社神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "小社神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/rrneZe6Uhrw5hVNW7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.60450406853727,
+                    34.47678822997949
+                ],
+                "address": "日本 〒519-0435 三重県度会郡玉城町矢野"
+            },
+            "properties": {
+                "title": "田乃家神社 たのえ",
+                "description": "祭神は農家の守り神、内宮摂社第5位",
+                "note": [
+                    "田乃家は田の戸、すなわち御田を耕作する民戸のこと",
+                    "同座する田乃家御前神社（たのえみまえ）は、内宮摂社第6位"
+                ],
+                "links": [
+                    {
+                        "text": "田乃家神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/田乃家神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "田乃家神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/31vaiGEbTGgCyB7MA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.60061896615275,
+                    34.489422399173776
+                ],
+                "address": "日本 〒519-0431 三重県度会郡玉城町蚊野１８１３番地"
+            },
+            "properties": {
+                "title": "蚊野神社 かの",
+                "description": "祭神はこの地方の開拓守護神として田野をうるおす灌漑用水の神、内宮摂社第7位",
+                "note": [
+                    "同座する蚊野御前神社（かのみまえ）は内宮摂社第8位",
+                    "蚊野の松並木に昔の熊野西国街道の名残りを偲ぶことができる"
+                ],
+                "links": [
+                    {
+                        "text": "蚊野神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/蚊野神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "蚊野神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/3AAnksXxY5dEhzcP9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.64907648,
+                    34.50390032
+                ],
+                "address": "小俣町湯田983"
+            },
+            "properties": {
+                "title": "湯田神社 ゆた",
+                "description": "神田を意味する斎田（ゆた）に由来するとされる農耕の守護神を祀る、内宮摂社第9位",
+                "note": [
+                    "神田を開拓したのは内宮の神主であった荒木田氏が本拠を置いていた地",
+                    "毎年12月12日に「摂社日待」という住民が湯田神社に参拝する習慣が残されている"
+                ],
+                "links": [
+                    {
+                        "text": "湯田神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/湯田神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "湯田神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/sgj4THRBEYd7ozrV8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.73709440977785,
+                    34.47596033838218
+                ],
+                "address": "日本 〒516-0014 三重県伊勢市楠部町乙１００６番地１"
+            },
+            "properties": {
+                "title": "大土御祖神社 おおつちみおや",
+                "description": "社地は「茶屋の森」と呼ばれる神宮神田との関わりが深い神社、内宮摂社第10位",
+                "note": [
+                    "敷地内には、土地を守る「宇治乃奴鬼神社（うじのぬき）」が同座する（内宮末社16社の第8位）",
+                    "参道を奥へ進んだところには、内宮摂社第11位の「国津御祖神社（くにつみおや）」・内宮末社16社の第14位の「葦立弖神社（あしだて）」が並んで鎮座する"
+                ],
+                "links": [
+                    {
+                        "text": "大土御祖神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/大土御祖神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "国津御祖神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/国津御祖神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "大土御祖神社・宇治乃奴鬼神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/rEio4p1gY2gxTXKS6",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "国津御祖神社・葦立弖神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/tGAxdKDJkJYT1RQC7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.58370902905148,
+                    34.4838914311444
+                ],
+                "address": "日本 〒519-0438 三重県度会郡玉城町原"
+            },
+            "properties": {
+                "title": "朽羅神社 くちら",
+                "description": "境内は水田の中に浮かぶ緑の小島のように見える、内宮摂社第12位",
+                "note": [
+                    "祭神は農耕神で、社名の「朽羅」は「籠る」（こもる）という意味であり、神の籠る森であることを指していると言われ、鎮座地は「宮田森」と呼ばれる"
+                ],
+                "links": [
+                    {
+                        "text": "朽羅神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/朽羅神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "朽羅神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/A8qxSm6313hRnay56",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.72844709579954,
+                    34.468887020372534
+                ],
+                "address": "日本 〒516-0028 三重県伊勢市中村町６２８番地５０"
+            },
+            "properties": {
+                "title": "宇治山田神社 うじようだ",
+                "description": "興玉の森（おきたまのもり）と呼ばれる小高い丘の上に鎮座する五十鈴川の水の守護神、内宮摂社第13位",
+                "note": [
+                    "敷地内には、内宮末社16社の第13位の「那自賣神社（なじめじんじゃ）」が同座する"
+                ],
+                "links": [
+                    {
+                        "text": "宇治山田神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/宇治山田神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "宇治山田神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/bQZoQsQD9wKGsPwC8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.72154185985704,
+                    34.45990537054166
+                ],
+                "address": "三重県伊勢市宇治今在家町字柏崎153-1"
+            },
+            "properties": {
+                "title": "津長神社 つなが",
+                "description": "宇治橋と対面する鼓ヶ岳の山麓、正前の森に鎮座する内宮摂社第14位",
+                "note": [
+                    "鎮座地の古い地名を「津長原」と言い、五十鈴川を遡上してきた船の船着き場があった",
+                    "敷地内には、内宮末社16社の第6位「新川神社（にいかわ）」と、第7位「石井神社（いわい）」が同座する"
+                ],
+                "links": [
+                    {
+                        "text": "津長神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/津長神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "津長神社・新川神社・石井神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/6SUFZuvpkxBLMSmn6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.77984823560996,
+                    34.50567065368497
+                ],
+                "address": "三重県伊勢市二見町茶屋字堅田442-2"
+            },
+            "properties": {
+                "title": "堅田神社 かただ",
+                "description": "二見浦が内宮と外宮の両宮に納める御塩が生産される契機となった、内宮摂社第15位",
+                "note": [
+                    "祭神は土地の神とされる「佐見都日女命（さみつひめのみこと）」"
+                ],
+                "links": [
+                    {
+                        "text": "堅田神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/堅田神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "堅田神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/T8xaXzFjBqMWBuvRA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.7215553962962,
+                    34.45939804332619
+                ],
+                "address": "三重県伊勢市宇治今在家町字林崎163-1"
+            },
+            "properties": {
+                "title": "大水神社 おおみず",
+                "description": "内宮の神域入り口に架かる宇治橋から約200mのところに鎮座する、内宮摂社第16位",
+                "note": [
+                    "敷地内には、内宮末社16社の第10位「川相神社（かわあい）」と、第11位「熊淵神社（くまぶち）」が同座する"
+                ],
+                "links": [
+                    {
+                        "text": "大水神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/大水神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "大水神社・川相神社・熊淵神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/SoqhSHoJmdFhSSw76",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.74767116154175,
+                    34.488292345539534
+                ],
+                "address": "〒516-0013 三重県伊勢市鹿海町１１９４"
+            },
+            "properties": {
+                "title": "加努弥神社 かぬみ",
+                "description": "田んぼの中に鎮座する、両宮域外に鎮座する神社の中で最も社地が狭い神社（内宮末社16社の第9位）",
+                "links": [
+                    {
+                        "text": "加努弥神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/加努弥神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "加努弥神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/96PRs8cDPPRUcC378",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.78924483059063,
+                    34.50287226890964
+                ],
+                "address": "〒519-0602 三重県伊勢市二見町江９９２"
+            },
+            "properties": {
+                "title": "江神社 え",
+                "description": "音無山東麓に鎮座する五穀豊穣の守護神、内宮摂社第17位",
+                "links": [
+                    {
+                        "text": "江神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/江神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "江神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/Kymztmg51w8Lxmq8A",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.80318715312762,
+                    34.50600681543659
+                ],
+                "address": "三重県伊勢市二見町松下字尾谷1407-5"
+            },
+            "properties": {
+                "title": "神前神社 こうざき",
+                "description": "神崎海岸の南に位置する小井戸口山（こいどぐちやま）の山頂に鎮座する地域の海岸の守護神、内宮摂社第18位",
+                "note": [
+                    "かつて神崎海岸では、贄海神事（にえうみのしんじ）と呼ばれる、天照大神に奉る神饌を採る神事が行われていた",
+                    "同地には、内宮末社16社の第5位「許母利神社（こもり）」・第12位「荒前神社（あらさき）」が同座する"
+                ],
+                "links": [
+                    {
+                        "text": "神前神社 (伊勢市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/神前神社_(伊勢市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "神前神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/XapSc3xSSvVbPJRc9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.8154168606909,
+                    34.496499425118955
+                ],
+                "address": "三重県伊勢市二見町松下字鳥取1687-2"
+            },
+            "properties": {
+                "title": "粟皇子神社 あわみこ",
+                "description": "景勝地・池の浦に臨む岬に鎮座する海岸の守護神、内宮摂社第19位",
+                "note": [
+                    "ホテル「旅荘 海の蝶」の敷地内にあり、ホテルのフロントで一声かけると、敷地内を通って神社へ行くことができる",
+                    "伊勢神宮を構成する125社のうち最も海岸に近い地にある"
+                ],
+                "links": [
+                    {
+                        "text": "伊勢志摩鳥羽の旅館 旅荘 海の蝶(うみのちょう)【公式HP】",
+                        "url": "https://www.uminochou.com/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "粟皇子神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/粟皇子神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "粟皇子神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/SaAKvmFHWxW7rW9x6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.6663249659187,
+                    34.46857965787372
+                ],
+                "address": "三重県伊勢市宇治今在家町字林崎163-1"
+            },
+            "properties": {
+                "title": "川原神社 かわら",
+                "description": "宮川の東岸に鎮座する宮川の守護神、内宮摂社第20位",
+                "links": [
+                    {
+                        "text": "川原神社 (伊勢市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/川原神社_(伊勢市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "川原神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/fyPQiqts1ttghBh29",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.6124891208865,
+                    34.4327085471473
+                ],
+                "address": "三重県伊勢市宇治今在家町字林崎163-1"
+            },
+            "properties": {
+                "title": "久具都比賣神社 くぐつひめ",
+                "description": "東には約90年間運航されてきた「上久具の渡し」と呼ばれた渡し船の跡地がある、内宮摂社第21位",
+                "links": [
+                    {
+                        "text": "久具都比賣神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/久具都比賣神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "久具都比賣神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/uZsYfkXeUNF9HmvX9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.62487703850474,
+                    34.47181383181437
+                ],
+                "address": "日本 〒519-0427 三重県度会郡玉城町宮古"
+            },
+            "properties": {
+                "title": "奈良波良神社 ならはら",
+                "description": "祭神はこの地方の田野の守護神、内宮摂社第22位",
+                "note": [
+                    "奈良波良は「楢原」を意味し、周辺地域がナラの木の多い原野であったことが窺われる"
+                ],
+                "links": [
+                    {
+                        "text": "奈良波良神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/奈良波良神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "奈良波良神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/e8ysaSaDjWQskApV7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.60328643839358,
+                    34.49885001662524
+                ],
+                "address": "日本 〒519-0417 三重県度会郡玉城町上田辺１２５３番地"
+            },
+            "properties": {
+                "title": "棒原神社 すぎはら",
+                "description": "祭神は星の出具合いによって農耕を占うと伝えられている神、内宮摂社第23位",
+                "note": [
+                    "祭神は昴（すばる）に由来する名を持つ神で、この地域で星を利用した占いが行われていたことが窺える"
+                ],
+                "links": [
+                    {
+                        "text": "棒原神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/棒原神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "棒原神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/PF632bFYiKDN9AUH9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.58905980934304,
+                    34.49535461974956
+                ],
+                "address": "日本 〒519-2161 三重県多気郡多気町土羽５０５番地"
+            },
+            "properties": {
+                "title": "御船神社 みふね",
+                "description": "祭神は船路交通の守り神と伝えられる、内宮摂社第24位",
+                "note": [
+                    "同座する牟弥乃神社（むみの）は、内宮の末社16社の第15位"
+                ],
+                "links": [
+                    {
+                        "text": "御船神社 (多気町) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/御船神社_(多気町)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "御船神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/QtP3DvXjCLh7osGz8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.6174070402477,
+                    34.49911645937139
+                ],
+                "address": "日本 〒519-0417 三重県度会郡玉城町上田辺２１４４番地１"
+            },
+            "properties": {
+                "title": "坂手国生神社 さかてくなり",
+                "description": "祭神はこの地方の灌漑用の水を守る神、内宮摂社第25位",
+                "note": [
+                    "潮尾崎（うしおざき）の池と道をはさむ、小高い丘に坂のあたりにあり、社名の由来といわれる"
+                ],
+                "links": [
+                    {
+                        "text": "坂手国生神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/坂手国生神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "坂手国生神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/6eTz8p63xj2s9VaEA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.63770594990535,
+                    34.490293981997254
+                ],
+                "address": "日本 〒519-0415 三重県度会郡玉城町田丸３６０番地"
+            },
+            "properties": {
+                "title": "狭田国生神社",
+                "description": "外城田川左岸に鎮座する川の神と土地の守り神、内宮摂社第26位",
+                "note": [
+                    "地元の人からは「はいこさん」と呼ばれている"
+                ],
+                "links": [
+                    {
+                        "text": "狭田国生神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/狭田国生神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "狭田国生神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/vWeMAx1tPUPZskF18",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.42756456050523,
+                    34.393196779379196
+                ],
+                "address": "〒519-2702 三重県度会郡大紀町三瀬川 字久保海道９４"
+            },
+            "properties": {
+                "title": "多岐原神社 たきはらじんじゃ",
+                "description": "倭姫命を助けた土地の神「真奈胡神」を祀る、皇大神宮（内宮）の摂社27社のうち第27位",
+                "note": [
+                    "宮川本流の右岸にあって、社域は山水の美を兼ねそなえた地",
+                    "最寄駅のJR紀勢本線三瀬谷駅からは3.6km離れており、徒歩で約1時間",
+                    "ここから三瀬坂峠（みせざかとうげ）を越えて瀧原宮の方へ出るのが熊野古道（約1時間）"
+                ],
+                "links": [
+                    {
+                        "text": "多岐原神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/jyudKBviiZUMW5hQ6",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "多岐原神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/多岐原神社",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 13
+            }
+        }
+    ]
+}

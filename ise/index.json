@@ -1,0 +1,956 @@
+{
+    "type": "FeatureCollection",
+    "url": "?id=ise",
+    "title": [
+        "Jingu, Ise Mie",
+        "神宮（伊勢神宮）"
+    ],
+    "description": "神宮の二つの正宮「二所大神宮（皇大神宮・豊受大神宮）」がある、お伊勢参りの中心地",
+    "info": {
+        "markdown": "../ise/README.md",
+        "links": [
+            {
+                "text": "神宮の博物館と市内のモデルコース｜神宮の回り方｜ご参拝・ご祈祷｜伊勢神宮",
+                "url": "https://www.isejingu.or.jp/visit/course/ise.html",
+                "target": "_blank"
+            },
+            {
+                "text": "公益社団法人 伊勢市観光協会 | 伊勢のおすすめ観光スポット・イベント情報",
+                "url": "https://ise-kanko.jp/",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            136.71969571537136,
+            34.46961497558448
+        ],
+        "bounds": [
+            [
+                136.63765738742654,
+                34.38671769916034
+            ],
+            [
+                136.8187748289298,
+                34.56375300573832
+            ]
+        ],
+        "zoom": 12
+    },
+    "date": [
+        "../ise/date.json"
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.71006628465375,
+                    34.490736776951096
+                ],
+                "address": "〒516-0073 三重県伊勢市吹上１丁目１−１ 伊勢市駅手荷物預り所"
+            },
+            "properties": {
+                "title": "伊勢市駅手荷物預かり所",
+                "description": "手荷物預かりと手荷物配送サービス、レンタサイクルを行う伊勢市駅すぐの観光拠点",
+                "note": [
+                    "レンタサイクル 貸出時間 9:00 - 17:00<br>（シティサイクル 10台・電動アシスト自転車 15台・E-Bike 3台）"
+                ],
+                "links": [
+                    {
+                        "text": "伊勢市駅手荷物預かり所 - Google マップ",
+                        "url": "https://maps.app.goo.gl/qcy8T62o1UBt7ViKA",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "レンタサイクル | 公益社団法人 伊勢市観光協会",
+                        "url": "https://ise-kanko.jp/purpose/rentacycle/",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.70672304534008,
+                    34.487943802650534
+                ],
+                "address": "〒516-0074 三重県伊勢市本町１４−６"
+            },
+            "properties": {
+                "title": "外宮前観光サービスセンター",
+                "description": "伊勢神宮外宮の目の前にある、手荷物預かり・レンタサイクルを行う観光拠点",
+                "note": [
+                    "レンタサイクル 貸出時間 8:30 - 16:30<br>（シティサイクル 7台・電動アシスト自転車 5台）"
+                ],
+                "links": [
+                    {
+                        "text": "外宮前観光サービスセンター - Google マップ",
+                        "url": "https://maps.app.goo.gl/oo4Wwon1dMnBYGMC6",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "レンタサイクル | 公益社団法人 伊勢市観光協会",
+                        "url": "https://ise-kanko.jp/purpose/rentacycle/",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.7028817751551,
+                    34.48646897084477
+                ]
+            },
+            "properties": {
+                "title": "豊受大神宮（外宮）",
+                "description": "トヨウケビメの和魂（にきたま）を祀る「正宮」と、3の別宮・数多くの宮社から成る「衣食住・産業の守り神」の聖域",
+                "note": [
+                    "宮域内は左側通行、火除橋・手水舎 → 正宮（御敷地）→ 多賀宮（三ツ石）→ 土宮 → 風宮の順に参拝するのが一般的",
+                    "「多賀宮 たかのみや」<br>トヨウケビメの荒々しい側面・荒ぶる魂「荒御魂」を祀る外宮第⼀の別宮",
+                    "「土宮 つちのみや」<br>外宮の所在地「山田の原」の地主の神を祀る別宮",
+                    "「風宮 かぜのみや」<br>イザナギとイザナミの間に生まれた風を司る一対の神「級長津彦命（シナツヒコ）・級長戸辺命（シナトベ）」を祀る別宮",
+                    "（上記の三宮が鎮座する山は「檜尾山（ひのきおやま）」と呼ばれる）",
+                    "その他、外宮摂社3位「度会国御神社（わたらいくに）」・4位「度会大国玉比賣神社（わたらいおおくにたま）」、外宮末社8社の第1位「伊我理神社（いがり）」・第3位「井中神社（いなか）」・第7位「大津神社（おおつ）」などが宮域に鎮座する"
+                ],
+                "links": [
+                    {
+                        "text": "豊受大神宮（外宮）｜神宮について｜伊勢神宮",
+                        "url": "https://www.isejingu.or.jp/about/geku/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "外宮のモデルコース｜神宮の回り方｜ご参拝・ご祈祷｜伊勢神宮",
+                        "url": "https://www.isejingu.or.jp/visit/course/geku.html",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "トヨウケビメ - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/トヨウケビメ",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "豊受大神宮 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/豊受大神宮",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "多賀宮 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/多賀宮",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "土宮 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/土宮",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "風宮 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/風宮",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "豊受大神宮（伊勢神宮 外宮） - Google マップ",
+                        "url": "https://maps.app.goo.gl/WYFZd82ZBaKUyBEw6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.7059743619164,
+                    34.493110094887925
+                ]
+            },
+            "properties": {
+                "title": "月夜見宮",
+                "description": "月（歴）の神「月読命」を祀る豊受大神宮の別宮（つきよみのみや）",
+                "note": [
+                    "豊受大神宮の4の別宮のうち、唯一正宮の宮域外（外宮北御門から北へ伸びる「神路通 かみじどおり」の先）に鎮座",
+                    "その他、社殿右側の後方には外宮摂社第10位の「高河原神社（たかがわら）」が同座する"
+                ],
+                "links": [
+                    {
+                        "text": "月夜見宮 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/月夜見宮",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "豊受大神宮別宮 月夜見宮 - Google マップ",
+                        "url": "https://maps.app.goo.gl/aZfNfcqmJBwVhTtLA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.70195005371806,
+                    34.49648091711734
+                ],
+                "address": "〒516-0079 三重県伊勢市大世古２丁目１０−１２"
+            },
+            "properties": {
+                "title": "豚捨 本店",
+                "description": "松阪牛のルーツとされる「伊勢牛」の専門店（営業時間 9:00 - 19:00）",
+                "note": [
+                    "明治42年創業、牛肉のしぐれ煮・コロッケの販売も行う精肉店（ぶたすて）",
+                    "（もともと扱っていた豚肉から牛肉に変えたことが店名の由来）"
+                ],
+                "links": [
+                    {
+                        "text": "伊勢肉（黒毛和牛）の精肉店と牛肉料理のお食事処 豚捨",
+                        "url": "https://butasute.com/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "豚捨 本店 - Google マップ",
+                        "url": "https://maps.app.goo.gl/34g2yoWwPY5m9GPM8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.70090553366458,
+                    34.49552070204304
+                ]
+            },
+            "properties": {
+                "title": "一月家",
+                "description": "1914（大正3）年創業、伊勢を代表する大バコ酒場（営業時間 14:00 - 21:00）",
+                "note": [
+                    "名物は伊勢の郷土料理「ふくだめ」「さめたれ」、「湯豆腐」など"
+                ],
+                "links": [
+                    {
+                        "text": "一月家 - Google マップ",
+                        "url": "https://maps.app.goo.gl/iGpajYsKLkm9Ns1v7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.71246091280005,
+                    34.487020544741455
+                ],
+                "address": "三重県伊勢市岩渕1-15-11"
+            },
+            "properties": {
+                "title": "ちとせ",
+                "description": "1917（大正6）年創業、伊勢うどん発祥とされる老舗店（定休日 火・水曜日）",
+                "note": [
+                    "営業時間 11:00 - 14:30（月・木・金）・11:00 - 16:00（土・日）"
+                ],
+                "links": [
+                    {
+                        "text": "Pinnosuke Fujiwara(@iseudon_chitose) • Instagram",
+                        "url": "https://www.instagram.com/iseudon_chitose",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "ちとせ - Google マップ",
+                        "url": "https://maps.app.goo.gl/ohExWp9M6J7wx5ZHA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 18.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.71372780617895,
+                    34.488207998569195
+                ]
+            },
+            "properties": {
+                "title": "宇治山田駅",
+                "description": "天皇や内閣総理大臣が神宮参拝を行う際の乗降駅、建物自体が登録有形文化財",
+                "note":[
+                    "隣の伊勢市駅（旧・山田駅）とともに伊勢神宮外宮の最寄駅",
+                    "（宇治は伊勢神宮内宮の鳥居前町・山田は伊勢神宮外宮の鳥居前町を指す）"
+                ],
+                "links": [
+                    {
+                        "text": "宇治山田駅 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/宇治山田駅",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "宇治山田駅 - Google マップ",
+                        "url": "https://maps.app.goo.gl/dyCdCbnT8Lm4MjE8A",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.71934033383786,
+                    34.46862805456581
+                ],
+                "address": "日本 〒516-0028 三重県伊勢市中村町桜が丘５６番地"
+            },
+            "properties": {
+                "title": "両宮遥拝所",
+                "description": "神宮の二つの正宮「二所大神宮（皇大神宮・豊受大神宮）」を遠くから拝む遥拝所",
+                "note": [
+                    "北方には、伊勢神宮に関する事務をつかさどる機関「神宮司庁」がある"
+                ],
+                "links": [
+                    {
+                        "text": "両宮遥拝所 - Google マップ",
+                        "url": "https://maps.app.goo.gl/RHcjwjTRgeVREJFX8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.7207979109403,
+                    34.46261964707044
+                ],
+                "address": "〒516-0025 三重県伊勢市宇治中之切町１５２"
+            },
+            "properties": {
+                "title": "神宮会館",
+                "description": "神宮の一般財団法人である伊勢神宮崇敬会が運営するお伊勢まいりの宿",
+                "links": [
+                    {
+                        "text": "神宮会館",
+                        "url": "https://www.jingukaikan.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "神宮会館 - Google マップ",
+                        "url": "https://maps.app.goo.gl/mQs5YCoEFtfa2c1i8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.72362134561877,
+                    34.46214640845561
+                ],
+                "address": "三重県伊勢市宇治中之切町52 おかげ横丁"
+            },
+            "properties": {
+                "title": "すし久",
+                "description": "伊勢志摩の郷土料理「てこね寿司」や「麦とろろ」などが味わえる、伊勢女衆の味",
+                "note": [
+                    "営業時間 11:00 - 16:30、毎月一日の早朝（4:45~）には数量限定の「朔日粥」が提供される"
+                ],
+                "links": [
+                    {
+                        "text": "すし久 - おかげ横丁",
+                        "url": "https://okageyokocho.com/main/tenpo/sushikyu/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "すし久 - Google マップ",
+                        "url": "https://maps.app.goo.gl/jQkPxyPdbV9CGudn7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.7231106007224,
+                    34.46234752521869
+                ],
+                "address": "三重県伊勢市宇治中之切町52 おかげ横丁"
+            },
+            "properties": {
+                "title": "ふくすけ",
+                "description": "おかげ横丁入口すぐ、極やわ太麺×濃口だし醤油の伊勢うどん",
+                "note": [
+                    "営業時間 10:00 - 16:30、毎月一日の早朝（4:45~）には数量限定の「朔日うどん」が提供される"
+                ],
+                "links": [
+                    {
+                        "text": "ふくすけ - おかげ横丁",
+                        "url": "https://okageyokocho.com/main/tenpo/fukusuke/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "ふくすけ - Google マップ",
+                        "url": "https://maps.app.goo.gl/JMR2BwdD9aRyHRz68",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.72182276085908,
+                    34.455924591154314
+                ]
+            },
+            "properties": {
+                "title": "宇治橋・五十鈴川",
+                "description": "日常から神聖な世界への架け橋、清めの場「御手洗場」",
+                "note": [
+                    "五十鈴川（いすずがわ）にかかる宇治橋（うじばし）は、皇大神宮・正宮の宮域（内宮）への入り口",
+                    "五十鈴川は、倭姫命が「御裳（神聖な衣服）を洗い清めた清流との伝承から「御裳濯川（みもすそがわ）」とも呼ばれ、川辺には手水舎と同じように清めを行う所「御手洗場（みたらし）」がある",
+                    "御手洗場のすぐ近くに鎮座する「瀧祭神（たきまつりのかみ）」は、地域住民から「おとりつぎさん」と親しまれ、内宮参拝の一番初めに参る習わしがある"
+                ],
+                "links": [
+                    {
+                        "text": "宇治橋 (伊勢市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/宇治橋_(伊勢市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "五十鈴川 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/五十鈴川",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "滝祭神 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/滝祭神",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "瀧祭神 - Google マップ",
+                        "url": "https://maps.app.goo.gl/z3DkJXvKCo4WEvvAA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.72504108198467,
+                    34.4555004677909
+                ]
+            },
+            "properties": {
+                "title": "皇大神宮（内宮）",
+                "description": "天照大神の和魂（にきたま）を祀る「正宮」・別宮「荒祭宮・風日祈宮」など、数多くの宮社から成る「心のふるさと・神の宮」",
+                "note": [
+                    "宮域内は右側通行、御手洗場・瀧祭神 → 正宮 → 荒祭宮（五丈殿・四至神）→ 風日祈宮の順に参拝するのが一般的",
+                    "「荒祭宮 あらまつりのみや」<br>天照大神の荒々しい側面・荒ぶる魂「荒御魂」を祀る内宮第一の別宮",
+                    "「風日祈宮 かざひのみのみや」<br>外宮の風宮と同様に「神風」を吹かせた風雨の神を祀る別宮",
+                    "「大山祇神社・子安神社」<br>内宮の所管社30社のうち第29位（おおやまつみ）と所管社30社のうち第30位（こやす）<br>神路山の山裾にある山の守護神（かつては神宮式年遷宮の最初の祭儀である「山口祭」が催行される地だった）",
+                    "参拝者の休憩所の参集殿では湯茶が用意されているほか、参宮記念品の授与が行われる"
+                ],
+                "links": [
+                    {
+                        "text": "皇大神宮（内宮）｜伊勢神宮",
+                        "url": "https://www.isejingu.or.jp/about/naiku/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "内宮のモデルコース｜神宮の回り方｜ご参拝・ご祈祷｜伊勢神宮",
+                        "url": "https://www.isejingu.or.jp/visit/course/naiku.html",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "天照大神 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/天照大神",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "皇大神宮 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/皇大神宮",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "荒祭宮 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/荒祭宮",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "風日祈宮 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/風日祈宮",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "皇大神宮（伊勢神宮 内宮） - Google マップ",
+                        "url": "https://maps.app.goo.gl/SkKKXG1atrCPXUTWA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.72897181721493,
+                    34.472803128867255
+                ]
+            },
+            "properties": {
+                "title": "月讀宮",
+                "description": "月（歴）の神「月読命」の和魂・荒魂とイザナギ・イザナミを祀る、皇大神宮の四の別宮が並ぶ宮域（つきよみのみや）",
+                "note": [
+                    "四の別宮は左から ④伊佐奈弥宮・③伊佐奈岐宮・①月読宮・②月読荒御魂宮<br>（参拝の順は、①から④ が一般的）",
+                    "その他、四の別宮の南方には内宮末社16社の第3位「葭原神社（あしはら）」が同座する"
+                ],
+                "links": [
+                    {
+                        "text": "月讀宮 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/月讀宮",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "大神宮別宮 月讀宮 - Google マップ",
+                        "url": "https://maps.app.goo.gl/bRgarhxP6Ne6zELW6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.72844709579954,
+                    34.468887020372534
+                ],
+                "address": "日本 〒516-0028 三重県伊勢市中村町６２８番地５０"
+            },
+            "properties": {
+                "title": "奈尾之根宮",
+                "description": "倭姫命が五十鈴宮（五十鈴川のほとり）に至る以前に留まった、最後の元伊勢（なじめじんじゃ）の伝承地",
+                "note": [
+                    "地元では「興玉の森（おきたまのもり）」と呼ばれる小高い丘",
+                    "丘の上には、内宮摂社第13位「宇治山田神社（うじようだ）」・内宮末社16社の第13位「那自賣神社（なじめ）」が同座する"
+                ],
+                "links": [
+                    {
+                        "text": "宇治山田神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/宇治山田神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "宇治山田神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/bQZoQsQD9wKGsPwC8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.74089207303695,
+                    34.47590567547692
+                ]
+            },
+            "properties": {
+                "title": "神宮神田",
+                "description": "神々に捧げられる「御料米」を育てる「神田（しんでん）」",
+                "note": [
+                    "神田の正面にある忌鍬山（ゆくわやま）は、瀧原宮の次の元伊勢「矢田宮」の伝承地",
+                    "（神田の西方に鎮座する「大土御祖神社」は、その次の元伊勢「家田々上宮」の伝承地にあたる）"
+                ],
+                "links": [
+                    {
+                        "text": "神宮神田 - Google マップ",
+                        "url": "https://maps.app.goo.gl/Rw2YXSKGqQCNdPiXA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 14.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.78542994649172,
+                    34.45741989083723
+                ],
+                "address": "〒516-0021 三重県伊勢市朝熊町５４８"
+            },
+            "properties": {
+                "title": "朝熊岳金剛證寺",
+                "description": "「神宮の鬼門を守る寺」として伊勢信仰と結びついた、神仏習合が残る寺院",
+                "note": [
+                    "",
+                    "五十鈴川駅前・浦田町から三重交通「参宮バス」で「金剛證寺」下車",
+                    "* 土日祝日、8月13日～8月15日、12月30日～1月4日のみ運行"
+                ],
+                "links": [
+                    {
+                        "text": "参宮バス - 三重交通",
+                        "url": "https://www.sanco.co.jp/shuttle/post-23/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "金剛證寺 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/金剛證寺",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "金剛證寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/pcbz56z1x4VqtiZx7",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "五十鈴川駅前 - Google マップ",
+                        "url": "https://maps.app.goo.gl/6PuaFzcBBDs4LHJq9",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "浦田町 - Google マップ",
+                        "url": "https://maps.app.goo.gl/7E4pMhbrKnWtswDH6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.72302593856563,
+                    34.48590063877796
+                ],
+                "address": "三重県伊勢市楠部町"
+            },
+            "properties": {
+                "title": "倭姫宮",
+                "description": "伊勢に天照大神を祀った「倭姫命（やまとひめのみこと）」の神域",
+                "note": [
+                    "神宮で最も新しい皇大神宮の境外別宮（やまとひめのみや）",
+                    "周辺には、神宮美術館・神宮文庫などがある「倭姫文化の森」が整備されている"
+                ],
+                "links": [
+                    {
+                        "text": "倭姫宮 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/倭姫宮",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "倭姫宮 - Google マップ",
+                        "url": "https://maps.app.goo.gl/Cr2rZjPVUV88tSSu6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.7209808544343,
+                    34.48772531296599
+                ],
+                "address": "三重県伊勢市楠部町"
+            },
+            "properties": {
+                "title": "倭姫命宇治山田陵墓参考地",
+                "description": "倭姫命（やまとひめのみこと）の陵墓とされる参考地の一つ",
+                "links": [
+                    {
+                        "text": "倭姫命宇治山田陵墓参考地 - Google マップ",
+                        "url": "https://maps.app.goo.gl/QPPNd5NgHMN5YPjs7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.721989511934,
+                    34.47762081727805
+                ],
+                "address": "〒516-0034 三重県伊勢市中之町１０９−３"
+            },
+            "properties": {
+                "title": "麻吉旅館",
+                "description": "かつて栄えていた参宮街道に残る古き日本家屋の姿、江戸の面影が残る老舗旅館",
+                "links": [
+                    {
+                        "text": "麻吉旅館 -Asakichi Ryokan-",
+                        "url": "https://sites.google.com/view/asakichiryokan/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "麻吉旅館 - Google マップ",
+                        "url": "https://maps.app.goo.gl/Ybxxk6KxqUgLqEng9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.71408596576447,
+                    34.494868448914886
+                ],
+                "address": " 〒516-0009 三重県伊勢市河崎２丁目１５−２"
+            },
+            "properties": {
+                "title": "星出館",
+                "description": "大正、昭和レトロな純和風木造建築の小宿",
+                "links": [
+                    {
+                        "text": "星出館 | 和風B&B、昭和より河崎に残る唯一のお宿です。",
+                        "url": "https://www.hoshidekan.jp/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "星出館 - Google マップ",
+                        "url": "https://maps.app.goo.gl/VjTcYQwqXwwSb8ib6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.7167871351105,
+                    34.49192285862988
+                ],
+                "address": " 〒516-0017 三重県伊勢市神久1-1-16"
+            },
+            "properties": {
+                "title": "汐湯・おかげ風呂舘 旭湯",
+                "description": "二見浦から汲みあげた海水を沸かした湯で、禊を体験できる銭湯",
+                "links": [
+                    {
+                        "text": "伊勢市の銭湯 汐湯・おかげ風呂舘 旭湯",
+                        "url": "https://ise-asahiyu.com/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "汐湯・おかげ風呂舘 旭湯 - Google マップ",
+                        "url": "https://maps.app.goo.gl/2Fku8oM2JR4cBJK58",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.78783026628184,
+                    34.50896611981027
+                ],
+                "address": "〒519-0602 三重県伊勢市二見町江５７５"
+            },
+            "properties": {
+                "title": "二見浦",
+                "description": "神宮参拝前に禊（沐浴）を行う所と知られる「二見興玉神社」や「夫婦岩」がある海岸・旅館街",
+                "note": [
+                    "JR二見浦駅から徒歩4分の観光案内所にて、レンタサイクルの貸出あり<br>（貸出時間 9:00〜17:00 | E-BIKE 5台）"
+                ],
+                "links": [
+                    {
+                        "text": "二見浦 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/二見浦",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "二見浦駅 - Google マップ",
+                        "url": "https://maps.app.goo.gl/8uggLDNN6qVkZ2fq5",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "二見興玉神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/二見興玉神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "二見興玉神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/c3HtiEakikFnmVod6",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "二見浦観光案内所 - Google マップ",
+                        "url": "https://maps.app.goo.gl/wdXaURG1SMnYMGVK8",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "レンタサイクル | 公益社団法人 伊勢市観光協会",
+                        "url": "https://ise-kanko.jp/purpose/rentacycle/",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 13.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.79801487044898,
+                    34.506763339704406
+                ],
+                "address": "〒519-0601 三重県伊勢市二見町松下"
+            },
+            "properties": {
+                "title": "神前海岸",
+                "description": "かつて、神に捧げる魚介類を採集する贄海神事（にえうみのしんじ）が行われていた海岸（こうざき）",
+                "note": [
+                    "800m沖合には、大潮の干潮時でないと行くことができない神格化された離島「潜島（くぐりじま）」がある"
+                ],
+                "links": [
+                    {
+                        "text": "神前海岸 - Google マップ",
+                        "url": "https://maps.app.goo.gl/faJehzWHnZ7hAxup7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.77046852776647,
+                    34.51021589062994
+                ],
+                "address": "三重県伊勢市二見町荘唐剣山2019-1"
+            },
+            "properties": {
+                "title": "御塩殿神社",
+                "description": "神事・お祓いに欠かせない「御塩（みしお、堅塩）」を作る設備を備える皇大神宮の所管社",
+                "note": [
+                    "境内に御塩汲入所・御塩焼所・御塩御倉・御塩殿があり、荘の住民の奉仕により製塩が行なわれる（みしおどの・みしおでん）",
+                    "境外の五十鈴川の河口付近（神宮御園の北方）には、毎年七月下旬から八月上旬にかけての土用頃に塩づくりが行われる「御塩浜」がある"
+                ],
+                "links": [
+                    {
+                        "text": "御塩殿神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/御塩殿神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "御塩殿神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/JRVnD6JXpiXDLtcH6",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "御塩浜 - Google マップ",
+                        "url": "https://maps.app.goo.gl/tMSxf6thFed9KdjU6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.75722246590283,
+                    34.50148914540364
+                ],
+                "address": "三重県伊勢市二見町溝口５３５−２"
+            },
+            "properties": {
+                "title": "神宮御園",
+                "description": "神々に捧げられる50種類ほどの野菜や果物を育てる「御園（みその）」",
+                "note": [
+                    "毎年春分の日には御園祭（みそのさい）が行われ、豊かな稔りと農作業に携わる人々の作業の安全を祈願する"
+                ],
+                "links": [
+                    {
+                        "text": "神宮御園 - Google マップ",
+                        "url": "https://maps.app.goo.gl/wd1rv94qPX3eaZMb9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15.5
+            }
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="format-detection" content="telephone=no" />
+
+    <title>Go Out | 行ったことのない場所へ行く</title>
+    <meta content="知っていることの 外へ わからないところまで 出かける" name="description" />
+    <link rel="icon" href="https://go-out.github.io/collection/icon/favicon.png" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://go-out.github.io/collection/fonts/style.css">
+    <link rel="stylesheet" href="https://go-out.github.io/date/style.css">
+
+    <script type="text/javascript" src="https://go-out.github.io/date/script.js"></script>
+</head>
+
+<body>
+    <main id="cover">
+        <header>
+            <input type="button" value="Latest Update" />
+        </header>
+        <h1>
+            <u>行ったことのない場所へ行く</u>
+            <strong>Go Out</strong>
+        </h1>
+        <h2>
+            <i>知っていることの 外へ</i><br>
+            <small>わからないところまで 出かける</small>
+        </h2>
+    </main>
+
+    <article id="readme">
+        <nav>
+            <h3>目次</h3>
+        </nav>
+        <section>
+            <div></div>
+            <aside id="links" hidden></aside>
+        </section>
+    </article>
+
+    <script>
+        let params = new URLSearchParams(location.search), thisJSON;
+        if (location.search) {
+            thisJSON = "";
+            if (params.get("map")) {
+                thisJSON += "../" + params.get("map").replaceAll("-", "/") + "/";
+                if (params.get("area")) {
+                    thisJSON += params.get("area").replaceAll("-", "/") + "/";
+                };
+                if (params.get("name")) {
+                    thisJSON += params.get("name") + ".json";
+                } else {
+                    thisJSON += "date.json";
+                };
+                console.log(thisJSON)
+            } else {
+                if (params.get("id")) {
+                    // ?id=ID&name=名前
+                    thisJSON += params.get("id").replaceAll("-", "/") + "/";
+                    if (params.get("name")) {
+                        thisJSON += params.get("name") + ".json";
+                    } else {
+                        thisJSON += "index.json";
+                    };
+                } else {
+                    if (params.get("name")) {
+                        thisJSON += params.get("name") + ".json";
+                    } else {
+                        thisJSON += "index.json";
+                    };
+                };
+            };
+            indexJSON(thisJSON);
+        } else {
+            indexJSON("./index.json");
+        };
+    </script>
+</body>
+
+</html>
