@@ -1,4 +1,6 @@
 {
+    "path": "../",
+    "url": "date/?map=ise",
     "events": [
         {
             "date": {
@@ -17,14 +19,8 @@
                 "毎年 一月十一日 午前十時"
             ],
             "info": {
-                "markdown": "../date/0111.md",
-                "links": [
-                    {
-                        "text": "神宮の一年 Jingu's Annual Ceremonies",
-                        "url": "../",
-                        "target": "_self"
-                    }
-                ]
+                "markdown": "date/0111.md",
+                "links": null
             }
         },
         {
@@ -108,14 +104,8 @@
                 "毎年 五月・十月 十四日 正午"
             ],
             "info": {
-                "markdown": "../date/kanmiso.md",
-                "links": [
-                    {
-                        "text": "神宮の一年 Jingu's Annual Ceremonies",
-                        "url": "../",
-                        "target": "_self"
-                    }
-                ]
+                "markdown": "date/kanmiso.md",
+                "links": null
             }
         },
         {
@@ -137,7 +127,7 @@
                 "毎年 十月十五日から十七日"
             ],
             "info": {
-                "markdown": "../date/kanname.md",
+                "markdown": "date/kanname.md",
                 "links": null
             }
         },
@@ -158,7 +148,7 @@
                 "毎年 十一月二十三日"
             ],
             "info": {
-                "markdown": "../date/1123.md",
+                "markdown": "date/1123.md",
                 "links": null
             }
         },
@@ -177,7 +167,7 @@
                 "六月・十二月 十五日から十七日"
             ],
             "info": {
-                "markdown": "../date/tsukinami.md",
+                "markdown": "date/tsukinami.md",
                 "links": null
             }
         },
@@ -198,7 +188,7 @@
                 "毎日 朝夕 一日二度"
             ],
             "info": {
-                "markdown": "../date/higotoasayu.md",
+                "markdown": "date/higotoasayu.md",
                 "links": null
             }
         }

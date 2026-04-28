@@ -7,11 +7,11 @@
     ],
     "description": "毎年 八月十三日から十六日・二十四日 🥁 松坂市・津市",
     "info": {
-        "markdown": "../kankoodori/README.md",
+        "markdown": "kankoodori/README.md",
         "links": [
             {
                 "text": "神三郡（松阪・多気郡・度会郡） Tsu - Taki - Watarai, Mie",
-                "url": "../?id=ise&area=matsuzaka",
+                "url": "?id=ise&area=matsuzaka",
                 "target": "_self"
             }
         ]

@@ -7,7 +7,7 @@
     ],
     "description": "三重県の人口の大半が集中する、四日市・津などの都市が集まる政治・経済・文化の中心",
     "info": {
-        "markdown": "../ise/tsu_yokkaichi/README.md",
+        "markdown": "ise/tsu_yokkaichi/README.md",
         "links": [
             {
                 "text": "三重県津市の観光情報サイト「津の時間」 - 津市観光協会",
@@ -85,11 +85,11 @@
                 "毎年 八月十三日から十六日・二十四日"
             ],
             "info": {
-                "markdown": "../kankoodori/README.md",
+                "markdown": "kankoodori/README.md",
                 "links": [
                     {
                         "text": "かんこ踊り Kanko Odori",
-                        "url": "../?id=kankoodori",
+                        "url": "?id=kankoodori",
                         "target": "_self"
                     }
                 ]
@@ -110,7 +110,7 @@
                 "毎年 十月中旬 金土日曜日（金曜は前夜祭）"
             ],
             "info": {
-                "markdown": "../ise/tsu_yokkaichi/tsumatsuri.md",
+                "markdown": "ise/tsu_yokkaichi/tsumatsuri.md",
                 "links": [
                     {
                         "text": "津まつり公式サイト | 約390年の歴史を誇る伝統行事",

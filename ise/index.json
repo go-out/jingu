@@ -7,7 +7,7 @@
     ],
     "description": "神宮の二つの正宮「二所大神宮（皇大神宮・豊受大神宮）」がある、お伊勢参りの中心地",
     "info": {
-        "markdown": "../ise/README.md",
+        "markdown": "ise/README.md",
         "links": [
             {
                 "text": "神宮の博物館と市内のモデルコース｜神宮の回り方｜ご参拝・ご祈祷｜伊勢神宮",
@@ -39,7 +39,7 @@
         "zoom": 12
     },
     "date": [
-        "../ise/date.json"
+        "ise/date.json"
     ],
     "features": [
         {

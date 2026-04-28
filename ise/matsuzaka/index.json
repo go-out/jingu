@@ -7,7 +7,7 @@
     ],
     "description": "織物の神の聖域、神宮に奉仕した御杖代（みつえしろ、神の意を受ける依代）が暮らした「斎宮」周辺",
     "info": {
-        "markdown": "../ise/matsuzaka/README.md",
+        "markdown": "ise/matsuzaka/README.md",
         "links": [
             {
                 "text": "一般社団法人松阪市観光協会",
@@ -94,11 +94,11 @@
                 "毎年 一月十四日に近い土曜日 午後七時頃"
             ],
             "info": {
-                "markdown": "../kankoodori/matsusaka_mie.md",
+                "markdown": "kankoodori/matsusaka_azaka.md",
                 "links": [
                     {
                         "text": "かんこ踊り Kanko Odori",
-                        "url": "../?id=ise&area=matsuzaka&name=kanko_odori",
+                        "url": "?id=kanko_odori",
                         "target": "_self"
                     }
                 ]
@@ -119,7 +119,7 @@
                 "毎年 五月一日・十三日と十月一日と十三日"
             ],
             "info": {
-                "markdown": "../date/kanmiso.md",
+                "markdown": "date/kanmiso.md",
                 "links": null
             }
         },
@@ -144,11 +144,11 @@
                 "毎年 八月十三日から十六日・二十四日"
             ],
             "info": {
-                "markdown": "../kankoodori/README.md",
+                "markdown": "kankoodori/README.md",
                 "links": [
                     {
                         "text": "かんこ踊り Kanko Odori",
-                        "url": "../?id=kankoodori",
+                        "url": "?id=kankoodori",
                         "target": "_self"
                     }
                 ]

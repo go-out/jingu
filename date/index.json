@@ -1,4 +1,5 @@
 {
+    "path": "../",
     "url": "date/",
     "date": null,
     "cover": {
@@ -13,11 +14,11 @@
     },
     "info": {
         "index": null,
-        "markdown": "../date/README.md",
+        "markdown": "README.md",
         "links": [
             {
                 "text": "神宮（伊勢・元伊勢） Jingu",
-                "url": "../",
+                "url": "index.html",
                 "target": "_self"
             }
         ]
@@ -47,7 +48,7 @@
                 "links": [
                     {
                         "text": "神宮（伊勢神宮） Jingu, Ise Mie",
-                        "url": "../?id=ise",
+                        "url": "?id=ise",
                         "target": "_self"
                     }
                 ]
@@ -70,11 +71,11 @@
                 "毎年 一月十一日 午前十時"
             ],
             "info": {
-                "markdown": "../date/0111.md",
+                "markdown": "date/0111.md",
                 "links": [
                     {
                         "text": "神宮（伊勢神宮） Jingu, Ise Mie",
-                        "url": "../?id=ise",
+                        "url": "?id=ise",
                         "target": "_self"
                     }
                 ]
@@ -105,7 +106,7 @@
                 "links": [
                     {
                         "text": "神宮（伊勢神宮） Jingu, Ise Mie",
-                        "url": "../?id=ise",
+                        "url": "?id=ise",
                         "target": "_self"
                     }
                 ]
@@ -126,11 +127,11 @@
                 "毎年 五月上旬 午前九時"
             ],
             "info": {
-                "markdown": "../date/shinden-otami.md",
+                "markdown": "date/shinden-otami.md",
                 "links": [
                     {
                         "text": "神宮（伊勢神宮） Jingu, Ise Mie",
-                        "url": "../?id=ise",
+                        "url": "?id=ise",
                         "target": "_self"
                     }
                 ]
@@ -151,16 +152,16 @@
                 "毎年 五月・十月 十四日 正午"
             ],
             "info": {
-                "markdown": "../date/kanmiso.md",
+                "markdown": "date/kanmiso.md",
                 "links": [
                     {
                         "text": "神宮（伊勢神宮） Jingu, Ise Mie",
-                        "url": "../?id=ise",
+                        "url": "?id=ise",
                         "target": "_self"
                     },
                     {
                         "text": "神三郡（松阪・多気郡・度会郡） Tsu - Taki - Watarai, Mie",
-                        "url": "../?id=ise&area=matsuzaka",
+                        "url": "?id=ise&area=matsuzaka",
                         "target": "_self"
                     }
                 ]
@@ -187,11 +188,11 @@
                 "url": null
             },
             "info": {
-                "markdown": "../date/0624.md",
+                "markdown": "date/0624.md",
                 "links": [
                     {
                         "text": "志摩国（志摩・鳥羽） Shima (Toba - Shima), Mie",
-                        "url": "../?id=ise&area=shima",
+                        "url": "?id=ise&area=shima",
                         "target": "_self"
                     },
                     {
@@ -223,8 +224,8 @@
                 ],
                 "links": [
                     {
-                        "text": "神宮（伊勢・元伊勢） Jingu",
-                        "url": "../",
+                        "text": "神宮（伊勢神宮） Jingu, Ise Mie",
+                        "url": "?id=ise",
                         "target": "_self"
                     }
                 ]
@@ -249,11 +250,11 @@
                 "url": null
             },
             "info": {
-                "markdown": "../date/takihara-no-miya.md",
+                "markdown": "date/takihara-no-miya.md",
                 "links": [
                     {
                         "text": "神宮（伊勢・元伊勢） Jingu",
-                        "url": "../",
+                        "url": "index.html",
                         "target": "_self"
                     }
                 ]
@@ -281,8 +282,8 @@
                 ],
                 "links": [
                     {
-                        "text": "神宮（伊勢・元伊勢） Jingu",
-                        "url": "../",
+                        "text": "神宮（伊勢神宮） Jingu, Ise Mie",
+                        "url": "?id=ise",
                         "target": "_self"
                     }
                 ]
@@ -311,8 +312,8 @@
                 ],
                 "links": [
                     {
-                        "text": "神宮（伊勢・元伊勢） Jingu",
-                        "url": "../",
+                        "text": "神宮（伊勢神宮） Jingu, Ise Mie",
+                        "url": "?id=ise",
                         "target": "_self"
                     }
                 ]
@@ -336,11 +337,11 @@
                 "毎年 十月十五日から十六日"
             ],
             "info": {
-                "markdown": "../date/hatsuhobiki.md",
+                "markdown": "date/hatsuhobiki.md",
                 "links": [
                     {
                         "text": "神宮（伊勢神宮） Jingu, Ise Mie",
-                        "url": "../?id=ise",
+                        "url": "?id=ise",
                         "target": "_self"
                     },
                     {
@@ -370,11 +371,11 @@
                 "url": null
             },
             "info": {
-                "markdown": "../date/20.md",
+                "markdown": "date/20.md",
                 "links": [
                     {
                         "text": "神宮（伊勢・元伊勢） Jingu",
-                        "url": "../",
+                        "url": "index.html",
                         "target": "_self"
                     },
                     {

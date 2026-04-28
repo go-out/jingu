@@ -13,12 +13,12 @@
         "links": [
             {
                 "text": "神宮（伊勢神宮） Jingu, Ise Mie",
-                "url": "../?id=ise",
+                "url": "?id=ise",
                 "target": "_self"
             },
             {
                 "text": "志摩国（志摩・鳥羽） Shima (Toba - Shima), Mie",
-                "url": "../?id=ise&area=shima",
+                "url": "?id=ise&area=shima",
                 "target": "_self"
             },
             {

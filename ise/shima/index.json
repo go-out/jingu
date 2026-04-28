@@ -7,7 +7,7 @@
     ],
     "description": "海女の磯笛は「日本の音風景100選」・リアス式海岸で知られる英虞湾は「日本の夕陽百選」に選ばれるなど、美しい日本の風景が残る「志摩半島」",
     "info": {
-        "markdown": "../ise/shima/README.md",
+        "markdown": "ise/shima/README.md",
         "links": [
             {
                 "text": "伊勢志摩観光ナビ",
@@ -68,14 +68,8 @@
                 "url": null
             },
             "info": {
-                "markdown": "../date/0624.md",
-                "link": [
-                    {
-                        "text": "神宮の一年 Jingu's Annual Ceremonies",
-                        "url": "../date/",
-                        "target": "_self"
-                    }
-                ]
+                "markdown": "date/0624.md",
+                "link": null
             }
         }
     ],

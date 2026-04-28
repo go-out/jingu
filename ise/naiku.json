@@ -13,12 +13,12 @@
         "links": [
             {
                 "text": "神宮（伊勢神宮） Jingu, Ise Mie",
-                "url": "../?id=ise",
+                "url": "?id=ise",
                 "target": "_self"
             },
             {
                 "text": "神三郡（松阪・多気郡・度会郡） Tsu - Taki - Watarai, Mie",
-                "url": "../?id=ise&area=matsuzaka",
+                "url": "?id=ise&area=matsuzaka",
                 "target": "_self"
             },
             {
