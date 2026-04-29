@@ -26,9 +26,7 @@
             "",
             "五月二日（土）",
             "午前中 ホテル清海 チェックアウト",
-            "内宮参拝・周辺探索",
-            "",
-            "（余裕があれば、伊賀）"
+            "内宮参拝・周辺探索"
         ],
         "links": [
             {
@@ -212,6 +210,11 @@
                 ],
                 "links": [
                     {
+                        "text": "神宮（内宮・外宮） Jingu, Ise Mie",
+                        "url": "?id=ise",
+                        "target": "_self"
+                    },
+                    {
                         "text": "伊勢二見鳥羽周遊バスCANばす",
                         "url": "https://www.sanco.co.jp/shuttle/shuttle03-01/",
                         "target": "_blank"
@@ -220,33 +223,6 @@
                         "text": "レンタサイクル | 公益社団法人 伊勢市観光協会",
                         "url": "https://ise-kanko.jp/purpose/rentacycle/",
                         "target": "_blank"
-                    }
-                ]
-            }
-        },
-        {
-            "date": {
-                "month": 5,
-                "date": [
-                    2
-                ]
-            },
-            "title": [
-                "伊賀国",
-                "名張 - 伊賀神戸"
-            ],
-            "description": "峨々（がが）たる山々に囲まれた自然の要塞、谷あいの盆地に潜む「忍びの国」",
-            "note": [
-                "（余裕があれば）",
-                "五月二日（土）"
-            ],
-            "info": {
-                "note": null,
-                "links": [
-                    {
-                        "text": "伊賀国（伊賀・名張）と曽爾高原 Iga - Nabari - Soni, Mie and Nara",
-                        "url": "?id=iga",
-                        "target": "_self"
                     }
                 ]
             }
