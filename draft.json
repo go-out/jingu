@@ -3,11 +3,6 @@
         "markdown": "README.md",
         "links": [
             {
-                "text": "伊勢神宮",
-                "url": "https://www.isejingu.or.jp/",
-                "target": "_blank"
-            },
-            {
                 "text": "お伊勢さん125社参り",
                 "url": "https://www.jingukaikan.jp/125mairi/",
                 "target": "_blank"
@@ -15,26 +10,6 @@
             {
                 "text": "神社本庁公式サイト",
                 "url": "https://www.jinjahoncho.or.jp/",
-                "target": "_blank"
-            },
-            {
-                "text": "伊勢神宮 - Wikipedia",
-                "url": "https://ja.wikipedia.org/wiki/伊勢神宮",
-                "target": "_blank"
-            },
-            {
-                "text": "元伊勢 - Wikipedia",
-                "url": "https://ja.wikipedia.org/wiki/元伊勢",
-                "target": "_blank"
-            },
-            {
-                "text": "豊鍬入姫命 - Wikipedia",
-                "url": "https://ja.wikipedia.org/wiki/豊鍬入姫命",
-                "target": "_blank"
-            },
-            {
-                "text": "倭姫命 - Wikipedia",
-                "url": "https://ja.wikipedia.org/wiki/倭姫命",
                 "target": "_blank"
             },
             {
@@ -54,5 +29,61 @@
             }
         ]
     },
-    "features": []
+    "features": [],
+    "events": [
+        {
+            "date": {
+                "month": null,
+                "date": null
+            },
+            "title": [
+                "式年遷宮",
+                "Shikinen Sengu"
+            ],
+            "description": "20年に一度、正宮・別宮などの社殿や神宝を新調する日本最大・最重要の神事",
+            "note": [
+                "Late October every year",
+                "毎年 十月下旬"
+            ],
+            "cover": {
+                "directory": null,
+                "url": null
+            },
+            "info": {
+                "markdown": "date/20.md",
+                "links": [
+                    {
+                        "text": "神宮（伊勢・元伊勢） Jingu",
+                        "url": "index.html",
+                        "target": "_self"
+                    },
+                    {
+                        "text": "永遠の森｜式年遷宮｜伊勢神宮",
+                        "url": "https://www.isejingu.or.jp/sengu/forest.html",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "神宮式年遷宮 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/神宮式年遷宮",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "神路山 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/神路山",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "島路山 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/島路山",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "伊勢神宮の式年遷宮を支える御杣山の変遷",
+                        "url": "https://meiboku-lab.com/meister/article343/",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        }
+    ]
 }

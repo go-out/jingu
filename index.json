@@ -15,6 +15,31 @@
                 "target": "_self"
             },
             {
+                "text": "伊勢神宮",
+                "url": "https://www.isejingu.or.jp/",
+                "target": "_blank"
+            },
+            {
+                "text": "伊勢神宮 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/伊勢神宮",
+                "target": "_blank"
+            },
+            {
+                "text": "元伊勢 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/元伊勢",
+                "target": "_blank"
+            },
+            {
+                "text": "豊鍬入姫命 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/豊鍬入姫命",
+                "target": "_blank"
+            },
+            {
+                "text": "倭姫命 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/倭姫命",
+                "target": "_blank"
+            },
+            {
                 "text": "近鉄週末フリーパス｜その他のお得なきっぷ｜観光・おでかけ｜近畿日本鉄道",
                 "url": "https://www.kintetsu.co.jp/senden/Railway/Ticket/weekend_free/",
                 "target": "_blank"
@@ -156,8 +181,7 @@
                 "title": "穴穂宮",
                 "description": "峨々（がが）たる山々に囲まれた自然の要塞、谷あいの盆地に潜む「忍びの国」",
                 "note": [
-                    "宇多秋宮（宇陀）を出た倭姫命は、「隠市守宮（なばりいちもりのみや）」に二年・「穴穂宮（あなほみや）」に四年・「敢都美恵宮（伊賀国阿拜郡）」に二年留まり、その後「甲賀（滋賀県）」へ出たとされる",
-                    "（近世は「伊賀流忍者の里」「松尾芭蕉生誕の地」として知られる「伊賀国」と、その南部に広がる「曽爾高原」周辺）"
+                    "宇多秋宮（宇陀）を出た倭姫命は、「隠市守宮（なばりいちもりのみや）」に二年・「穴穂宮（あなほみや）」に四年・「敢都美恵宮（伊賀国阿拜郡）」に二年留まり、その後「甲賀（滋賀県）」へ出たとされる"
                 ],
                 "links": [
                     {
@@ -308,33 +332,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    136.80879585489942,
-                    34.38016650380497
-                ],
-                "address": "日本 〒517-0208 三重県志摩市磯部町上之郷３７４番地"
-            },
-            "properties": {
-                "title": "伊雑宮",
-                "description": "内宮背後の「島路山（しまじ）」を越えた「志摩」の御贄地（神に供える食料を調達する地）",
-                "note": [
-                    "皇大神宮の境外別宮、神田を持つ唯一の別宮（いぞうぐう）",
-                    "<u>アクセス</u><br>近鉄志摩線で「上之郷駅」または「志摩磯部駅」下車<br>内宮前から直行シャトルバス「パールシャトル」で「川辺バス停」下車など"
-                ],
-                "links": [
-                    {
-                        "text": "志摩国（志摩・鳥羽） Shima (Toba - Shima), Mie",
-                        "url": "?id=ise&area=shima",
-                        "target": "_self"
-                    }
-                ],
-                "zoom": 11
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     136.42593333350283,
                     34.366297221713594
                 ],
@@ -403,6 +400,33 @@
                     }
                 ],
                 "zoom": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.80879585489942,
+                    34.38016650380497
+                ],
+                "address": "日本 〒517-0208 三重県志摩市磯部町上之郷３７４番地"
+            },
+            "properties": {
+                "title": "伊雑宮",
+                "description": "内宮背後の「島路山（しまじ）」を越えた「志摩」の御贄地（神に供える食料を調達する地）",
+                "note": [
+                    "皇大神宮の境外別宮、神田を持つ唯一の別宮（いぞうぐう）",
+                    "<u>アクセス</u><br>近鉄志摩線で「上之郷駅」または「志摩磯部駅」下車<br>内宮前から直行シャトルバス「パールシャトル」で「川辺バス停」下車など"
+                ],
+                "links": [
+                    {
+                        "text": "志摩国（志摩・鳥羽） Shima (Toba - Shima), Mie",
+                        "url": "?id=ise&area=shima",
+                        "target": "_self"
+                    }
+                ],
+                "zoom": 11
             }
         }
     ]
