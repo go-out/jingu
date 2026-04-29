@@ -1,0 +1,255 @@
+{
+    "path": "../",
+    "url": "date/",
+    "date": null,
+    "cover": {
+        "title": [
+            "伊勢旅行",
+            "二〇二六"
+        ],
+        "description": "春に東へ旅行が吉",
+        "note": [
+            "一泊二日の旅",
+            "松坂・伊勢"
+        ],
+        "directory": null,
+        "url": null
+    },
+    "info": {
+        "index": "旅のしおり",
+        "note": [
+            "五月一日（金）",
+            "6:00 - 9:00 近鉄電車「大阪難波」から「松阪」へ",
+            "9:00 - 13:00 松阪駅観光情報センター レンタサイクル",
+            "14:00 - 17:00 外宮参拝",
+            "夕方以降 ホテル清海 チェックイン",
+            "",
+            "五月二日（土）",
+            "午前中 ホテル清海 チェックアウト",
+            "内宮参拝・周辺探索",
+            "",
+            "（余裕があれば、伊賀）"
+        ],
+        "links": [
+            {
+                "text": "神宮（伊勢・元伊勢） Jingu",
+                "url": "index.html",
+                "target": "_self"
+            },
+            {
+                "text": "路線図・駅情報 | 近畿日本鉄道",
+                "url": "https://www.kintetsu.co.jp/station/",
+                "target": "_blank"
+            }
+        ]
+    },
+    "events": [
+        {
+            "date": {
+                "month": 5,
+                "date": [
+                    1
+                ]
+            },
+            "title": [
+                "近鉄電車「大阪難波」発",
+                "「松阪」着"
+            ],
+            "description": "普通で2時間20分・特急で1時間半",
+            "note": [
+                "6:00 - 9:00",
+                "五月一日（金）"
+            ],
+            "info": {
+                "note": [
+                    "普通 大阪難波 - 鶴橋（近鉄奈良線）・鶴橋 - 松阪（近鉄大阪線） 2時間20分",
+                    "特急 大阪難波から直通で1時間半（特急料金 1340円）"
+                ],
+                "links": [
+                    {
+                        "text": "近鉄特急のご案内 | 近畿日本鉄道",
+                        "url": "https://www.kintetsu.co.jp/gyoumu/Express/A10002.html",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 5,
+                "date": [
+                    1
+                ]
+            },
+            "title": [
+                "レンタサイクル",
+                "松阪駅観光情報センター"
+            ],
+            "description": "普通自転車 400円・電動ｱｼｽﾄ車 500円（4時間）",
+            "note": [
+                "9:00 - 13:00",
+                "五月一日（金）"
+            ],
+            "info": {
+                "note": [
+                    "（機殿神社で機織り見学・松坂市探索）",
+                    "",
+                    "12:00 昼食「かしわの焼肉 トリユウ」",
+                    "13:00 レンタサイクル返却",
+                    "近鉄電車で「松坂」から「宇治山田」駅へ（約30分）"
+                ],
+                "links": [
+                    {
+                        "text": "神三郡（松阪・多気郡・度会郡） Tsu - Taki - Watarai, Mie",
+                        "url": "?id=ise&area=matsuzaka",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 5,
+                "date": [
+                    1
+                ]
+            },
+            "title": [
+                "御衣奉織行事",
+                "機殿神社"
+            ],
+            "description": "松阪市無形民俗文化財",
+            "note": [
+                "May/October 14th every year",
+                "毎年 五月・十月 十四日 正午"
+            ],
+            "info": {
+                "markdown": "date/kanmiso.md",
+                "links": [
+                    {
+                        "text": "神三郡（松阪・多気郡・度会郡） Tsu - Taki - Watarai, Mie",
+                        "url": "?id=ise&area=matsuzaka",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 5,
+                "date": [
+                    1
+                ]
+            },
+            "title": [
+                "外宮参拝",
+                "宇治山田 - 伊勢市駅周辺"
+            ],
+            "description": "15:10 - 15:40頃 日別朝夕大御饌祭",
+            "note": [
+                "14:00 - 17:00",
+                "五月一日（金）"
+            ],
+            "info": {
+                "note": [
+                    "（一月家・豚捨 本店）",
+                    "",
+                    "夕方以降 ホテル清海 チェックイン（夜 神前海岸・二見浦周辺散策）"
+                ],
+                "links": [
+                    {
+                        "text": "神宮（内宮・外宮） Jingu, Ise Mie",
+                        "url": "?id=ise",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": null,
+                "date": null
+            },
+            "title": [
+                "日別朝夕大御饌祭",
+                "Higoto asayu oomike-sai"
+            ],
+            "description": "豊受大神宮（外宮）御饌殿にて神饌を奉る",
+            "note": [
+                "Every Day",
+                "毎日 朝夕 一日二度"
+            ],
+            "info": {
+                "markdown": "date/higotoasayu.md",
+                "links": null
+            }
+        },
+        {
+            "date": {
+                "month": 5,
+                "date": [
+                    2
+                ]
+            },
+            "title": [
+                "内宮参拝",
+                "五十鈴川駅周辺"
+            ],
+            "description": "11:00 春の神楽祭 皇大神宮（内宮）神苑特設舞台",
+            "note": [
+                "午前中 ホテル清海 チェックアウト",
+                "五月二日（土）"
+            ],
+            "info": {
+                "note": [
+                    "夫婦岩東口・伊勢シーパラダイス前から「CANばす」運行",
+                    "土休日時刻表 9:23発・10:23発（内宮前まで約30分）",
+                    "",
+                    "JR「松下」駅から「伊勢市」駅まで約30分 「伊勢市」駅からレンタサイクル（1日）",
+                    "",
+                    "JR「松下」駅から「伊勢市」駅 - 近鉄「伊勢市」駅から「五十鈴川」駅（約1時間）",
+                    "「五十鈴川」駅から内宮まで徒歩約45分"
+                ],
+                "links": [
+                    {
+                        "text": "伊勢二見鳥羽周遊バスCANばす",
+                        "url": "https://www.sanco.co.jp/shuttle/shuttle03-01/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "レンタサイクル | 公益社団法人 伊勢市観光協会",
+                        "url": "https://ise-kanko.jp/purpose/rentacycle/",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 5,
+                "date": [
+                    2
+                ]
+            },
+            "title": [
+                "伊賀国",
+                "名張 - 伊賀神戸"
+            ],
+            "description": "峨々（がが）たる山々に囲まれた自然の要塞、谷あいの盆地に潜む「忍びの国」",
+            "note": [
+                "（余裕があれば）",
+                "五月二日（土）"
+            ],
+            "info": {
+                "note": null,
+                "links": [
+                    {
+                        "text": "伊賀国（伊賀・名張）と曽爾高原 Iga - Nabari - Soni, Mie and Nara",
+                        "url": "?id=iga",
+                        "target": "_self"
+                    }
+                ]
+            }
+        }
+    ]
+}

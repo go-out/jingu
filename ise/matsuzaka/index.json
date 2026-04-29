@@ -365,35 +365,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    136.47701364199787,
-                    34.53068136698856
-                ]
-            },
-            "properties": {
-                "title": "前島食堂",
-                "description": "地元で長く愛されている松坂鶏焼肉の元祖店と言われる、1967年創業の老舗",
-                "note": [
-                    "営業時間 10:30 - 18:00（平日14時 - 15時はテイクアウトのみ）"
-                ],
-                "links": [
-                    {
-                        "text": "前島食堂(@ma.e.shi.ma) • Instagram",
-                        "url": "https://www.instagram.com/ma.e.shi.ma/",
-                        "target": "_blank"
-                    },
-                    {
-                        "text": "前島食堂 - Google マップ",
-                        "url": "https://maps.app.goo.gl/UAQCTe1jmKcTtLqy7",
-                        "target": "_blank"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     136.46869723407764,
                     34.59080655480041
                 ]
@@ -571,6 +542,35 @@
                     {
                         "text": "花岡神社 - Google マップ",
                         "url": "https://maps.app.goo.gl/5WozYGFYX8SJ6iwC9",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.47701364199787,
+                    34.53068136698856
+                ]
+            },
+            "properties": {
+                "title": "前島食堂",
+                "description": "地元で長く愛されている松坂鶏焼肉の元祖店と言われる、1967年創業の老舗",
+                "note": [
+                    "営業時間 10:30 - 18:00（平日14時 - 15時はテイクアウトのみ）"
+                ],
+                "links": [
+                    {
+                        "text": "前島食堂(@ma.e.shi.ma) • Instagram",
+                        "url": "https://www.instagram.com/ma.e.shi.ma/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "前島食堂 - Google マップ",
+                        "url": "https://maps.app.goo.gl/UAQCTe1jmKcTtLqy7",
                         "target": "_blank"
                     }
                 ]

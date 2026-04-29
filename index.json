@@ -10,39 +10,9 @@
         "markdown": "README.md",
         "links": [
             {
-                "text": "伊勢神宮",
-                "url": "https://www.isejingu.or.jp/",
-                "target": "_blank"
-            },
-            {
-                "text": "お伊勢さん125社参り",
-                "url": "https://www.jingukaikan.jp/125mairi/",
-                "target": "_blank"
-            },
-            {
-                "text": "神社本庁公式サイト",
-                "url": "https://www.jinjahoncho.or.jp/",
-                "target": "_blank"
-            },
-            {
-                "text": "伊勢神宮 - Wikipedia",
-                "url": "https://ja.wikipedia.org/wiki/伊勢神宮",
-                "target": "_blank"
-            },
-            {
-                "text": "元伊勢 - Wikipedia",
-                "url": "https://ja.wikipedia.org/wiki/元伊勢",
-                "target": "_blank"
-            },
-            {
-                "text": "豊鍬入姫命 - Wikipedia",
-                "url": "https://ja.wikipedia.org/wiki/豊鍬入姫命",
-                "target": "_blank"
-            },
-            {
-                "text": "倭姫命 - Wikipedia",
-                "url": "https://ja.wikipedia.org/wiki/倭姫命",
-                "target": "_blank"
+                "text": "伊勢旅行 二〇二六 旅のしおり",
+                "url": "date/",
+                "target": "_self"
             },
             {
                 "text": "近鉄週末フリーパス｜その他のお得なきっぷ｜観光・おでかけ｜近畿日本鉄道",
@@ -239,7 +209,7 @@
                 "title": "坂田宮",
                 "description": "琵琶湖の湖上交通の拠点／関西圏〜中京圏の要衝として発達した宿場町",
                 "note": [
-                    "倭姫命が東国（大和政権の支配下だった畿内より東）へ向かう前に二年間留まったとされる地（さかたのみや）"
+                    "倭姫命が東国（ヤマト王権の支配下だった畿内より東）へ向かう前に二年間留まったとされる地（さかたのみや）"
                 ],
                 "links": null,
                 "zoom": 10.5
@@ -418,7 +388,7 @@
                 "address": "日本 〒516-0028 三重県伊勢市中村町桜が丘５６番地"
             },
             "properties": {
-                "title": "神宮（伊勢神宮）",
+                "title": "神宮（内宮・外宮）",
                 "description": "神宮の二つの正宮「二所大神宮（皇大神宮・豊受大神宮）」がある神域、お伊勢参りの中心地",
                 "note":[
                     "内宮（ないくう）と呼ばれる「皇大神宮・正宮」の宮域は、「心のふるさと」と称される日本の原風景が広がる神域",
@@ -427,7 +397,7 @@
                 ],
                 "links": [
                     {
-                        "text": "神宮（伊勢神宮） Jingu, Ise Mie",
+                        "text": "神宮（内宮・外宮） Jingu, Ise Mie",
                         "url": "?id=ise",
                         "target": "_self"
                     }

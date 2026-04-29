@@ -14,12 +14,17 @@
     },
     "info": {
         "index": null,
-        "markdown": "README.md",
+        "markdown": "date/README.md",
         "links": [
             {
                 "text": "神宮（伊勢・元伊勢） Jingu",
                 "url": "index.html",
                 "target": "_self"
+            },
+            {
+                "text": "祭典・催しカレンダー | 伊勢神宮",
+                "url": "https://www.isejingu.or.jp/ritual/calendar/",
+                "target": "_blank"
             }
         ]
     },
@@ -47,7 +52,7 @@
                 ],
                 "links": [
                     {
-                        "text": "神宮（伊勢神宮） Jingu, Ise Mie",
+                        "text": "神宮（内宮・外宮） Jingu, Ise Mie",
                         "url": "?id=ise",
                         "target": "_self"
                     }
@@ -74,7 +79,7 @@
                 "markdown": "date/0111.md",
                 "links": [
                     {
-                        "text": "神宮（伊勢神宮） Jingu, Ise Mie",
+                        "text": "神宮（内宮・外宮） Jingu, Ise Mie",
                         "url": "?id=ise",
                         "target": "_self"
                     }
@@ -105,7 +110,7 @@
                 ],
                 "links": [
                     {
-                        "text": "神宮（伊勢神宮） Jingu, Ise Mie",
+                        "text": "神宮（内宮・外宮） Jingu, Ise Mie",
                         "url": "?id=ise",
                         "target": "_self"
                     }
@@ -130,7 +135,7 @@
                 "markdown": "date/shinden-otami.md",
                 "links": [
                     {
-                        "text": "神宮（伊勢神宮） Jingu, Ise Mie",
+                        "text": "神宮（内宮・外宮） Jingu, Ise Mie",
                         "url": "?id=ise",
                         "target": "_self"
                     }
@@ -155,7 +160,7 @@
                 "markdown": "date/kanmiso.md",
                 "links": [
                     {
-                        "text": "神宮（伊勢神宮） Jingu, Ise Mie",
+                        "text": "神宮（内宮・外宮） Jingu, Ise Mie",
                         "url": "?id=ise",
                         "target": "_self"
                     },
@@ -224,7 +229,7 @@
                 ],
                 "links": [
                     {
-                        "text": "神宮（伊勢神宮） Jingu, Ise Mie",
+                        "text": "神宮（内宮・外宮） Jingu, Ise Mie",
                         "url": "?id=ise",
                         "target": "_self"
                     }
@@ -251,13 +256,7 @@
             },
             "info": {
                 "markdown": "date/takihara-no-miya.md",
-                "links": [
-                    {
-                        "text": "神宮（伊勢・元伊勢） Jingu",
-                        "url": "index.html",
-                        "target": "_self"
-                    }
-                ]
+                "links": null
             }
         },
         {
@@ -282,7 +281,7 @@
                 ],
                 "links": [
                     {
-                        "text": "神宮（伊勢神宮） Jingu, Ise Mie",
+                        "text": "神宮（内宮・外宮） Jingu, Ise Mie",
                         "url": "?id=ise",
                         "target": "_self"
                     }
@@ -312,7 +311,7 @@
                 ],
                 "links": [
                     {
-                        "text": "神宮（伊勢神宮） Jingu, Ise Mie",
+                        "text": "神宮（内宮・外宮） Jingu, Ise Mie",
                         "url": "?id=ise",
                         "target": "_self"
                     }
@@ -340,7 +339,7 @@
                 "markdown": "date/hatsuhobiki.md",
                 "links": [
                     {
-                        "text": "神宮（伊勢神宮） Jingu, Ise Mie",
+                        "text": "神宮（内宮・外宮） Jingu, Ise Mie",
                         "url": "?id=ise",
                         "target": "_self"
                     },

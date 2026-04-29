@@ -3,6 +3,41 @@
         "markdown": "README.md",
         "links": [
             {
+                "text": "伊勢神宮",
+                "url": "https://www.isejingu.or.jp/",
+                "target": "_blank"
+            },
+            {
+                "text": "お伊勢さん125社参り",
+                "url": "https://www.jingukaikan.jp/125mairi/",
+                "target": "_blank"
+            },
+            {
+                "text": "神社本庁公式サイト",
+                "url": "https://www.jinjahoncho.or.jp/",
+                "target": "_blank"
+            },
+            {
+                "text": "伊勢神宮 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/伊勢神宮",
+                "target": "_blank"
+            },
+            {
+                "text": "元伊勢 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/元伊勢",
+                "target": "_blank"
+            },
+            {
+                "text": "豊鍬入姫命 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/豊鍬入姫命",
+                "target": "_blank"
+            },
+            {
+                "text": "倭姫命 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/倭姫命",
+                "target": "_blank"
+            },
+            {
                 "text": "元伊勢 - Google マイマップ",
                 "url": "https://www.google.com/maps/d/viewer?mid=1NTiR-LTSKYVh9ad6mV06knW3lEw&femb=1&ll=36.02817669282523%2C135.06129794444968&z=7",
                 "target": "_blank"

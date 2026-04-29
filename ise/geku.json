@@ -5,14 +5,15 @@
         "Toyouke Dai-Jingu (Geku), Ise Mie",
         "豊受大神宮（外宮）の摂末社"
     ],
-    "description": "三重県伊勢市・鳥羽市に分布する、外宮が管理する16の摂社（せっしゃ）と8の末社（まっしゃ）",
+    "description": "三重県伊勢市・鳥羽市に分布する、豊受大神宮の16の摂社・8の末社と4の所管社",
     "info": {
         "note": [
-            ""
+            "元々は丹波国の比治の真奈井（ひじのまない）にいた御饌の神（食物・穀物を司る女神）である「トヨウケビメ（豊受大神、豊宇気毘売神・等由気太神）」を主祭神とする「豊受大神宮（とようけだいじんぐう）」",
+            "天照大神の神託により外宮の現在地「伊勢国度会の度会郡沼木郷山田原」に呼び寄せられ、衣食住の恵みを与える産業の守護神として祀られる"
         ],
         "links": [
             {
-                "text": "神宮（伊勢神宮） Jingu, Ise Mie",
+                "text": "神宮（内宮・外宮） Jingu, Ise Mie",
                 "url": "?id=ise",
                 "target": "_self"
             },
@@ -20,6 +21,11 @@
                 "text": "志摩国（志摩・鳥羽） Shima (Toba - Shima), Mie",
                 "url": "?id=ise&area=shima",
                 "target": "_self"
+            },
+            {
+                "text": "豊受大神宮 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/豊受大神宮",
+                "target": "_blank"
             },
             {
                 "text": "摂末社 - Wikipedia",

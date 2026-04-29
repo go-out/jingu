@@ -1,6 +1,33 @@
 {
     "path": "../",
-    "url": "date/?map=ise",
+    "url": "date/",
+    "date": null,
+    "cover": {
+        "title": [
+            "神宮歳時記",
+            "Jingu's Annual Ceremonies"
+        ],
+        "description": "神宮（内宮・外宮）の祭典 ",
+        "note": null,
+        "directory": null,
+        "url": null
+    },
+    "info": {
+        "index": null,
+        "markdown": "date/README.md",
+        "links": [
+            {
+                "text": "神宮（内宮・外宮） Jingu, Ise Mie",
+                "url": "?id=ise",
+                "target": "_self"
+            },
+            {
+                "text": "祭典・催しカレンダー | 伊勢神宮",
+                "url": "https://www.isejingu.or.jp/ritual/calendar/",
+                "target": "_blank"
+            }
+        ]
+    },
     "events": [
         {
             "date": {

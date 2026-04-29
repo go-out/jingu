@@ -59,7 +59,6 @@
                 } else {
                     thisJSON += "date.json";
                 };
-                console.log(thisJSON)
             } else {
                 if (params.get("id")) {
                     // ?id=ID&name=名前
@@ -79,7 +78,7 @@
             };
             indexJSON(thisJSON);
         } else {
-            indexJSON("./index.json");
+            indexJSON("./date.json");
         };
     </script>
 </body>
