@@ -1,0 +1,296 @@
+{
+    "path": "../",
+    "url": "date/",
+    "date": null,
+    "cover": {
+        "title": [
+            "伊勢旅行",
+            "二〇二六"
+        ],
+        "description": "春に東へ旅行が吉",
+        "note": [
+            "一泊二日の旅",
+            "松坂・伊勢"
+        ],
+        "directory": null,
+        "url": null
+    },
+    "info": {
+        "index": "旅のしおり",
+        "note": [
+            "五月一日（金）",
+            "5:00 出発",
+            "6:00 - 9:00 近鉄電車「大阪難波」から「伊勢市」へ",
+            "9:00 - 17:00 レンタサイクル 伊勢市駅手荷物預かり所",
+            "11:00 春の神楽祭 皇大神宮（内宮）神苑特設舞台",
+            "15:10 - 15:40 日別朝夕大御饌祭",
+            "夜 ホテル清海 チェックイン",
+            "",
+            "五月二日（土）",
+            "午前中 ホテル清海 チェックアウト",
+            "（神前海岸・二見浦周辺散策）",
+            "",
+            "8:00 - 17:00 御衣奉織行事 機殿神社",
+            "13:00 - 17:00 レンタサイクル 松阪駅観光情報センター"
+        ],
+        "links": [
+            {
+                "text": "神宮（伊勢・元伊勢） Jingu",
+                "url": "index.html",
+                "target": "_self"
+            },
+            {
+                "text": "路線図・駅情報 | 近畿日本鉄道",
+                "url": "https://www.kintetsu.co.jp/station/",
+                "target": "_blank"
+            }
+        ]
+    },
+    "events": [
+        {
+            "date": {
+                "month": 5,
+                "date": [
+                    1
+                ]
+            },
+            "title": [
+                "近鉄電車「大阪難波」発",
+                "「伊勢市」着"
+            ],
+            "description": "普通で3時間・特急で2時間",
+            "note": [
+                "6:00 - 9:00",
+                "五月一日（金）"
+            ],
+            "info": {
+                "note": [
+                    "普通 大阪難波 - 鶴橋（近鉄奈良線）・鶴橋 - 宇治山田（近鉄大阪線） 3時間",
+                    "",
+                    "特急 大阪難波から直通で2時間（特急料金 2170円）"
+                ],
+                "links": [
+                    {
+                        "text": "近鉄特急のご案内 | 近畿日本鉄道",
+                        "url": "https://www.kintetsu.co.jp/gyoumu/Express/A10002.html",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 5,
+                "date": [
+                    1
+                ]
+            },
+            "title": [
+                "レンタサイクル",
+                "伊勢市駅手荷物預かり所"
+            ],
+            "description": "シティサイクル 1,000円・電動アシスト自転車 2,000円（1日）",
+            "note": [
+                "9:00 - 17:00",
+                "五月一日（金）"
+            ],
+            "info": {
+                "note": [
+                    "（伊勢市内探索）",
+                    "",
+                    "11:00 春の神楽祭 皇大神宮（内宮）神苑特設舞台",
+                    "15:10 - 15:40 日別朝夕大御饌祭",
+                    "",
+                    "夜 ホテル清海 チェックイン"
+                ],
+                "links": [
+                    {
+                        "text": "伊勢市（内宮・外宮） Ise City, Mie",
+                        "url": "?id=ise",
+                        "target": "_self"
+                    },
+                    {
+                        "text": "皇大神宮（内宮）九十二社 Kotai Jingu (Naiku), Mie",
+                        "url": "?id=naiku",
+                        "target": "_self"
+                    },
+                    {
+                        "text": "豊受大神宮（外宮）三十三社 Toyouke Dai-Jingu (Geku), Mie",
+                        "url": "?id=geku",
+                        "target": "_self"
+                    },
+                    {
+                        "text": "レンタサイクル | 公益社団法人 伊勢市観光協会",
+                        "url": "https://ise-kanko.jp/purpose/rentacycle/",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 5,
+                "date": [
+                    1
+                ]
+            },
+            "title": [
+                "春の神楽祭",
+                "皇大神宮（内宮）"
+            ],
+            "description": "Spring Kagura Festival ⛩️ Kotai Jingu (Naiku)",
+            "note": [
+                "April 28 - May 2nd every year start at 11am",
+                "毎年 四月二十八・二十九・三十日・五月一日・二日"
+            ],
+            "info": {
+                "note": [
+                    "午前十一時から 内宮神苑特設舞台にて神宮舞楽が公開",
+                    "合わせ神宮茶室を庭上から一般公開"
+                ],
+                "links": null
+            }
+        },
+        {
+            "date": {
+                "month": 5,
+                "date": [
+                    1
+                ]
+            },
+            "title": [
+                "日別朝夕大御饌祭",
+                "豊受大神宮 御饌殿"
+            ],
+            "description": "豊受大神宮（外宮）御饌殿にて神饌を奉る",
+            "note": [
+                "Every Day",
+                "毎日 朝夕 一日二度"
+            ],
+            "info": {
+                "markdown": "geku/higotoasayu.md",
+                "links": null
+            }
+        },
+        {
+            "date": {
+                "month": 5,
+                "date": [
+                    2
+                ]
+            },
+            "title": [
+                "神前海岸・二見浦",
+                "周辺散策"
+            ],
+            "description": "その後、松坂へ出発",
+            "note": [
+                "午前",
+                "五月二日（土）"
+            ],
+            "info": {
+                "note": [
+                    "JR「松下」または「二見浦」駅から「伊勢市」駅 - 近鉄「伊勢市」駅から「松阪」駅（約1時間）"
+                ],
+                "links": [
+                    {
+                        "text": "伊勢市（内宮・外宮） Ise City, Mie",
+                        "url": "?id=ise",
+                        "target": "_self"
+                    },
+                    {
+                        "text": "皇大神宮（内宮）九十二社 Kotai Jingu (Naiku), Mie",
+                        "url": "?id=naiku",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 5,
+                "date": [
+                    2
+                ]
+            },
+            "title": [
+                "レンタサイクル",
+                "松阪駅観光情報センター"
+            ],
+            "description": "普通自転車 400円・電動ｱｼｽﾄ車 500円（4時間） | 超過 1時間毎 100円",
+            "note": [
+                "午後",
+                "五月二日（土）"
+            ],
+            "info": {
+                "note": [
+                    "（機殿神社で機織り見学・周辺探索）"
+                ],
+                "links": [
+                    {
+                        "text": "松阪駅観光情報センター - 松阪市観光協会",
+                        "url": "https://www.matsusaka-kanko.com/blog/kanrishisetsu/松阪駅観光情報センター/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "神三郡（松阪市・多気郡・度会郡） Matsusaka - Taki - Watarai, Mie",
+                        "url": "?id=ise&area=matsuzaka",
+                        "target": "_self"
+                    },
+                    {
+                        "text": "皇大神宮（内宮）九十二社 Kotai Jingu (Naiku), Mie",
+                        "url": "?id=naiku",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 5,
+                "date": [
+                    2
+                ]
+            },
+            "title": [
+                "御衣奉織行事",
+                "機殿神社"
+            ],
+            "description": "松阪市無形民俗文化財",
+            "note": [
+                "May/October 1st - 14th every year",
+                "毎年 五月・十月 一日から十四日"
+            ],
+            "info": {
+                "markdown": "naiku/kanmiso.md",
+                "links": null
+            }
+        },
+        {
+            "date": {
+                "month": 5,
+                "date": [
+                    2
+                ]
+            },
+            "title": [
+                "近鉄電車「松阪」発",
+                "「大阪難波」着"
+            ],
+            "description": "普通で2時間20分・特急で1時間半",
+            "note": [
+                "途中下車の旅（仮）",
+                "五月二日（土）"
+            ],
+            "info": {
+                "note": [
+                    "名張駅 宇流冨志禰神社・積田神社",
+                    "",
+                    "近鉄八尾駅・布施駅（湯～トピア）",
+                    "鶴橋 麺と肉 だいつる・冷麺館・カナアン・土井商店"
+                ],
+                "links": null
+            }
+        }
+    ]
+}
