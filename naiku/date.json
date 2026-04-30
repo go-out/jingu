@@ -1,0 +1,266 @@
+{
+    "path": "../",
+    "url": "date/",
+    "date": null,
+    "cover": {
+        "title": [
+            "皇大神宮 歳時記",
+            "Kotai Jingu Annual Ceremonies"
+        ],
+        "description": "内宮の祭典",
+        "note": null,
+        "directory": null,
+        "url": null
+    },
+    "info": {
+        "index": null,
+        "markdown": "date/README.md",
+        "links": [
+            {
+                "text": "皇大神宮（内宮）九十二社 Kotai Jingu (Naiku), Mie",
+                "url": "?id=naiku",
+                "target": "_self"
+            },
+            {
+                "text": "祭典・催しカレンダー | 伊勢神宮",
+                "url": "https://www.isejingu.or.jp/ritual/calendar/",
+                "target": "_blank"
+            }
+        ]
+    },
+    "events": [
+        {
+            "date": {
+                "month": 4,
+                "date": "上旬"
+            },
+            "title": [
+                "神田下種祭",
+                "神宮神田"
+            ],
+            "description": "神田に御料米の忌種を蒔く、耕作始めの儀式",
+            "note": [
+                "Early April every year",
+                "毎年 四月上旬 午前九時"
+            ],
+            "info": {
+                "note": [
+                    "九月の「抜穂祭」と共に神嘗祭に付属する祭典（しんでんげしゅさい）",
+                    "初めに、神田の正面にある忌鍬山（ゆくわやま）の麓にある山口祭場にて山の神に山へ入る許しを請う「山口祭（やまぐちさい）」が行われる",
+                    "その後、山頂で木の神に田を耕す「鍬（くわ）」の柄となる木を切ることの許しを請う「木本祭（このもとさい）」を行った後、木を切って鍬の柄を作る",
+                    "鍬が完成すると禰宜（ねぎ、宮司の下の役職）以下の奉仕員は、「まさきのかづら」と呼ぶテイカカヅラのつる草を円形に編んで烏帽子（えぼし）に飾り下山し、神田の祭場に整列、神田下種祭に臨む",
+                    "祭場には神饌（しんせん、神々に捧げられる食事）を供え田の神を祭り、古来より歌い継がれている御田歌（みたうた）「天鍬（あめくわ）や 真佐岐（まさき）の蔓（かづら） 笠にきて 御田（みた）うちまつる 春の宮人（みやびと）」を唱和しながら水田に入り、忌種（ゆだね、清浄なモミ種）をまく"
+                ],
+                "links": [
+                    {
+                        "text": "伊勢市（内宮・外宮） Ise City, Mie",
+                        "url": "?id=ise",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 5,
+                "date": "上旬"
+            },
+            "title": [
+                "神田御田植初",
+                "神宮神田"
+            ],
+            "description": "三重県指定無形文化財",
+            "note": [
+                "Early May every year start at 9am",
+                "毎年 五月上旬 午前九時"
+            ],
+            "info": {
+                "markdown": "date/shinden-otami.md",
+                "links": [
+                    {
+                        "text": "伊勢市（内宮・外宮） Ise City, Mie",
+                        "url": "?id=ise",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "month": [
+                5,
+                10
+            ],
+            "title": [
+                "御衣奉織行事",
+                "機殿神社"
+            ],
+            "description": "松阪市無形民俗文化財",
+            "note": [
+                "May/October 1st - 14th every year",
+                "毎年 五月・十月 一日から十四日"
+            ],
+            "info": {
+                "markdown": "naiku/kanmiso.md",
+                "links": [
+                    {
+                        "text": "神三郡（松阪市・多気郡・度会郡） Matsusaka - Taki - Watarai, Mie",
+                        "url": "?id=ise&area=matsuzaka",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 6,
+                "date": [
+                    24
+                ]
+            },
+            "title": [
+                "磯部の御神田",
+                "Isobe no Omita"
+            ],
+            "description": "三大御田植祭・国の重要無形民俗文化財",
+            "note": [
+                "June 24th every year",
+                "毎年 六月二十四日"
+            ],
+            "cover": {
+                "directory": null,
+                "url": null
+            },
+            "info": {
+                "markdown": "shima/0624.md",
+                "links": [
+                    {
+                        "text": "志摩国（志摩・鳥羽） Shima (Toba - Shima), Mie",
+                        "url": "?id=shima",
+                        "target": "_self"
+                    },
+                    {
+                        "text": "磯部の御神田 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/磯部の御神田",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "month": [
+                7,
+                8
+            ],
+            "title": [
+                "塩づくり",
+                "御塩浜"
+            ],
+            "description": "採鹹（さいかん）作業",
+            "note": [
+                "Late July - Early August every year",
+                "毎年 七月下旬の土用の頃"
+            ],
+            "info": {
+                "note": [
+                    "川から海水と淡水の入り混じった汽水を塩田に引き、天日で乾かし、1週間ほどかけて「鹹水（かん水、濃い塩水）」がつくられる",
+                    "* 採鹹作業は、御塩浜の外から見学可能"
+                ],
+                "links": [
+                    {
+                        "text": "伊勢市（内宮・外宮） Ise City, Mie",
+                        "url": "?id=ise",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "month": [
+                7,
+                10
+            ],
+            "title": [
+                "夏の御祭・秋の御祭",
+                "瀧原宮"
+            ],
+            "description": "地元の人々の参加のもとに行われる夏祭り",
+            "note": [
+                "July 22th every year",
+                "毎年 七月二十二日"
+            ],
+            "cover": {
+                "directory": null,
+                "url": null
+            },
+            "info": {
+                "markdown": "naiku/takihara-no-miya.md",
+                "links": [
+                    {
+                        "text": "皇大神宮（内宮）九十二社 Kotai Jingu (Naiku), Mie",
+                        "url": "?id=naiku",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 9,
+                "date": "上旬"
+            },
+            "title": [
+                "抜穂祭",
+                "神宮神田"
+            ],
+            "description": "神前にささげる稲穂の収穫始めの儀式",
+            "note": [
+                "Early September every year start at 9am",
+                "毎年 九月上旬 午前九時"
+            ],
+            "info": {
+                "note": [
+                    "四月の「神田下種祭」と共に神嘗祭に付属する祭典（ぬいぼさい）",
+                    "この日より神田の稲の収穫が始まり、九月末を目標に全ての稲を刈り取られる",
+                    "収穫の後は内宮の御稲御倉・外宮の忌火屋殿に納められ、十月十五日「神嘗祭」にて新穀（初穂）が捧げられる"
+                ],
+                "links": [
+                    {
+                        "text": "伊勢市（内宮・外宮） Ise City, Mie",
+                        "url": "?id=ise",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 10,
+                "date": [
+                    5
+                ]
+            },
+            "title": [
+                "御塩殿祭",
+                "御塩殿神社"
+            ],
+            "description": "全ての祭典に供えられる「堅塩」作りの始まりの式",
+            "note": [
+                "October 5th every year",
+                "毎年 十月五日 午前十時"
+            ],
+            "info": {
+                "note": [
+                    "5日から9日までの5日間、御塩殿で荒塩を三角錐形の土器につめて焼き固める",
+                    "（御塩焼固は10月と3月の二度行われる）"
+                ],
+                "links": [
+                    {
+                        "text": "伊勢市（内宮・外宮） Ise City, Mie",
+                        "url": "?id=ise",
+                        "target": "_self"
+                    }
+                ]
+            }
+        }
+    ]
+}

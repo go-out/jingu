@@ -2,8 +2,8 @@
     "type": "FeatureCollection",
     "url": "?id=ise&area=matsuzaka",
     "title": [
-        "Tsu - Taki - Watarai, Mie",
-        "神三郡（松阪・多気郡・度会郡）"
+        "Matsusaka - Taki - Watarai, Mie",
+        "神三郡（松阪市・多気郡・度会郡）"
     ],
     "description": "織物の神の聖域、神宮に奉仕した御杖代（みつえしろ、神の意を受ける依代）が暮らした「斎宮」周辺",
     "info": {
@@ -119,7 +119,7 @@
                 "毎年 五月一日・十三日と十月一日と十三日"
             ],
             "info": {
-                "markdown": "date/kanmiso.md",
+                "markdown": "naiku/kanmiso.md",
                 "links": null
             }
         },

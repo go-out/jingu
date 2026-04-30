@@ -1,6 +1,6 @@
 {
     "path": "../",
-    "url": "date/?map=ise&area=shima_toba",
+    "url": "date/?map=shima_toba",
     "date": null,
     "title": [
         "Toba - Shima, Mie",
@@ -22,11 +22,11 @@
     },
     "info": {
         "index": null,
-        "markdown": "ise/shima/README.md",
+        "markdown": "shima/README.md",
         "links": [
             {
                 "text": "志摩国（志摩・鳥羽） Shima (Toba - Shima), Mie",
-                "url": "?id=ise&area=shima",
+                "url": "?id=shima",
                 "target": "_self"
             }
         ]
@@ -125,14 +125,8 @@
                 "url": null
             },
             "info": {
-                "markdown": "date/0624.md",
-                "link": [
-                    {
-                        "text": "神宮の一年 Jingu's Annual Ceremonies",
-                        "url": "date/",
-                        "target": "_self"
-                    }
-                ]
+                "markdown": "shima/0624.md",
+                "link": null
             }
         },
         {

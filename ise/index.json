@@ -2,13 +2,23 @@
     "type": "FeatureCollection",
     "url": "?id=ise",
     "title": [
-        "Jingu, Ise Mie",
-        "神宮（内宮・外宮）"
+        "Ise City, Mie",
+        "伊勢市（内宮・外宮）"
     ],
     "description": "神宮の二つの正宮「二所大神宮（皇大神宮・豊受大神宮）」がある、お伊勢参りの中心地",
     "info": {
         "markdown": "ise/README.md",
         "links": [
+            {
+                "text": "皇大神宮（内宮）九十二社 Kotai Jingu (Naiku), Mie",
+                "url": "?id=naiku",
+                "target": "_self"
+            },
+            {
+                "text": "豊受大神宮（外宮）三十三社 Toyouke Dai-Jingu (Geku), Mie",
+                "url": "?id=geku",
+                "target": "_self"
+            },
             {
                 "text": "神宮の博物館と市内のモデルコース｜神宮の回り方｜ご参拝・ご祈祷｜伊勢神宮",
                 "url": "https://www.isejingu.or.jp/visit/course/ise.html",
@@ -39,7 +49,96 @@
         "zoom": 12
     },
     "date": [
-        "ise/date.json"
+        "date/index.json",
+        "naiku/index.json",
+        "geku/index.json"
+    ],
+    "events": [
+        {
+            "date": {
+                "month": "毎",
+                "date": [
+                    1
+                ]
+            },
+            "title": [
+                "朔日（ついたち）参り",
+                "Tsuitachi Mairi"
+            ],
+            "description": "おはらい町・おかげ横丁",
+            "note": [
+                "Day 1st of Every Month",
+                "毎月一日"
+            ],
+            "info": {
+                "note": [
+                    "おはらい町・おかげ横丁にて、朝五時ごろから",
+                    "朔日餅や朔日粥をはじめ、様々なおもてなしが行われる"
+                ],
+                "links": [
+                    {
+                        "text": "伊勢市（内宮・外宮） Ise City, Mie",
+                        "url": "?id=ise",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "month": [
+                3,
+                4
+            ],
+            "title": [
+                "神宮奉納大相撲",
+                "神宮相撲場（神宮会館内）"
+            ],
+            "description": "Jingu Hono Ozumo (sumo wrestling)",
+            "note": [
+                "Late March - Early April every year",
+                "毎年 三月下旬から四月上旬"
+            ],
+            "info": {
+                "note": [
+                    "伊勢神宮崇敬会主催の神宮奉納大相撲",
+                    "午前11時より横綱の土俵入りが古式ゆかしく奉納される"
+                ],
+                "links": null
+            }
+        },
+        {
+            "date": {
+                "month": 10,
+                "date": [
+                    15,
+                    16
+                ]
+            },
+            "title": [
+                "初穂曳",
+                "Hatsuhobiki"
+            ],
+            "description": "神宮の神嘗祭を祝う、伊勢の民俗行事",
+            "note": [
+                "October 15th - 16th every year",
+                "毎年 十月十五日から十六日"
+            ],
+            "info": {
+                "markdown": "ise/hatsuhobiki.md",
+                "links": [
+                    {
+                        "text": "伊勢市（内宮・外宮） Ise City, Mie",
+                        "url": "?id=ise",
+                        "target": "_self"
+                    },
+                    {
+                        "text": "初穂曳",
+                        "url": "https://isesengu.jp/hatsuhobiki/",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        }
     ],
     "features": [
         {
@@ -126,43 +225,18 @@
                 ],
                 "links": [
                     {
-                        "text": "豊受大神宮（外宮）｜神宮について｜伊勢神宮",
-                        "url": "https://www.isejingu.or.jp/about/geku/",
+                        "text": "豊受大神宮（外宮）三十三社 Toyouke Dai-Jingu (Geku), Mie",
+                        "url": "?id=geku",
+                        "target": "_self"
+                    },
+                    {
+                        "text": "豊受大神宮（伊勢神宮 外宮） - Google マップ",
+                        "url": "https://maps.app.goo.gl/WYFZd82ZBaKUyBEw6",
                         "target": "_blank"
                     },
                     {
                         "text": "外宮のモデルコース｜神宮の回り方｜ご参拝・ご祈祷｜伊勢神宮",
                         "url": "https://www.isejingu.or.jp/visit/course/geku.html",
-                        "target": "_blank"
-                    },
-                    {
-                        "text": "トヨウケビメ - Wikipedia",
-                        "url": "https://ja.wikipedia.org/wiki/トヨウケビメ",
-                        "target": "_blank"
-                    },
-                    {
-                        "text": "豊受大神宮 - Wikipedia",
-                        "url": "https://ja.wikipedia.org/wiki/豊受大神宮",
-                        "target": "_blank"
-                    },
-                    {
-                        "text": "多賀宮 - Wikipedia",
-                        "url": "https://ja.wikipedia.org/wiki/多賀宮",
-                        "target": "_blank"
-                    },
-                    {
-                        "text": "土宮 - Wikipedia",
-                        "url": "https://ja.wikipedia.org/wiki/土宮",
-                        "target": "_blank"
-                    },
-                    {
-                        "text": "風宮 - Wikipedia",
-                        "url": "https://ja.wikipedia.org/wiki/風宮",
-                        "target": "_blank"
-                    },
-                    {
-                        "text": "豊受大神宮（伊勢神宮 外宮） - Google マップ",
-                        "url": "https://maps.app.goo.gl/WYFZd82ZBaKUyBEw6",
                         "target": "_blank"
                     }
                 ],
@@ -174,8 +248,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    136.7059743619164,
-                    34.493110094887925
+                    136.7060015092273,
+                    34.492986644773794
                 ]
             },
             "properties": {
@@ -300,7 +374,7 @@
             "properties": {
                 "title": "宇治山田駅",
                 "description": "天皇や内閣総理大臣が神宮参拝を行う際の乗降駅、建物自体が登録有形文化財",
-                "note":[
+                "note": [
                     "隣の伊勢市駅（旧・山田駅）とともに伊勢神宮外宮の最寄駅",
                     "（宇治は伊勢神宮内宮の鳥居前町・山田は伊勢神宮外宮の鳥居前町を指す）"
                 ],
@@ -333,7 +407,7 @@
                 "title": "両宮遥拝所",
                 "description": "神宮の二つの正宮「二所大神宮（皇大神宮・豊受大神宮）」を遠くから拝む遥拝所",
                 "note": [
-                    "北方には、伊勢神宮に関する事務をつかさどる機関「神宮司庁」がある"
+                    "北方には、伊勢神宮に関する事務をつかさどる機関「神宮司庁」の施設がある"
                 ],
                 "links": [
                     {
@@ -450,7 +524,7 @@
                 "note": [
                     "五十鈴川（いすずがわ）にかかる宇治橋（うじばし）は、皇大神宮・正宮の宮域（内宮）への入り口",
                     "五十鈴川は、倭姫命が「御裳（神聖な衣服）を洗い清めた清流との伝承から「御裳濯川（みもすそがわ）」とも呼ばれ、川辺には手水舎と同じように清めを行う所「御手洗場（みたらし）」がある",
-                    "御手洗場のすぐ近くに鎮座する「瀧祭神（たきまつりのかみ）」は、地域住民から「おとりつぎさん」と親しまれ、内宮参拝の一番初めに参る習わしがある"
+                    "御手洗場のすぐ近くに鎮座する所管社「瀧祭神（たきまつりのかみ）」は、地域住民から「おとりつぎさん」と親しまれ、内宮参拝の一番初めに参る習わしがある"
                 ],
                 "links": [
                     {
@@ -461,16 +535,6 @@
                     {
                         "text": "五十鈴川 - Wikipedia",
                         "url": "https://ja.wikipedia.org/wiki/五十鈴川",
-                        "target": "_blank"
-                    },
-                    {
-                        "text": "滝祭神 - Wikipedia",
-                        "url": "https://ja.wikipedia.org/wiki/滝祭神",
-                        "target": "_blank"
-                    },
-                    {
-                        "text": "瀧祭神 - Google マップ",
-                        "url": "https://maps.app.goo.gl/z3DkJXvKCo4WEvvAA",
                         "target": "_blank"
                     }
                 ],
@@ -493,7 +557,6 @@
                     "宮域内は右側通行、御手洗場・瀧祭神 → 正宮 → 荒祭宮（五丈殿・四至神）→ 風日祈宮の順に参拝するのが一般的",
                     "「荒祭宮 あらまつりのみや」<br>天照大神の荒々しい側面・荒ぶる魂「荒御魂」を祀る内宮第一の別宮",
                     "「風日祈宮 かざひのみのみや」<br>外宮の風宮と同様に「神風」を吹かせた風雨の神を祀る別宮",
-                    "「大山祇神社・子安神社」<br>内宮の所管社30社のうち第29位（おおやまつみ）と所管社30社のうち第30位（こやす）<br>神路山の山裾にある山の守護神（かつては神宮式年遷宮の最初の祭儀である「山口祭」が催行される地だった）",
                     "参拝者の休憩所の参集殿では湯茶が用意されているほか、参宮記念品の授与が行われる"
                 ],
                 "links": [
@@ -505,26 +568,6 @@
                     {
                         "text": "内宮のモデルコース｜神宮の回り方｜ご参拝・ご祈祷｜伊勢神宮",
                         "url": "https://www.isejingu.or.jp/visit/course/naiku.html",
-                        "target": "_blank"
-                    },
-                    {
-                        "text": "天照大神 - Wikipedia",
-                        "url": "https://ja.wikipedia.org/wiki/天照大神",
-                        "target": "_blank"
-                    },
-                    {
-                        "text": "皇大神宮 - Wikipedia",
-                        "url": "https://ja.wikipedia.org/wiki/皇大神宮",
-                        "target": "_blank"
-                    },
-                    {
-                        "text": "荒祭宮 - Wikipedia",
-                        "url": "https://ja.wikipedia.org/wiki/荒祭宮",
-                        "target": "_blank"
-                    },
-                    {
-                        "text": "風日祈宮 - Wikipedia",
-                        "url": "https://ja.wikipedia.org/wiki/風日祈宮",
                         "target": "_blank"
                     },
                     {
@@ -582,7 +625,7 @@
                 "description": "倭姫命が五十鈴宮（五十鈴川のほとり）に至る以前に留まった、最後の元伊勢（なじめじんじゃ）の伝承地",
                 "note": [
                     "地元では「興玉の森（おきたまのもり）」と呼ばれる小高い丘",
-                    "丘の上には、内宮摂社第13位「宇治山田神社（うじようだ）」・内宮末社16社の第13位「那自賣神社（なじめ）」が同座する"
+                    "丘の上には、内宮摂社第13位「宇治山田神社」・内宮末社「那自賣神社」が鎮座する"
                 ],
                 "links": [
                     {
@@ -612,8 +655,8 @@
                 "title": "神宮神田",
                 "description": "神々に捧げられる「御料米」を育てる「神田（しんでん）」",
                 "note": [
-                    "神田の正面にある忌鍬山（ゆくわやま）は、瀧原宮の次の元伊勢「矢田宮」の伝承地",
-                    "（神田の西方に鎮座する「大土御祖神社」は、その次の元伊勢「家田々上宮」の伝承地にあたる）"
+                    "神田の正面にある忌鍬山（ゆくわやま）周辺は、瀧原宮の次の元伊勢「矢田宮」の伝承地",
+                    "（神田の西方に鎮座する「大土御祖神社・国津御祖神社」周辺は、その次の元伊勢「家田々上宮」の伝承地にあたる）"
                 ],
                 "links": [
                     {

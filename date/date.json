@@ -91,15 +91,20 @@
             ],
             "info": {
                 "note": [
-                    "（機殿神社で機織り見学・松坂市探索）",
+                    "（機殿神社で機織り見学・周辺探索）",
                     "",
                     "13:00 レンタサイクル返却",
                     "近鉄電車で「松坂」から「宇治山田」駅へ（約30分）"
                 ],
                 "links": [
                     {
-                        "text": "神三郡（松阪・多気郡・度会郡） Tsu - Taki - Watarai, Mie",
+                        "text": "神三郡（松阪市・多気郡・度会郡） Matsusaka - Taki - Watarai, Mie",
                         "url": "?id=ise&area=matsuzaka",
+                        "target": "_self"
+                    },
+                    {
+                        "text": "皇大神宮（内宮）九十二社 Kotai Jingu (Naiku), Mie",
+                        "url": "?id=naiku",
                         "target": "_self"
                     }
                 ]
@@ -118,18 +123,12 @@
             ],
             "description": "松阪市無形民俗文化財",
             "note": [
-                "May/October 14th every year",
-                "毎年 五月・十月 十四日 正午"
+                "May/October 1st - 14th every year",
+                "毎年 五月・十月 一日から十四日"
             ],
             "info": {
-                "markdown": "date/kanmiso.md",
-                "links": [
-                    {
-                        "text": "神三郡（松阪・多気郡・度会郡） Tsu - Taki - Watarai, Mie",
-                        "url": "?id=ise&area=matsuzaka",
-                        "target": "_self"
-                    }
-                ]
+                "markdown": "naiku/kanmiso.md",
+                "links": null
             }
         },
         {
@@ -156,8 +155,13 @@
                 ],
                 "links": [
                     {
-                        "text": "神宮（内宮・外宮） Jingu, Ise Mie",
+                        "text": "伊勢市（内宮・外宮） Ise City, Mie",
                         "url": "?id=ise",
+                        "target": "_self"
+                    },
+                    {
+                        "text": "豊受大神宮（外宮）三十三社 Toyouke Dai-Jingu (Geku), Mie",
+                        "url": "?id=geku",
                         "target": "_self"
                     }
                 ]
@@ -180,7 +184,7 @@
                 "毎日 朝夕 一日二度"
             ],
             "info": {
-                "markdown": "date/higotoasayu.md",
+                "markdown": "geku/higotoasayu.md",
                 "links": null
             }
         },
@@ -212,8 +216,13 @@
                 ],
                 "links": [
                     {
-                        "text": "神宮（内宮・外宮） Jingu, Ise Mie",
+                        "text": "伊勢市（内宮・外宮） Ise City, Mie",
                         "url": "?id=ise",
+                        "target": "_self"
+                    },
+                    {
+                        "text": "皇大神宮（内宮）九十二社 Kotai Jingu (Naiku), Mie",
+                        "url": "?id=naiku",
                         "target": "_self"
                     },
                     {
