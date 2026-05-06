@@ -63,6 +63,9 @@
         ],
         "zoom": 12
     },
+    "date": [
+        "shima/date.json"
+    ],
     "features": [
         {
             "type": "Feature",

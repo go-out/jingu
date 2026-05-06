@@ -110,12 +110,12 @@
                         "target": "_self"
                     },
                     {
-                        "text": "皇大神宮（内宮）九十二社 Kotai Jingu (Naiku), Mie",
+                        "text": "皇大神宮（内宮）九十二社 Kotai Jingu (Naiku)",
                         "url": "?id=naiku",
                         "target": "_self"
                     },
                     {
-                        "text": "豊受大神宮（外宮）三十三社 Toyouke Dai-Jingu (Geku), Mie",
+                        "text": "豊受大神宮（外宮）三十三社 Toyouke Dai-Jingu (Geku)",
                         "url": "?id=geku",
                         "target": "_self"
                     },
@@ -199,7 +199,7 @@
                         "target": "_self"
                     },
                     {
-                        "text": "皇大神宮（内宮）九十二社 Kotai Jingu (Naiku), Mie",
+                        "text": "皇大神宮（内宮）九十二社 Kotai Jingu (Naiku)",
                         "url": "?id=naiku",
                         "target": "_self"
                     }
@@ -233,12 +233,12 @@
                         "target": "_blank"
                     },
                     {
-                        "text": "神三郡（松阪市・多気郡・度会郡） Matsusaka - Taki - Watarai, Mie",
-                        "url": "?id=ise&area=matsuzaka",
+                        "text": "神三郡（度会郡・多気郡・飯野郡） Matsusaka - Ise, Mie",
+                        "url": "?id=ise&area=shinsangun",
                         "target": "_self"
                     },
                     {
-                        "text": "皇大神宮（内宮）九十二社 Kotai Jingu (Naiku), Mie",
+                        "text": "皇大神宮（内宮）九十二社 Kotai Jingu (Naiku)",
                         "url": "?id=naiku",
                         "target": "_self"
                     }

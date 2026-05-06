@@ -1,14 +1,29 @@
 {
     "type": "FeatureCollection",
-    "url": "?id=ise&area=matsuzaka",
+    "url": "?id=ise&area=shinsangun",
     "title": [
-        "Matsusaka - Taki - Watarai, Mie",
-        "神三郡（松阪市・多気郡・度会郡）"
+        "Matsusaka - Ise, Mie",
+        "神三郡（度会郡・多気郡・飯野郡）"
     ],
     "description": "織物の神の聖域、神宮に奉仕した御杖代（みつえしろ、神の意を受ける依代）が暮らした「斎宮」周辺",
+    "cover": {
+        "directory": "https://archive.org/download/jingu/jingu.thumbs/",
+        "url": [
+            "20260501/saiku/006_000020.jpg",
+            "20260501/saiku/007_000001.jpg",
+            "20260501/saiku/008_000015.jpg",
+            "20260501/naiku/hatadono/004_000001.jpg",
+            "20260501/naiku/hatadono/008_000020.jpg"
+        ]
+    },
     "info": {
-        "markdown": "ise/matsuzaka/README.md",
+        "markdown": "ise/shinsangun/README.md",
         "links": [
+            {
+                "text": "皇大神宮（内宮）九十二社 Kotai Jingu (Naiku)",
+                "url": "?id=naiku",
+                "target": "_self"
+            },
             {
                 "text": "一般社団法人松阪市観光協会",
                 "url": "https://www.matsusaka-kanko.com/",
@@ -25,18 +40,13 @@
                 "target": "_blank"
             },
             {
-                "text": "機殿神社 - Wikipedia",
-                "url": "https://ja.wikipedia.org/wiki/機殿神社",
-                "target": "_blank"
-            },
-            {
                 "text": "松阪市 - Wikipedia",
                 "url": "https://ja.wikipedia.org/wiki/松阪市",
                 "target": "_blank"
             },
             {
-                "text": "飯野郡 - Wikipedia",
-                "url": "https://ja.wikipedia.org/wiki/飯野郡",
+                "text": "度会郡 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/度会郡",
                 "target": "_blank"
             },
             {
@@ -45,8 +55,13 @@
                 "target": "_blank"
             },
             {
-                "text": "度会郡 - Wikipedia",
-                "url": "https://ja.wikipedia.org/wiki/度会郡",
+                "text": "飯野郡 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/飯野郡",
+                "target": "_blank"
+            },
+            {
+                "text": "機殿神社 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/機殿神社",
                 "target": "_blank"
             },
             {
@@ -63,8 +78,8 @@
     },
     "map": {
         "center": [
-            136.61548171881049,
-            34.538570612278534
+            136.6148896222423,
+            34.539062732924975
         ],
         "bounds": [
             [
@@ -161,6 +176,228 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    136.6164963223958,
+                    34.53872802781005
+                ],
+                "address": "〒515-0321 三重県多気郡明和町斎宮３２０７"
+            },
+            "properties": {
+                "title": "斎宮跡",
+                "description": "飛鳥・奈良時代から南北朝時代にかけて、神宮に奉仕した御杖代が暮らした斎宮（斎宮寮）があった地（国の史跡）",
+                "note": [
+                    "周辺には「斎宮跡歴史ロマン広場」「さいくう平安の杜」が整備されている",
+                    "（近鉄「斎宮」駅南口周辺には、平日のレンタサイクル受付所がある）"
+                ],
+                "links": [
+                    {
+                        "text": "斎宮 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/斎宮",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "斎宮跡 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/斎宮跡",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "斎宮跡 - Google マップ",
+                        "url": "https://maps.app.goo.gl/kBFrKL65p4vd85mu6",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "明和町レンタサイクル - Google マップ",
+                        "url": "https://maps.app.goo.gl/unqTF6gqrmd8TZza9",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "明和町レンタサイクル - 一般社団法人明和観光商社",
+                        "url": "https://dmo.hana-meiwa.jp/2023/01/23/明和町レンタサイクル/",
+                        "target": "_blank"
+                    }
+                ],
+                "archive": [
+                    {
+                        "year": 2026,
+                        "month": 5,
+                        "date": [
+                            2
+                        ],
+                        "title": null,
+                        "identifier": "jingu",
+                        "count": 3,
+                        "formats": ".ia.mp4",
+                        "files": [
+                            "20260501/saiku/006",
+                            "20260501/saiku/007",
+                            "20260501/saiku/008"
+                        ],
+                        "cover": "20260501/saiku/007_000028.jpg"
+                    }
+                ],
+                "zoom": 15.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.61867279348866,
+                    34.53678136231653
+                ]
+            },
+            "properties": {
+                "title": "竹神社",
+                "description": "明治44（1911）年に旧斎宮村にあった25社の神を合祀して誕生、元伊勢「佐佐牟江宮」の比定地（たけ）",
+                "note": [
+                    "旧社地は、斎宮跡を整備し博物館やさいくうの杜などを建てた史跡公園の中",
+                    "現社地は、伊勢神宮に仕えた「斎王」が暮らしていた斎宮城があったとされる地",
+                    "（境外南側には、土日曜日のレンタサイクル受付所）"
+                ],
+                "links": [
+                    {
+                        "text": "竹神社 (明和町) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/竹神社_(明和町)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "竹神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/hY3vqkf9UiUgPwCDA",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "みのりや_斎宮の小さな商店街 - Google マップ",
+                        "url": "https://maps.app.goo.gl/BcVDbiQkw3YE6Ar68",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "明和町レンタサイクル - 一般社団法人明和観光商社",
+                        "url": "https://dmo.hana-meiwa.jp/2023/01/23/明和町レンタサイクル/",
+                        "target": "_blank"
+                    }
+                ],
+                "archive": [
+                    {
+                        "year": 2026,
+                        "month": 5,
+                        "date": [
+                            2
+                        ],
+                        "title": null,
+                        "identifier": "jingu",
+                        "count": 2,
+                        "formats": ".ia.mp4",
+                        "files": [
+                            "20260501/saiku/001",
+                            "20260501/saiku/002",
+                            "20260501/saiku/003",
+                            "20260501/saiku/004",
+                            "20260501/saiku/005"
+                        ],
+                        "cover": "20260501/saiku/005_000001.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.60705352962538,
+                    34.57910381067494
+                ]
+            },
+            "properties": {
+                "title": "神服織機殿神社",
+                "description": "天照大神の衣「神御衣」のうち、和妙（にきたえ・絹の反物）を奉織する皇大神宮の所管社（かんはとりはたどの、下機殿）",
+                "note": [
+                    "天照大神の御衣（おんぞ）を調進する2社の御料地（ごりょうち）のひとつ",
+                    "毎年五月・十月の上旬（午前八時から午後五時まで）に境内の八尋殿で、女性の織子が愛知県の三河産の赤引の糸を使用して「和妙」を織る",
+                    "和妙を織るのに通常4-5日、乾燥にさらに数日を要する（乾かした和妙は箱に入れ、神御衣奉織鎮謝祭まで棚の上に安置される）"
+                ],
+                "links": [
+                    {
+                        "text": "神服織機殿神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/8xyNV532CBW87CqH6",
+                        "target": "_blank"
+                    }
+                ],
+                "archive": [
+                    {
+                        "year": 2026,
+                        "month": 5,
+                        "date": [
+                            2
+                        ],
+                        "title": null,
+                        "identifier": "jingu",
+                        "count": 2,
+                        "formats": ".ia.mp4",
+                        "files": [
+                            "20260501/naiku/hatadono/005",
+                            "20260501/naiku/hatadono/006",
+                            "20260501/naiku/hatadono/007",
+                            "20260501/naiku/hatadono/008",
+                            "20260501/naiku/hatadono/009"
+                        ],
+                        "cover": "20260501/naiku/hatadono/006_000001.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.60132962526006,
+                    34.562789998991974
+                ]
+            },
+            "properties": {
+                "title": "神麻続機殿神社",
+                "description": "天照大神の衣「神御衣」のうち、荒妙（あらたえ・麻布）を奉織する皇大神宮の所管社（かんおみはたどの、上機殿）",
+                "note": [
+                    "天照大神の御衣（おんぞ）を調進する2社の御料地（ごりょうち）のひとつ",
+                    "毎年五月・十月の上旬（午前八時から午後五時まで）に境内の八尋殿で、男性の織子が奈良県奈良市月ヶ瀬産（かつては松阪市御麻生薗（みおぞの、神宮の麻園に由来する地名とされる）産）の麻を使用して「荒妙」を織る",
+                    "通常5-6日で織り終わるが、作業が遅れると蝋燭の灯りを頼りに夜遅くまで作業し、10日ほどかかることもあるという",
+                    "織り上げた荒妙は数日乾燥させ、御衣奉織鎮謝祭まで八尋殿に安置される"
+                ],
+                "links": [
+                    {
+                        "text": "神麻続機殿神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/f84e1awpvDxigbUb7",
+                        "target": "_blank"
+                    }
+                ],
+                "archive": [
+                    {
+                        "year": 2026,
+                        "month": 5,
+                        "date": [
+                            2
+                        ],
+                        "title": null,
+                        "identifier": "jingu",
+                        "count": 2,
+                        "formats": ".ia.mp4",
+                        "files": [
+                            "20260501/naiku/hatadono/001",
+                            "20260501/naiku/hatadono/002",
+                            "20260501/naiku/hatadono/003",
+                            "20260501/naiku/hatadono/004"
+                        ],
+                        "cover": "20260501/naiku/hatadono/002_000015.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     136.53498959077353,
                     34.5769810447396
                 ],
@@ -245,119 +482,6 @@
                     }
                 ],
                 "zoom": 16.5
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    136.60705352962538,
-                    34.57910381067494
-                ]
-            },
-            "properties": {
-                "title": "神服織機殿神社",
-                "description": "天照大神の衣「神御衣」のうち、和妙（にきたえ・絹の反物）を奉織する皇大神宮の所管社（かんはとりはたどの、下機殿）",
-                "note": [
-                    "天照大神の御衣（おんぞ）を調進する2社の御料地（ごりょうち）のひとつ",
-                    "毎年五月・十月の上旬（午前八時から午後五時まで）に境内の八尋殿で、女性の織子が愛知県の三河産の赤引の糸を使用して「和妙」を織る",
-                    "和妙を織るのに通常4-5日、乾燥にさらに数日を要する（乾かした和妙は箱に入れ、神御衣奉織鎮謝祭まで棚の上に安置される）"
-                ],
-                "links": [
-                    {
-                        "text": "神服織機殿神社 - Google マップ",
-                        "url": "https://maps.app.goo.gl/8xyNV532CBW87CqH6",
-                        "target": "_blank"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    136.60132962526006,
-                    34.562789998991974
-                ]
-            },
-            "properties": {
-                "title": "神麻続機殿神社",
-                "description": "天照大神の衣「神御衣」のうち、荒妙（あらたえ・麻布）を奉織する皇大神宮の所管社（かんおみはたどの、上機殿）",
-                "note": [
-                    "天照大神の御衣（おんぞ）を調進する2社の御料地（ごりょうち）のひとつ",
-                    "毎年五月・十月の上旬（午前八時から午後五時まで）に境内の八尋殿で、男性の織子が奈良県奈良市月ヶ瀬産（かつては松阪市御麻生薗（みおぞの、神宮の麻園に由来する地名とされる）産）の麻を使用して「荒妙」を織る",
-                    "通常5-6日で織り終わるが、作業が遅れると蝋燭の灯りを頼りに夜遅くまで作業し、10日ほどかかることもあるという",
-                    "織り上げた荒妙は数日乾燥させ、御衣奉織鎮謝祭まで八尋殿に安置される"
-                ],
-                "links": [
-                    {
-                        "text": "神麻続機殿神社 - Google マップ",
-                        "url": "https://maps.app.goo.gl/f84e1awpvDxigbUb7",
-                        "target": "_blank"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    136.61548171881049,
-                    34.538570612278534
-                ],
-                "address": "〒515-0321 三重県多気郡明和町斎宮３２０７"
-            },
-            "properties": {
-                "title": "斎宮跡",
-                "description": "飛鳥・奈良時代から南北朝時代にかけて、神宮に奉仕した御杖代が暮らした斎宮（斎宮寮）があった地（国の史跡）",
-                "note": [
-                    "周辺には「斎宮跡歴史ロマン広場」「さいくう平安の杜」が整備されている"
-                ],
-                "links": [
-                    {
-                        "text": "斎宮 - Wikipedia",
-                        "url": "https://ja.wikipedia.org/wiki/斎宮",
-                        "target": "_blank"
-                    },
-                    {
-                        "text": "斎宮跡 - Wikipedia",
-                        "url": "https://ja.wikipedia.org/wiki/斎宮跡",
-                        "target": "_blank"
-                    },
-                    {
-                        "text": "斎宮跡 - Google マップ",
-                        "url": "https://maps.app.goo.gl/kBFrKL65p4vd85mu6",
-                        "target": "_blank"
-                    }
-                ],
-                "zoom": 15.5
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    136.5570132978665,
-                    34.55274674427584
-                ]
-            },
-            "properties": {
-                "title": "かしわの焼肉 トリユウ",
-                "description": "のどかな住宅街にポツンと店を構える、昔ながらの鶏焼肉の名店",
-                "note": [
-                    "営業時間 11:30 - 20:00（月・火定休日）"
-                ],
-                "links": [
-                    {
-                        "text": "かしわの焼肉 トリユウ - Google マップ",
-                        "url": "https://maps.app.goo.gl/vDE4vj3hc3WfTVf17",
-                        "target": "_blank"
-                    }
-                ]
             }
         },
         {
@@ -506,6 +630,30 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    136.5570132978665,
+                    34.55274674427584
+                ]
+            },
+            "properties": {
+                "title": "かしわの焼肉 トリユウ",
+                "description": "のどかな住宅街にポツンと店を構える、昔ながらの鶏焼肉の名店",
+                "note": [
+                    "営業時間 11:30 - 20:00（月・火定休日）"
+                ],
+                "links": [
+                    {
+                        "text": "かしわの焼肉 トリユウ - Google マップ",
+                        "url": "https://maps.app.goo.gl/vDE4vj3hc3WfTVf17",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     136.5418573552543,
                     34.52273357022034
                 ]
@@ -571,36 +719,6 @@
                     {
                         "text": "前島食堂 - Google マップ",
                         "url": "https://maps.app.goo.gl/UAQCTe1jmKcTtLqy7",
-                        "target": "_blank"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    136.6186248894349,
-                    34.53727538490753
-                ]
-            },
-            "properties": {
-                "title": "竹神社",
-                "description": "明治44（1911）年に旧斎宮村にあった25社の神を合祀して誕生、元伊勢「佐佐牟江宮」の比定地（たけ）",
-                "note": [
-                    "旧社地は、斎宮跡を整備し博物館やさいくうの杜などを建てた史跡公園の中",
-                    "現社地は、伊勢神宮に仕えた「斎王」が暮らしていた斎宮城があったとされる地"
-                ],
-                "links": [
-                    {
-                        "text": "竹神社 (明和町) - Wikipedia",
-                        "url": "https://ja.wikipedia.org/wiki/竹神社_(明和町)",
-                        "target": "_blank"
-                    },
-                    {
-                        "text": "竹神社 - Google マップ",
-                        "url": "https://maps.app.goo.gl/hY3vqkf9UiUgPwCDA",
                         "target": "_blank"
                     }
                 ]

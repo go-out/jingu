@@ -1,36 +1,4 @@
 {
-    "path": "../",
-    "url": "date/?map=shima_toba",
-    "date": null,
-    "title": [
-        "Toba - Shima, Mie",
-        "志摩国（志摩・鳥羽）"
-    ],
-    "description": "海女の磯笛は「日本の音風景100選」・リアス式海岸で知られる英虞湾は「日本の夕陽百選」に選ばれるなど、美しい日本の風景が残る「志摩半島」",
-    "cover": {
-        "title": [
-            "志摩国（志摩・鳥羽）",
-            "Toba - Shima, Mie"
-        ],
-        "description": "恒例祭典・行事と催し",
-        "note": [
-            "_",
-            "_"
-        ],
-        "directory": null,
-        "url": null
-    },
-    "info": {
-        "index": null,
-        "markdown": "shima/README.md",
-        "links": [
-            {
-                "text": "志摩国（志摩・鳥羽） Shima (Toba - Shima), Mie",
-                "url": "?id=shima",
-                "target": "_self"
-            }
-        ]
-    },
     "events": [
         {
             "date": {

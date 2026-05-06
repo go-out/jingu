@@ -17,12 +17,12 @@
         "markdown": "date/README.md",
         "links": [
             {
-                "text": "皇大神宮（内宮）九十二社 Kotai Jingu (Naiku), Mie",
+                "text": "皇大神宮（内宮）九十二社 Kotai Jingu (Naiku)",
                 "url": "?id=naiku",
                 "target": "_self"
             },
             {
-                "text": "豊受大神宮（外宮）三十三社 Toyouke Dai-Jingu (Geku), Mie",
+                "text": "豊受大神宮（外宮）三十三社 Toyouke Dai-Jingu (Geku)",
                 "url": "?id=geku",
                 "target": "_self"
             },

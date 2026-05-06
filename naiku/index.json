@@ -3,10 +3,23 @@
     "type": "FeatureCollection",
     "url": "?id=naiku",
     "title": [
-        "Kotai Jingu (Naiku), Mie",
+        "Kotai Jingu (Naiku)",
         "皇大神宮（内宮）九十二社"
     ],
     "description": "三重県伊勢市・志摩市と神三郡に分布する、皇大神宮の正宮・別宮と摂末社",
+    "cover": {
+        "title": [
+            "皇大神宮 歳時記",
+            "Kotai Jingu Annual Ceremonies"
+        ],
+        "description": "内宮の祭典",
+        "note": null,
+        "directory": "https://archive.org/download/jingu/jingu.thumbs/",
+        "url": [
+            "20260501/naiku/001_000010.jpg",
+            "20260501/naiku/008_000001.jpg"
+        ]
+    },
     "info": {
         "markdown": "naiku/README.md",
         "links": [
@@ -31,16 +44,16 @@
                 "target": "_self"
             },
             {
-                "text": "神三郡（松阪市・多気郡・度会郡） Matsusaka - Taki - Watarai, Mie",
-                "url": "?id=ise&area=matsuzaka",
+                "text": "神三郡（度会郡・多気郡・飯野郡） Matsusaka - Ise, Mie",
+                "url": "?id=ise&area=shinsangun",
                 "target": "_self"
             }
         ]
     },
     "map": {
         "center": [
-            136.72504108198467,
-            34.4555004677909
+            136.72369941442446,
+            34.4556757797301
         ],
         "bounds": [
             [
@@ -127,8 +140,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    136.72504108198467,
-                    34.4555004677909
+                    136.72547074249894,
+                    34.454433782755714
                 ]
             },
             "properties": {
@@ -155,6 +168,24 @@
                         "text": "皇大神宮（伊勢神宮 内宮） - Google マップ",
                         "url": "https://maps.app.goo.gl/SkKKXG1atrCPXUTWA",
                         "target": "_blank"
+                    }
+                ],
+                "archive": [
+                    {
+                        "year": 2026,
+                        "month": 5,
+                        "date": [
+                            1
+                        ],
+                        "title": null,
+                        "identifier": "jingu",
+                        "count": 1,
+                        "formats": ".ia.mp4",
+                        "files": [
+                            "20260501/naiku/008",
+                            "20260501/naiku/009"
+                        ],
+                        "cover": "20260501/naiku/009_000010.jpg"
                     }
                 ],
                 "zoom": 15
@@ -187,6 +218,25 @@
                         "text": "瀧祭神 - Google マップ",
                         "url": "https://maps.app.goo.gl/z3DkJXvKCo4WEvvAA",
                         "target": "_blank"
+                    }
+                ],
+                "archive": [
+                    {
+                        "year": 2026,
+                        "month": 5,
+                        "date": [
+                            1
+                        ],
+                        "title": null,
+                        "identifier": "jingu",
+                        "count": 1,
+                        "formats": ".ia.mp4",
+                        "files": [
+                            "20260501/naiku/005",
+                            "20260501/naiku/006",
+                            "20260501/naiku/007"
+                        ],
+                        "cover": "20260501/naiku/007_000024.jpg"
                     }
                 ],
                 "zoom": 16
@@ -238,6 +288,7 @@
                 "note": [
                     "関西周辺に多数存在する「元伊勢」の伝承地のうち、神宮が唯一「別宮」と定める地",
                     "皇大神宮・正宮の宮域（内宮）と作りがほぼ同じで「内宮の起源」とも言われる",
+                    "（内宮から瀧原宮を繋ぐ山々は、神宮に祀られる榊（さかき）の主な生産地）",
                     "宮域には、皇大神宮の境外別宮「瀧原宮（たきはらのみや）」・対となる別宮「瀧原竝宮（たきはらならびのみや）」が並立するほか、3つの所管社（若宮神社・長由介神社・川島神社）が鎮座（約44haの広大な宮域を誇る）",
                     "御手洗場となる清流（大内山川）で清めを行い、瀧原宮 → 瀧原竝宮 → 若宮神社 → 長由介神社・川島神社の順に参拝するのが一般的",
                     "<u>アクセス</u><br>JR紀伊本線「松山駅」から普通新宮行で約90分（「滝原駅」から徒歩約25分）",
@@ -282,7 +333,7 @@
                 "title": "伊雑宮",
                 "description": "内宮背後の「島路山（しまじ）」を越えた「志摩」の御贄地（神に供える食料を調達する地）",
                 "note": [
-                    "皇大神宮の境外別宮、神田を持つ唯一の別宮（いぞうぐう）",
+                    "皇大神宮（内宮）の境外別宮、神田を持つ唯一の別宮（いぞうぐう）",
                     "宮域には5の所管社（「佐美長神社」と、4つの社から成る「佐美長御前神社」）がある",
                     "<u>アクセス</u><br>近鉄志摩線で「上之郷駅」または「志摩磯部駅」下車<br>内宮前から直行シャトルバス「パールシャトル」で「川辺バス停」下車など"
                 ],
@@ -937,6 +988,28 @@
                         "target": "_blank"
                     }
                 ],
+                "archive": [
+                    {
+                        "year": 2026,
+                        "month": 5,
+                        "date": [
+                            2
+                        ],
+                        "title": null,
+                        "identifier": "jingu",
+                        "count": 3,
+                        "formats": ".ia.mp4",
+                        "files": [
+                            "20260501/naiku/kouzaki/010",
+                            "20260501/naiku/kouzaki/011",
+                            "20260501/naiku/kouzaki/012",
+                            "20260501/naiku/kouzaki/013",
+                            "20260501/naiku/kouzaki/014",
+                            "20260501/naiku/kouzaki/015"
+                        ],
+                        "cover": "20260501/naiku/kouzaki/014_000001.jpg"
+                    }
+                ],
                 "zoom": 15.5
             }
         },
@@ -1244,6 +1317,27 @@
                         "url": "https://maps.app.goo.gl/8xyNV532CBW87CqH6",
                         "target": "_blank"
                     }
+                ],
+                "archive": [
+                    {
+                        "year": 2026,
+                        "month": 5,
+                        "date": [
+                            2
+                        ],
+                        "title": null,
+                        "identifier": "jingu",
+                        "count": 2,
+                        "formats": ".ia.mp4",
+                        "files": [
+                            "20260501/naiku/hatadono/005",
+                            "20260501/naiku/hatadono/006",
+                            "20260501/naiku/hatadono/007",
+                            "20260501/naiku/hatadono/008",
+                            "20260501/naiku/hatadono/009"
+                        ],
+                        "cover": "20260501/naiku/hatadono/008_000020.jpg"
+                    }
                 ]
             }
         },
@@ -1270,6 +1364,26 @@
                         "text": "神麻続機殿神社 - Google マップ",
                         "url": "https://maps.app.goo.gl/f84e1awpvDxigbUb7",
                         "target": "_blank"
+                    }
+                ],
+                "archive": [
+                    {
+                        "year": 2026,
+                        "month": 5,
+                        "date": [
+                            2
+                        ],
+                        "title": null,
+                        "identifier": "jingu",
+                        "count": 2,
+                        "formats": ".ia.mp4",
+                        "files": [
+                            "20260501/naiku/hatadono/001",
+                            "20260501/naiku/hatadono/002",
+                            "20260501/naiku/hatadono/003",
+                            "20260501/naiku/hatadono/004"
+                        ],
+                        "cover": "20260501/naiku/hatadono/004_000001.jpg"
                     }
                 ]
             }

@@ -10,11 +10,6 @@
         "markdown": "README.md",
         "links": [
             {
-                "text": "伊勢旅行 二〇二六 春 旅のしおり",
-                "url": "date/",
-                "target": "_self"
-            },
-            {
                 "text": "伊勢神宮",
                 "url": "https://www.isejingu.or.jp/",
                 "target": "_blank"
@@ -37,6 +32,11 @@
             {
                 "text": "倭姫命 - Wikipedia",
                 "url": "https://ja.wikipedia.org/wiki/倭姫命",
+                "target": "_blank"
+            },
+            {
+                "text": "伊勢神宮参拝きっぷ｜伊勢志摩のお得なきっぷ｜観光・おでかけ｜近畿日本鉄道",
+                "url": "https://www.kintetsu.co.jp/senden/Railway/Ticket/sanpai/",
                 "target": "_blank"
             },
             {
@@ -309,8 +309,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    136.61548171881049,
-                    34.538570612278534
+                    136.6148896222423,
+                    34.539062732924975
                 ]
             },
             "properties": {
@@ -321,9 +321,30 @@
                 ],
                 "links": [
                     {
-                        "text": "神三郡（松阪市・多気郡・度会郡） Matsusaka - Taki - Watarai, Mie",
-                        "url": "?id=ise&area=matsuzaka",
+                        "text": "神三郡（度会郡・多気郡・飯野郡） Matsusaka - Ise, Mie",
+                        "url": "?id=ise&area=shinsangun",
                         "target": "_self"
+                    }
+                ],
+                "archive": [
+                    {
+                        "year": 2026,
+                        "month": 5,
+                        "date": [
+                            2
+                        ],
+                        "title": null,
+                        "identifier": "jingu",
+                        "count": 3,
+                        "formats": ".ia.mp4",
+                        "files": [
+                            "20260501/saiku/004",
+                            "20260501/saiku/007",
+                            "20260501/saiku/008",
+                            "20260501/naiku/hatadono/004",
+                            "20260501/naiku/hatadono/008"
+                        ],
+                        "cover": "20260501/saiku/007_000028.jpg"
                     }
                 ],
                 "zoom": 11
@@ -343,7 +364,7 @@
                 "title": "伊雑宮",
                 "description": "内宮背後の「島路山（しまじ）」を越えた「志摩」の御贄地（神に供える食料を調達する地）",
                 "note": [
-                    "皇大神宮の境外別宮、神田を持つ唯一の別宮（いぞうぐう）",
+                    "皇大神宮（内宮）の境外別宮、神田を持つ唯一の別宮（いぞうぐう）",
                     "宮域には5の所管社（「佐美長神社」と、4つの社から成る「佐美長御前神社」）がある",
                     "<u>アクセス</u><br>近鉄志摩線で「上之郷駅」または「志摩磯部駅」下車<br>内宮前から直行シャトルバス「パールシャトル」で「川辺バス停」下車など"
                 ],
@@ -378,7 +399,7 @@
                 ],
                 "links": [
                     {
-                        "text": "皇大神宮（内宮）九十二社 Kotai Jingu (Naiku), Mie",
+                        "text": "皇大神宮（内宮）九十二社 Kotai Jingu (Naiku)",
                         "url": "?id=naiku",
                         "target": "_self"
                     }
@@ -400,8 +421,6 @@
                 "title": "伊勢市（内宮・外宮）",
                 "description": "神宮の二つの正宮「二所大神宮（皇大神宮・豊受大神宮）」がある神域、お伊勢参りの中心地",
                 "note": [
-                    "内宮（ないくう）と呼ばれる「皇大神宮・正宮」の宮域は、「心のふるさと」と称される日本の原風景が広がる神域",
-                    "外宮（げくう）と呼ばれる「豊受大神宮・正宮」の宮域は、天照大神の食事を司る「豊受大御神（トヨウケビメ）」の神域",
                     "* 古来より「外宮先祭（げくうせんさい）の礼」といい、両宮を参拝する際は外宮〜内宮の順に参るのがしきたりとされる"
                 ],
                 "links": [
@@ -409,6 +428,31 @@
                         "text": "伊勢市（内宮・外宮） Ise City, Mie",
                         "url": "?id=ise",
                         "target": "_self"
+                    }
+                ],
+                "archive": [
+                    {
+                        "year": 2026,
+                        "month": 5,
+                        "date": [
+                            1
+                        ],
+                        "title": null,
+                        "identifier": "jingu",
+                        "count": 3,
+                        "formats": ".ia.mp4",
+                        "files": [
+                            "20260501/geku/010",
+                            "20260501/geku/011",
+                            "20260501/geku/027",
+                            "20260501/naiku/007",
+                            "20260501/naiku/008",
+                            "20260501/naiku/009",
+                            "20260501/naiku/010",
+                            "20260501/naiku/kouzaki/007",
+                            "20260501/naiku/kouzaki/009"
+                        ],
+                        "cover": "20260501/naiku/009_000010.jpg"
                     }
                 ],
                 "zoom": 12

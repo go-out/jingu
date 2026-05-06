@@ -10,8 +10,8 @@
         "markdown": "kankoodori/README.md",
         "links": [
             {
-                "text": "神三郡（松阪市・多気郡・度会郡） Matsusaka - Taki - Watarai, Mie",
-                "url": "?id=ise&area=matsuzaka",
+                "text": "神三郡（度会郡・多気郡・飯野郡） Matsusaka - Ise, Mie",
+                "url": "?id=ise&area=shinsangun",
                 "target": "_self"
             }
         ]
