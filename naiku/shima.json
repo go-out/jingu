@@ -1,0 +1,223 @@
+{
+    "url": "?id=naiku&name=shima",
+    "title": [
+        "Izawa no Miya, Shima, Mie",
+        "伊雑宮"
+    ],
+    "description": "内宮背後の「島路山（しまじ）」を越えた「志摩」の御贄地（神に供える食料を調達する地）",
+    "info": {
+        "markdown": "naiku/shima.md",
+        "links": [
+            {
+                "text": "皇大神宮（内宮）九十二社 Kotai Jingu (Naiku)",
+                "url": "../?id=naiku",
+                "target": "_self"
+            },
+            {
+                "text": "伊雑宮パンフレット | 伊勢神宮",
+                "url": "https://www.isejingu.or.jp/asset/pdf/download/pamphlet_izawa.pdf",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            136.80879585489942,
+            34.38016650380497
+        ],
+        "bounds": [
+            [
+                136.7421944683228,
+                34.22327863815501
+            ],
+            [
+                137.02022811945398,
+                34.48721145908618
+            ]
+        ],
+        "zoom": 12
+    },
+    "featuresJSON": [
+        "naiku/index.json",
+        "geku/index.json"
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.76345567351626,
+                    34.407999302915115
+                ],
+                "address": "日本 〒517-0206 三重県志摩市磯部町恵利原"
+            },
+            "properties": {
+                "title": "恵利原の水穴・風穴（天の岩戸）",
+                "description": "伊雑宮の社叢の原生林にある、湧水が出る穴及びその一帯「恵利原の水穴」と、さらにその先にある風が出る穴及びその一帯「恵利原の風穴」",
+                "note": [
+                    "往古は奥地に猿田彦大神を祀る社があり、猿田彦の森とも呼ばれていたという（猿田毘古神の故郷は伊勢国の五十鈴川の川上）",
+                    "水穴の横には滝祭宮があり、天照大神の他、泣沢女神（泉の精霊）・美都波女神（水の精霊）と、猿田彦大神が祀られている",
+                    "",
+                    "毎月22日に恵利原老人クラブが例祭を開催し、清掃・整備等の保全活動を行う",
+                    "指定天然記念物のオオシマザクラも有名で、桜の時期には「桜と餅と名水を楽しむ会」があり、この恵利原地域の伝統芸能である「早餅つき」保存会による餅のふるまいなどがある",
+                    "<u>アクセス</u><br>三重交通バス「天の岩戸口」より徒歩約20分<br>（磯部バスセンター・伊勢市駅前から「宿浦線・御座線」が運行）"
+                ],
+                "links": [
+                    {
+                        "text": "環境省選定 名水百選／詳細ページ",
+                        "url": "https://water-pub.env.go.jp/water-pub/mizu-site/meisui/data/index.asp?info=51",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "三重交通 | 築地口（発） 天の岩戸口（着） 経路情報",
+                        "url": "https://www.sanco.co.jp/krs/search/result?dep=8002&arr=8001&timecd=1&date=2026-09-25&time=11%3A00",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "天の岩戸（恵利原の水穴） - Google マップ",
+                        "url": "https://maps.app.goo.gl/MNisfYXVqByXrVKS9",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "恵利原の水穴 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/恵利原の水穴",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.797294539622,
+                    34.388705215303844
+                ],
+                "address": "三重県志摩市磯部町恵利原"
+            },
+            "properties": {
+                "title": "おうむ岩",
+                "description": "その石にむかって声や音を発すると、オウムのようにその声や音のまねをするとされる奇岩",
+                "note": [
+                    "頂上は、磯部町の田園風景が一望できる絶景スポット",
+                    "<u>アクセス</u><br>三重交通バス「恵利原」より徒歩約20分<br>（磯部バスセンター・伊勢市駅前から「宿浦線・御座線」が運行）"
+                ],
+                "links": [
+                    {
+                        "text": "鸚鵡石 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/鸚鵡石",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "鸚鵡岩 - Google マップ",
+                        "url": "https://maps.app.goo.gl/42XxzsPShhwcMCMr7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 14.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.79030077383186,
+                    34.389942073286306
+                ]
+            },
+            "properties": {
+                "title": "まんぷく食堂 板橋",
+                "description": "アットホームな大衆食堂 | 営業時間 10:00 - 19:00",
+                "note": [
+                    "定休日 毎週火曜日、第1及び第3水曜日"
+                ],
+                "links": [
+                    {
+                        "text": "まんぷく食堂 板橋 - Google マップ",
+                        "url": "https://maps.app.goo.gl/1TyFDfZB3ZRfVUJZ6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.80540833314262,
+                    34.36991388877233
+                ],
+                "address": "三重県志摩市磯部町迫間"
+            },
+            "properties": {
+                "title": "志摩磯部駅",
+                "description": "スペイン・アンダルシア地方の建物がモチーフの駅舎",
+                "note": [
+                    "駅周辺の磯部バスセンターから伊勢市駅方面へ運行する三重交通バス「宿浦線・御座線」が発着（1番のりば）",
+                    "（日本一の面積を誇るコンビニ「ローソン志摩磯部店」がある）"
+                ],
+                "links": [
+                    {
+                        "text": "1番のりば 時刻表 | 磯部バスセンターのりば",
+                        "url": "https://www.sanco.co.jp/krs/stops/8006/poles?week=4#pole1",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "志摩磯部駅 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/志摩磯部駅",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "志摩磯部駅 - Google マップ",
+                        "url": "https://maps.app.goo.gl/MY5fhyRMv5xLVBYA7",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "磯部バスセンター - Google マップ",
+                        "url": "https://maps.app.goo.gl/1oChAP2WbCNHvM246",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.80382861292497,
+                    34.37704431417559
+                ],
+                "address": "磯部町恵利原1250"
+            },
+            "properties": {
+                "title": "磯部神社",
+                "description": "伊雑宮の摂末社のような関係にある、磯部郷の惣社と称すべき神社",
+                "note": [
+                    "明治41年に創建以来、いくつかの神社を合祀して現在に至る",
+                    "地元では、伊雑宮・佐美長神社（穂落とし神社）と合わせて三社詣でをする慣わしがあるという"
+                ],
+                "links": [
+                    {
+                        "text": "磯部神社 - ISOBE JHINJYA",
+                        "url": "https://isobejj.com/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "磯部神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/vJG6xHrhketD7Gdt7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        }
+    ]
+}

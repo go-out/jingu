@@ -22,12 +22,11 @@
         import {indexJSON} from "https://go-out.github.io/sdk/js/latest/date.js";
 
         const params = new URLSearchParams(location.search);
-        let thisJSON, thisID, thisArea;
+        let thisJSON, thisArea;
+        const thisPath = "../";
         if (location.search) {
             if (params.get("map")) {
-                thisJSON = "../";
-                thisID = params.get("id").replaceAll("-", "/");
-                thisJSON = `${thisID}`;
+                thisJSON = "../" + params.get("map").replaceAll("-", "/");
                 if (params.get("area")) {
                     thisArea = params.get("area").replaceAll("-", '/');
                     thisJSON += `/${thisArea}`;
@@ -55,9 +54,9 @@
                     };
                 };
             };
-            indexJSON(thisJSON);
+            indexJSON(thisJSON, thisPath);
         } else {
-            indexJSON("./date.json");
+            indexJSON("./202609.json", thisPath);
         };
     </script>
 </head>

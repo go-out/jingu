@@ -1,0 +1,440 @@
+{
+    "url": "/jingu/date/?name=202609",
+    "lastModified": null,
+    "cover": {
+        "title": [
+            "伊勢旅行",
+            "二〇二六 秋"
+        ],
+        "description": "中秋の名月 観月会",
+        "note": [
+            "一泊二日の旅",
+            "遙宮（伊雑宮・瀧原宮）"
+        ],
+        "directory": "https://www.isejingu.or.jp/imgs/",
+        "url": "cms_info/rp6gpsah/rp6gpsah-4xk_sl.JPG"
+    },
+    "info": {
+        "index": "旅のしおり",
+        "note": [
+            "九月二十五日（金） 5:00 出発",
+            "6:00 - 8:30 近鉄特急「大阪難波」から「鳥羽」へ",
+            "8:30 - 9:00 近鉄志摩線「鳥羽」から「志摩磯部」へ",
+            "9:00 - 12:00 伊雑宮（いぞうぐう）参拝",
+            "12:00 - 16:00 恵利原の水穴（天の岩戸） - 伊勢市へ",
+            "18:00 - 20:00 観月会 外宮 勾玉池奉納舞台",
+            "ホテルルートイン松阪駅東 チェックイン",
+            "",
+            "九月二十六日（土） 9:00チェックアウト",
+            "10:30 - 14:00 瀧原宮（たきはらのみや）参拝 - (三瀬坂峠) - 多岐原神社",
+            "14:00 - 18:00 紀勢本線 阿曽 - 多気 - 松坂"
+        ],
+        "links": [
+            {
+                "text": "域外の別宮｜神宮について｜伊勢神宮",
+                "url": "https://www.isejingu.or.jp/about/outerbetsugu/",
+                "target": "_blank"
+            },
+            {
+                "text": "伊雑宮 Izawa no Miya, Shima, Mie",
+                "url": "?id=naiku&name=shima",
+                "target": "_self"
+            },
+            {
+                "text": "瀧原宮 Takihara no Miya, Watarai, Mie",
+                "url": "?id=naiku&name=takihara",
+                "target": "_self"
+            },
+            {
+                "text": "伊勢神宮参拝きっぷ｜近畿日本鉄道",
+                "url": "https://www.kintetsu.co.jp/senden/Railway/Ticket/sanpai/",
+                "target": "_blank"
+            },
+            {
+                "text": "【特急券付き】伊勢神宮参拝デジタルきっぷ | 近畿日本鉄道",
+                "url": "https://www.kintetsu.co.jp/senden/Railway/eticket/sanpai/",
+                "target": "_blank"
+            }
+        ]
+    },
+    "events": [
+        {
+            "date": {
+                "month": 9,
+                "date": [
+                    25
+                ]
+            },
+            "title": [
+                "大阪難波 - 鳥羽",
+                "近鉄特急"
+            ],
+            "description": "次発 7:05発 - 9:09着",
+            "note": [
+                "6:05発 - 8:10着",
+                "九月二十五日（金）"
+            ],
+            "info": {
+                "note": [
+                    "近鉄志摩線",
+                    "鳥羽 8:20発 - 志摩磯部 8:48着",
+                    "次発 9:29発 - 9:55着 (次次発 10:29発 - 10:55着)"
+                ],
+                "links": [
+                    {
+                        "text": "【特急時刻表】大阪難波・京都 → 伊勢志摩",
+                        "url": "https://www.kintetsu.co.jp/railway/Dia/pdf/B_osakanamba_kyoto_kashikojima.pdf",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 9,
+                "date": [
+                    25
+                ]
+            },
+            "title": [
+                "伊雑宮",
+                "いざわのみや"
+            ],
+            "cover": {
+                "directory": "https://thumb.wikimedia.org/wikipedia/commons/thumb/",
+                "url": "7/7d/Izawa-no-miya%2C_shinden-2.jpg/1280px-Izawa-no-miya%2C_shinden-2.jpg"
+            },
+            "description": "志摩磯部駅 - 佐美長神社 - 磯部神社 - 伊雑宮 - 鸚鵡岩",
+            "note": [
+                "9:00 - 12:00",
+                "九月二十五日（金）"
+            ],
+            "info": {
+                "note": [
+                    "（志摩磯部周辺に、日本一の面積を誇るコンビニ「ローソン志摩磯部店」がある）",
+                    "",
+                    "内宮背後の「島路山（しまじ）」を越えた「志摩」の御贄地（神に供える食料を調達する地）に鎮座する皇大神宮（内宮）別宮",
+                    "境外には、伊雑宮の外宮のように信仰される伊雑宮の所管社「佐美長神社（佐美長御前神社四社）」があり、伊雑宮と佐美長神社を結ぶ参道「御幸道（ごこうみち）」は、神が両社を行き来する道とされる",
+                    "また、途中にある磯部神社は、伊雑宮の摂末社のような関係にあり、伊雑宮・佐美長神社（穂落とし神社）と合わせて三社詣でをする慣わしがある",
+                    "",
+                    "鸚鵡岩（おうむいわ）は、伊雑宮から北西に約1kmほどの和合山（わごうさん）の山頂近くにある奇岩（頂上は、磯部町の田園風景が一望できる絶景スポット）",
+                    "",
+                    "（所要時間 約3時間・昼食 まんぷく食堂 板橋）"
+                ],
+                "links": [
+                    {
+                        "text": "伊雑宮 Izawa no Miya, Shima, Mie",
+                        "url": "?id=naiku&name=shima",
+                        "target": "_self"
+                    },
+                    {
+                        "text": "伊雑宮パンフレット",
+                        "url": "https://www.isejingu.or.jp/asset/pdf/download/pamphlet_izawa.pdf",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "まんぷく食堂 板橋 - 上之郷/食堂 | 食べログ",
+                        "url": "https://tabelog.com/mie/A2403/A240303/24005399/",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 9,
+                "date": [
+                    25
+                ]
+            },
+            "title": [
+                "恵利原の水穴・風穴",
+                "天の岩戸"
+            ],
+            "cover": {
+                "directory": "https://thumb.wikimedia.org/wikipedia/commons/thumb/",
+                "url": "9/9b/Amano-iwato_02.jpg/1280px-Amano-iwato_02.jpg"
+            },
+            "description": "三重交通バス「岩戸口」下車後、徒歩20分",
+            "note": [
+                "13:00 - 16:00",
+                "九月二十五日（金）"
+            ],
+            "info": {
+                "note": [
+                    "伊雑宮の社叢の原生林にある、湧水が出る穴及びその一帯「恵利原の水穴」と、さらにその先にある風が出る穴及びその一帯「恵利原の風穴」",
+                    "湧水は日本の名水百選にも選ばれ、また志摩地方の水源にもなっている",
+                    "往古は奥地に猿田彦大神を祀る社があり、猿田彦の森とも呼ばれていたという（猿田毘古神の故郷は伊勢国の五十鈴川の川上）",
+                    "水穴の横には滝祭宮があり、天照大神の他、泣沢女神（泉の精霊）・美都波女神（水の精霊）と、猿田彦大神が祀られている",
+                    "",
+                    "三重交通バス 築地口 13:46発 - 天の岩戸口 13:50着",
+                    "* 鸚鵡岩周辺から徒歩で約1時間（周辺は伊勢志摩国立公園の区域内）",
+                    "",
+                    "（所要時間 約3時間）"
+                ],
+                "links": [
+                    {
+                        "text": "環境省選定 名水百選／詳細ページ",
+                        "url": "https://water-pub.env.go.jp/water-pub/mizu-site/meisui/data/index.asp?info=51",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "三重交通 | 築地口（発） 天の岩戸口（着） 経路情報",
+                        "url": "https://www.sanco.co.jp/krs/search/result?dep=8002&arr=8001&timecd=1&date=2026-09-25&time=11%3A00",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "天の岩戸（恵利原の水穴） - Google マップ",
+                        "url": "https://maps.app.goo.gl/MNisfYXVqByXrVKS9",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "恵利原の水穴 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/恵利原の水穴",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 9,
+                "date": [
+                    25
+                ]
+            },
+            "title": [
+                "天の岩戸 - 外宮前",
+                "三重交通バス"
+            ],
+            "description": "※ その他の選択肢もあるのでGoogleマップで要検索",
+            "note": [
+                "乗換 前田古市口乗換 (乗換時間23分)",
+                "16:19発 → 17:19着"
+            ],
+            "info": {
+                "links": [
+                    {
+                        "text": "三重交通 | 天の岩戸口（発） 外宮前（着） 経路情報",
+                        "url": "https://www.sanco.co.jp/krs/search/result?arr=7024&date=2026-09-25&dep=8001&offset=5&timecd=2",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 9,
+                "date": [
+                    25
+                ]
+            },
+            "title": [
+                "観月会",
+                "外宮 勾玉池奉納舞台"
+            ],
+            "cover": {
+                "directory": "https://www.isejingu.or.jp/imgs/",
+                "url": "cms_info/rp6gpsah/rp6gpsah-g4s_sl.JPG"
+            },
+            "description": "Kangetsu-kai ⛩️ Toyouke Dai-Jingu (Geku)",
+            "note": [
+                "Mid-Autumun every year",
+                "毎年 中秋の名月 午後六時"
+            ],
+            "info": {
+                "note": [
+                    "まがたま池に特設される奉納舞台にて",
+                    "全国から応募のあった短歌と俳句の秀作を、神宮の楽師が古式により披講する雅な行事",
+                    "披講につづき、管絃と舞楽が奏行される"
+                ],
+                "links": [
+                    {
+                        "text": "神宮観月会",
+                        "url": "https://www.isejingu.or.jp/ritual/annual/kangetsukai.html#kangetsukai",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "豊受大神宮（外宮）三十三社 Toyouke Dai-Jingu (Geku)",
+                        "url": "../?id=geku",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 9,
+                "date": [
+                    25,
+                    26
+                ]
+            },
+            "title": [
+                "ホテルルートイン松阪駅東",
+                "松阪駅より500m"
+            ],
+            "cover": {
+                "directory": "https://cdn0.tripla.ai/assets/chatbot_image/picture/",
+                "url": "760892/wordpress_%E3%82%BB%E3%83%9F%E3%83%80%E3%83%96%E3%83%AB16_9.JPG"
+            },
+            "description": "チェックアウト 10:00 まで",
+            "note": [
+                "ラジウム人工温泉大浴場「旅人の湯」（利用時間 5:00～2:00）",
+                "無料バイキング朝食（営業時間 6:45～9:00）"
+            ],
+            "info": {
+                "links": [
+                    {
+                        "text": "ホテルルートイン松阪駅東",
+                        "url": "https://www.route-inn.co.jp/hotel_list/mie/index_hotel_id_219/",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 9,
+                "date": [
+                    26
+                ]
+            },
+            "title": [
+                "松坂 - 多気 - 三瀬谷",
+                "紀勢本線"
+            ],
+            "description": "松阪駅 9:24発 - 多気駅 9:35着 9:43発 - 三瀬谷駅 10:14着",
+            "note": [
+                "9:00 - 10:30",
+                "九月二十六日（土）"
+            ],
+            "info": {
+                "note": [
+                    "先発 松坂 6:48発 - 三瀬谷 7:40着",
+                    "次発 松坂 13:03発 - 多気 13:13着 13:22発 - 三瀬谷 13:57着"
+                ],
+                "links": null
+            }
+        },
+        {
+            "date": {
+                "month": 9,
+                "date": [
+                    26
+                ]
+            },
+            "title": [
+                "瀧原宮",
+                "たきはらのみや"
+            ],
+            "cover": {
+                "directory": "https://upload.wikimedia.org/wikipedia/commons/",
+                "url": "0/03/%E7%80%A7%E5%8E%9F%E5%AE%AE%E4%BB%98%E8%BF%91%E8%88%AA%E7%A9%BA%E5%86%99%E7%9C%9F1975_001.jpg"
+            },
+            "description": "多岐原神社 - 三瀬坂峠 - 瀧原宮",
+            "note": [
+                "10:30 - 14:00",
+                "九月二十六日（土）"
+            ],
+            "info": {
+                "note": [
+                    "伊勢神宮に先駆け、天照大神を祀る地として造立された美しい場所「大河の瀧原の国」",
+                    "伊勢神宮と別宮・瀧原宮を繋ぐ山々（度会郡大紀町（旧大宮町）の永会（ながえ）地区など）は、神宮に祀られる榊（さかき）の主な生産地であり、日本百名水・水質が最も良好な河川（清流日本一）に何度も選ばれている全国屈指の清流「宮川」が近くを流れる清らかな地",
+                    "瀧原宮から宮川を約6km下ったところには、倭姫命を助け瀧原に導いた土地の神を祀る皇大神宮（内宮）摂社「多岐原神社」が鎮座し、両神社の間には熊野古道伊勢路の「三瀬坂峠（約4.1km）」が通じる（片道約1時間から1時間30分）",
+                    "",
+                    "昼食 道の駅 奥伊勢木つつ木館",
+                    "",
+                    "（所要時間 約4時間）"
+                ],
+                "links": [
+                    {
+                        "text": "瀧原宮 Takihara no Miya, Watarai, Mie",
+                        "url": "?id=naiku&name=takihara",
+                        "target": "_self"
+                    },
+                    {
+                        "text": "瀧原宮パンフレット",
+                        "url": "https://www.isejingu.or.jp/asset/pdf/download/pamphlet_takihara.pdf",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "道の駅 奥伊勢木つつ木館",
+                        "url": "https://kitutukikan.com/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "道の駅 奥伊勢木つつ木館 - Google マップ",
+                        "url": "https://maps.app.goo.gl/uHMQkDuNyGSqDJdX9",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 9,
+                "date": [
+                    26
+                ]
+            },
+            "title": [
+                "阿曽 - 多気 - 松坂",
+                "紀勢本線"
+            ],
+            "description": "阿曽 16:47発  - 多気 17:28着/17:39発 - 松阪 17:48着",
+            "note": [
+                "14:00 - 18:00",
+                "九月二十六日（土）"
+            ],
+            "info": {
+                "note": [
+                    "14:00 - 16:30 瀧原〜阿曽",
+                    "阿曽湯の里（阿曽温泉・四季の店「旬彩」）",
+                    "",
+                    "先発 阿曽 13:30発 - 松坂 14:33着",
+                    "次発 阿曽 17:54発 - 松坂 18:55着"
+                ],
+                "links": [
+                    {
+                        "text": "阿曽湯の里／大紀町ホームページ",
+                        "url": "https://www.town.taiki.mie.jp/soshiki/kenko_fukushi/gyomu/kanko/294.html",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "阿曽温泉 - Google マップ",
+                        "url": "https://maps.app.goo.gl/XynnfwsyRXs51BEQA",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 9,
+                "date": [
+                    26
+                ]
+            },
+            "title": [
+                "松阪 - 大阪難波",
+                "近鉄特急"
+            ],
+            "description": "最終 松阪 20:44発 - 大阪難波 22:21着",
+            "note": [
+                "松阪 19:00発 - 大阪難波 20:31着",
+                "九月二十六日（土）"
+            ],
+            "info": {
+                "note": null,
+                "links": [
+                    {
+                        "text": "【特急時刻表】大阪難波・京都 → 伊勢志摩",
+                        "url": "https://www.kintetsu.co.jp/railway/Dia/pdf/B_osakanamba_kyoto_kashikojima.pdf",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        }
+    ]
+}

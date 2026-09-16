@@ -1,0 +1,95 @@
+{
+    "url": "/jingu/date/?name=0722",
+    "lastModified": null,
+    "cover": {
+        "title": [
+            "伊勢旅行",
+            "二〇二六 夏"
+        ],
+        "description": "御塩浜・神田と瀧原宮",
+        "note": [
+            "一泊二日の旅",
+            "松坂・伊勢"
+        ],
+        "directory": null,
+        "url": null
+    },
+    "info": {
+        "index": "旅のしおり",
+        "note": [
+            "七月二十一日（火）",
+            "5:00 出発",
+            "6:00 - 9:00 近鉄特急「大阪難波」から「伊勢市」へ",
+            "御塩浜・神田",
+            "",
+            "七月二十二日（水）",
+            "7:00 JR紀勢本線 多気駅発 - 三瀬谷駅着",
+            "8:00 多岐原神社 - 三瀬坂峠 - 瀧原宮",
+            "10:00 夏の御祭 瀧原宮",
+            "",
+            "飯野高宮神山神社 - 神戸神館神明社"
+        ]
+    },
+    "events": [
+        {
+            "date": {
+                "month": 7,
+                "date": [
+                    21
+                ]
+            },
+            "title": [
+                "塩づくり",
+                "御塩浜"
+            ],
+            "description": "採鹹（さいかん）作業",
+            "note": [
+                "Late July - Early August every year",
+                "毎年 七月下旬の土用の頃"
+            ],
+            "info": {
+                "note": [
+                    "川から海水と淡水の入り混じった汽水を塩田に引き、天日で乾かし、1週間ほどかけて「鹹水（かん水、濃い塩水）」がつくられる",
+                    "* 採鹹作業は、御塩浜の外から見学可能"
+                ],
+                "links": [
+                    {
+                        "text": "二見浦・神前海岸と潜島 Futamiura",
+                        "url": "?id=naiku&area=futami",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 7,
+                "date": [
+                    22
+                ]
+            },
+            "title": [
+                "夏の御祭",
+                "瀧原宮"
+            ],
+            "description": "地元の人々の参加のもとに行われる夏祭り",
+            "note": [
+                "July 22th every year",
+                "毎年 七月二十二日"
+            ],
+            "cover": {
+                "directory": null,
+                "url": null
+            },
+            "info": {
+                "links": [
+                    {
+                        "text": "瀧原宮 Takihara no Miya, Watarai, Mie",
+                        "url": "?id=naiku&name=takihara",
+                        "target": "_self"
+                    }
+                ]
+            }
+        }
+    ]
+}

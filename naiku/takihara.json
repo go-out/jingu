@@ -1,0 +1,169 @@
+{
+    "url": "?id=naiku&name=takihara",
+    "title": [
+        "Takihara no Miya, Watarai, Mie",
+        "瀧原宮"
+    ],
+    "description": "伊勢神宮に先駆け、天照大神を祀る地として造立された美しい場所「大河の瀧原の国」",
+    "info": {
+        "markdown": "naiku/takihara.md",
+        "links": [
+            {
+                "text": "皇大神宮（内宮）九十二社 Kotai Jingu (Naiku)",
+                "url": "../?id=naiku",
+                "target": "_self"
+            },
+            {
+                "text": "瀧原宮パンフレット | 伊勢神宮",
+                "url": "https://www.isejingu.or.jp/asset/pdf/download/pamphlet_takihara.pdf",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            136.42593333350283,
+            34.366297221713594
+        ],
+        "bounds": [
+            [
+                136.04276965457572,
+                34.18526620510575
+            ],
+            [
+                136.57529211965817,
+                34.52343462096517
+            ]
+        ],
+        "zoom": 12.5
+    },
+    "featuresJSON": [
+        "naiku/index.json"
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.41895751350648, 34.3675397233913
+                ],
+                "address": "〒519-2703 三重県度会郡大紀町滝原８７０−３７"
+            },
+            "properties": {
+                "title": "道の駅 奥伊勢木つつ木館",
+                "description": "「瀧原宮」の門前にある三重県で唯一木工品を中心とした道の駅",
+                "note": [
+                    "木つつ木館 9:00~17:00",
+                    "木つつ木茶屋 10:00~15:00"
+                ],
+                "links": [
+                    {
+                        "text": "道の駅 奥伊勢木つつ木館",
+                        "url": "https://kitutukikan.com/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "道の駅 奥伊勢木つつ木館 - Google マップ",
+                        "url": "https://maps.app.goo.gl/xyAWwSJFAcLNRV7S7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.41963328146505, 34.381308759136985
+                ],
+                "address": "〒519-2703 三重県度会郡大紀町滝原１４８−１"
+            },
+            "properties": {
+                "title": "まるたんぼう",
+                "description": "ログハウス風洋食レストラン | 営業時間 11:00 - 17:00（金曜定休日）",
+                "note": [
+                    "ウニパスタと店内を飾るアートフラワーが名物"
+                ],
+                "links": [
+                    {
+                        "text": "まるたんぼう | 【公式】大紀町観光協会 | 大紀町観光・旅行情報サイト",
+                        "url": "https://taiki-okuise.jp/food/marutanbou/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "丸太ん棒 - Google マップ",
+                        "url": "https://maps.app.goo.gl/kSByWjUNjSG4X9V97",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.4197643269334, 34.37878626481136
+                ],
+                "address": "〒519-2703 三重県度会郡大紀町滝原１４８−１"
+            },
+            "properties": {
+                "title": "いとう",
+                "description": "大紀町の「猪肉」「鹿肉」を使ったジビエ料理店 | 営業時間 11:00 - 14:00（水曜定休日）",
+                "note": [
+                    "店主自らが捕獲しているため、鮮度は抜群、鹿肉と猪肉のしぐれ煮はお土産に"
+                ],
+                "links": [
+                    {
+                        "text": "いとう『ジビエ料理』 | 【公式】大紀町観光協会 | 大紀町観光・旅行情報サイト",
+                        "url": "https://taiki-okuise.jp/brand-list/%E3%81%84%E3%81%A8%E3%81%86%E3%80%8E%E3%82%B8%E3%83%93%E3%82%A8%E6%96%99%E7%90%86%E3%80%8F/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "猟師の天然ジビエ いとう - Google マップ",
+                        "url": "https://maps.app.goo.gl/m1HVLN1YCs3SaPBm9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.40886262696984, 34.33872139360213
+                ],
+                "address": "〒519-2704 三重県度会郡大紀町阿曽４２９"
+            },
+            "properties": {
+                "title": "阿曽湯の里",
+                "description": "豊かな緑につつまれた、旧阿曽小学校を利用した天然温泉・産地直売などの施設があるふれあい総合施設",
+                "note": [
+                    "阿曽温泉の営業時間は10時00分～21時00分（水曜定休日）",
+                    "四季の店「旬彩」は、毎週木曜日・土曜日・日曜日の午前10時～午後5時まで",
+                    "<u>アクセス</u><br>JR紀伊本線「松山駅」から普通新宮行で約90分（「滝原駅」から徒歩約25分）",
+                    "（JR紀伊本線は、三重県亀山市「亀山駅」を起点に、津駅・松阪駅・滝原駅などを経由し、熊野古道に位置する「熊野市駅」「新宮駅」へ通じる）"
+                ],
+                "links": [
+                    {
+                        "text": "阿曽湯の里／大紀町ホームページ",
+                        "url": "https://www.town.taiki.mie.jp/soshiki/kenko_fukushi/gyomu/kanko/294.html",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "阿曽温泉 - Google マップ",
+                        "url": "https://maps.app.goo.gl/afecQGKkoRCiUSSF9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        }
+    ]
+}

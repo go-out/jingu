@@ -1,0 +1,659 @@
+{
+    "type": "FeatureCollection",
+    "url": "?id=naiku&area=shinsangun",
+    "title": [
+        "Matsusaka - Ise, Mie",
+        "神三郡（度会郡・多気郡・飯野郡）"
+    ],
+    "description": "神宮に奉仕した御杖代（みつえしろ、神の意を受ける依代）が暮らした「斎宮」周辺\n天照大神の衣「神御衣」を奉織する織物の神の聖域",
+    "cover": {
+        "directory": "https://archive.org/download/jingu/jingu.thumbs/",
+        "url": [
+            "20260501/saiku/006_000020.jpg",
+            "20260501/saiku/007_000001.jpg",
+            "20260501/saiku/008_000015.jpg",
+            "20260501/naiku/hatadono/003_000010.jpg",
+            "20260501/naiku/hatadono/009_000005.jpg"
+        ]
+    },
+    "info": {
+        "markdown": "naiku/shinsangun/README.md",
+        "links": [
+            {
+                "text": "皇大神宮（内宮）九十二社 Kotai Jingu (Naiku)",
+                "url": "?id=naiku",
+                "target": "_self"
+            },
+            {
+                "text": "機殿神社 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/機殿神社",
+                "target": "_blank"
+            },
+            {
+                "text": "飯野郡 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/飯野郡",
+                "target": "_blank"
+            },
+            {
+                "text": "飯高郡 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/飯高郡",
+                "target": "_blank"
+            },
+            {
+                "text": "多気郡 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/多気郡",
+                "target": "_blank"
+            },
+            {
+                "text": "度会郡 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/度会郡",
+                "target": "_blank"
+            },
+            {
+                "text": "神三郡神社参詣記 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/神三郡神社参詣記",
+                "target": "_blank"
+            },
+            {
+                "text": "一般社団法人明和観光商社",
+                "url": "https://dmo.hana-meiwa.jp/",
+                "target": "_blank"
+            },
+            {
+                "text": "玉城町観光｜あったまる玉城町へ｜三重県度会郡玉城町",
+                "url": "http://attamaru-tamaki.com/",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            136.6148896222423,
+            34.539062732924975
+        ],
+        "bounds": [
+            [
+                136.21630934961564,
+                34.419981563049774
+            ],
+            [
+                136.71282959046093,
+                34.64445491736643
+            ]
+        ],
+        "zoom": 11.5
+    },
+    "eventsJSON": [
+        "naiku/shinsangun/date.json"
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.53498959077353,
+                    34.5769810447396
+                ],
+                "address": "〒515-0321 三重県多気郡明和町斎宮３２０７"
+            },
+            "properties": {
+                "title": "松阪駅観光情報センター",
+                "description": "松阪観光のご案内、散策マップ、レンタサイクル、手荷物一時預かりなどを行う観光拠点",
+                "note": [
+                    "営業時間 9:00 - 18:00（レンタサイクル返却、手荷物受取りは17:30まで）"
+                ],
+                "links": [
+                    {
+                        "text": "松阪駅観光情報センター - 松阪市観光協会",
+                        "url": "https://www.matsusaka-kanko.com/blog/kanrishisetsu/松阪駅観光情報センター/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "松阪駅観光情報センター - Google マップ",
+                        "url": "https://maps.app.goo.gl/qpTamzjpiU4nn1BA6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.5373109977458,
+                    34.577234143815545
+                ]
+            },
+            "properties": {
+                "title": "味園焼肉店 本店",
+                "description": "創業34年の確かな味、国産和牛をお手頃価格で味わえる老舗焼肉店",
+                "note": [
+                    "営業時間 11:00 - 15:00・16:00 - 22:00"
+                ],
+                "links": [
+                    {
+                        "text": "松阪で焼肉・宴会を愉しむなら 焼肉 味園",
+                        "url": "http://yakinikumisono.com/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "味園焼肉店本店 - Google マップ",
+                        "url": "https://maps.app.goo.gl/J3qSWhVcyjAtXtgW8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.53422216301357,
+                    34.57567784333091
+                ]
+            },
+            "properties": {
+                "title": "あみ焼き鶏料理のぼやん 本店",
+                "description": "松坂の隠れたソウルフード、松坂鶏の「鶏焼肉」を手頃に提供するチェーン店の本店",
+                "note": [
+                    "営業時間 17:00 - 22:00（日曜定休日）"
+                ],
+                "links": [
+                    {
+                        "text": "あみ焼き、鶏料理「のぼやん」",
+                        "url": "https://noboyan.com/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "のぼやん駅前本店 - Google マップ",
+                        "url": "https://maps.app.goo.gl/RakDBzhgJLbZjXSS8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.46869723407764,
+                    34.59080655480041
+                ]
+            },
+            "properties": {
+                "title": "阿射加神社（小阿坂）",
+                "description": "大阿坂町にある同名の神社とともに、元伊勢「阿佐加藤方片樋宮」の比定地のひとつ",
+                "note": [
+                    "神宮の最大の祭祀「神嘗祭」で用いられる特別な聖火「忌火」の発祥の地",
+                    "祭神の阿耶訶大神とは猿田彦神、伊豆速布留神、竜天大神の三神",
+                    "（猿田彦神は伊勢国の国津神であり、この神を祀る神社では最も由緒ある神社といわれる）",
+                    "<u>アクセス</u><br>近鉄「松阪」駅から三重交通バス「阿坂小野線」 バス停「阿坂小学校前」下車 徒歩約10分"
+                ],
+                "links": [
+                    {
+                        "text": "阿射加神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/阿射加神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "阿射加神社（小阿坂） - Google マップ",
+                        "url": "https://maps.app.goo.gl/rDzKUSsfEYwyWDAw7",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "阿射加神社（大阿坂） - Google マップ",
+                        "url": "https://maps.app.goo.gl/mmGXVTbice4fwsR19",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.46305634919736,
+                    34.574163621828504
+                ]
+            },
+            "properties": {
+                "title": "瑞巌寺庭園",
+                "description": "堀坂山麓の渓谷に人工の庭園美をいかした三重県・松阪市指定名勝",
+                "note": [
+                    "<u>アクセス</u><br>近鉄「松阪」駅から三重交通バス「阿坂小野線」 バス停「岩内口」下車 徒歩約25分"
+                ],
+                "links": [
+                    {
+                        "text": "瑞巌寺 (松阪市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/瑞巌寺_(松阪市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "瑞巌寺庭園 - Google マップ",
+                        "url": "https://maps.app.goo.gl/dxR4QhpaqeY5My6M7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.40231479998846,
+                    34.557754814029394
+                ]
+            },
+            "properties": {
+                "title": "飯福田寺",
+                "description": "伊勢山上にある修験道の修行の場（いぶたじ）",
+                "note": [
+                    "写経、阿字観、修行トレッキングなどの体験があり、宿泊も可能",
+                    "<u>アクセス</u><br>三重交通バス「柚原」行き柚原下車 徒歩約40分"
+                ],
+                "links": [
+                    {
+                        "text": "国峰山 飯福田寺 - Google マップ",
+                        "url": "https://maps.app.goo.gl/VVvzKAq5yWigC46PA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 14.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.47701364199787,
+                    34.53068136698856
+                ]
+            },
+            "properties": {
+                "title": "前島食堂",
+                "description": "地元で長く愛されている松坂鶏焼肉の元祖店と言われる、1967年創業の老舗",
+                "note": [
+                    "営業時間 10:30 - 18:00（平日14時 - 15時はテイクアウトのみ）",
+                    "<u>アクセス</u><br>近鉄「松阪」駅から三重交通バス「飯南波瀬線」 バス停「大河内小学校前」下車すぐ"
+                ],
+                "links": [
+                    {
+                        "text": "前島食堂(@ma.e.shi.ma) • Instagram",
+                        "url": "https://www.instagram.com/ma.e.shi.ma/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "前島食堂 - Google マップ",
+                        "url": "https://maps.app.goo.gl/UAQCTe1jmKcTtLqy7",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.33383544347555,
+                    34.43131607299368
+                ]
+            },
+            "properties": {
+                "title": "花岡神社",
+                "description": "かつては和歌山街道の宿駅として栄えたという周辺には今も古い町並みの面影が残る、元伊勢「飯野高宮」の比定地のひとつ（はなおか）",
+                "note": [
+                    "創建由緒等に関してはまったく資料が見当たらず、元伊勢の比定地になっている理由についても不明",
+                    "正月と春（3月11日に近い日曜日）・秋（10月15日に近い日曜日）には、稚児舞の奉納、獅子舞が奉納される",
+                    "<u>アクセス</u><br>近鉄「松阪」駅から三重交通バス「飯南波瀬線」 バス停「宮前車庫前」下車すぐ"
+                ],
+                "links": [
+                    {
+                        "text": "花岡神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/5WozYGFYX8SJ6iwC9",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.5418573552543,
+                    34.52273357022034
+                ]
+            },
+            "properties": {
+                "title": "牛庭神社",
+                "description": "この地で牛を放し飼いにしていたことが社名の由来とされる、元伊勢「飯野高宮」の比定地のひとつ（うしば）",
+                "note": [
+                    "<u>アクセス</u><br>近鉄「松阪」駅から三重交通バス「松阪大石線」 バス停「八太」下車 徒歩約5分"
+                ],
+                "links": [
+                    {
+                        "text": "牛庭神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/SHxNc2nvE3D7z7ko7",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.56964086605592,
+                    34.525234009627184
+                ]
+            },
+            "properties": {
+                "title": "飯野高宮神山神社",
+                "description": "櫛田川と祓川の分岐点北西に位置する神山（こうやま）山麓にある、元伊勢「飯野高宮」の比定地のひとつ（いいのたかみやこうやま）",
+                "note": [
+                    "かつては神山の山頂に鎮座していたとされる、神宮の成立過程において、重要な鍵を握る社の一つかと考えられる社"
+                ],
+                "links": [
+                    {
+                        "text": "飯野高宮神山神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/飯野高宮神山神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "飯野高宮神山神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/bdDxiUTyUG3VRBTY9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.54988914203045,
+                    34.55317710962619
+                ]
+            },
+            "properties": {
+                "title": "神戸神館神明社",
+                "description": "古くは「神舘社」「意悲（おひ）神社」と称された、元伊勢「飯野高宮」の比定地のひとつ（かんべこうたちしん）",
+                "links": [
+                    {
+                        "text": "神戸神館神明社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/神戸神館神明社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "神戸神館神明社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/Lretisq9KieJ4EocA",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.5570132978665,
+                    34.55274674427584
+                ]
+            },
+            "properties": {
+                "title": "かしわの焼肉 トリユウ",
+                "description": "のどかな住宅街にポツンと店を構える、昔ながらの鶏焼肉の名店",
+                "note": [
+                    "営業時間 11:30 - 20:00（月・火定休日）"
+                ],
+                "links": [
+                    {
+                        "text": "かしわの焼肉 トリユウ - Google マップ",
+                        "url": "https://maps.app.goo.gl/vDE4vj3hc3WfTVf17",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.61867279348866,
+                    34.53678136231653
+                ]
+            },
+            "properties": {
+                "title": "竹神社",
+                "description": "明治44（1911）年に旧斎宮村にあった25社の神を合祀して誕生、元伊勢「佐佐牟江宮」の比定地（たけ）",
+                "note": [
+                    "旧社地は、斎宮跡を整備し博物館やさいくうの杜などを建てた史跡公園の中",
+                    "現社地は、伊勢神宮に仕えた「斎王」が暮らしていた斎宮城があったとされる地",
+                    "（境外南側には、土日曜日のレンタサイクル受付所がある）"
+                ],
+                "links": [
+                    {
+                        "text": "竹神社 (明和町) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/竹神社_(明和町)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "竹神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/hY3vqkf9UiUgPwCDA",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "みのりや_斎宮の小さな商店街 - Google マップ",
+                        "url": "https://maps.app.goo.gl/BcVDbiQkw3YE6Ar68",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "明和町レンタサイクル - 一般社団法人明和観光商社",
+                        "url": "https://dmo.hana-meiwa.jp/2023/01/23/明和町レンタサイクル/",
+                        "target": "_blank"
+                    }
+                ],
+                "archive": [
+                    {
+                        "year": 2026,
+                        "month": 5,
+                        "date": [
+                            2
+                        ],
+                        "title": null,
+                        "identifier": "jingu",
+                        "count": 2,
+                        "formats": ".ia.mp4",
+                        "files": [
+                            "20260501/saiku/001",
+                            "20260501/saiku/002",
+                            "20260501/saiku/003",
+                            "20260501/saiku/004",
+                            "20260501/saiku/005"
+                        ],
+                        "cover": "20260501/saiku/005_000001.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.6164963223958,
+                    34.53872802781005
+                ],
+                "address": "〒515-0321 三重県多気郡明和町斎宮３２０７"
+            },
+            "properties": {
+                "title": "斎宮跡",
+                "description": "飛鳥・奈良時代から南北朝時代にかけて、神宮に奉仕した御杖代が暮らした斎宮（斎宮寮）があった地（国の史跡）",
+                "note": [
+                    "周辺には「斎宮跡歴史ロマン広場」「さいくう平安の杜」が整備されている",
+                    "（近鉄「斎宮」駅南口周辺には、平日のレンタサイクル受付所がある）"
+                ],
+                "links": [
+                    {
+                        "text": "斎宮 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/斎宮",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "斎宮跡 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/斎宮跡",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "斎宮跡 - Google マップ",
+                        "url": "https://maps.app.goo.gl/kBFrKL65p4vd85mu6",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "明和町レンタサイクル - Google マップ",
+                        "url": "https://maps.app.goo.gl/unqTF6gqrmd8TZza9",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "明和町レンタサイクル - 一般社団法人明和観光商社",
+                        "url": "https://dmo.hana-meiwa.jp/2023/01/23/明和町レンタサイクル/",
+                        "target": "_blank"
+                    }
+                ],
+                "archive": [
+                    {
+                        "year": 2026,
+                        "month": 5,
+                        "date": [
+                            2
+                        ],
+                        "title": null,
+                        "identifier": "jingu",
+                        "count": 3,
+                        "formats": ".ia.mp4",
+                        "files": [
+                            "20260501/saiku/006",
+                            "20260501/saiku/007",
+                            "20260501/saiku/008"
+                        ],
+                        "cover": "20260501/saiku/007_000028.jpg"
+                    }
+                ],
+                "zoom": 15.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.54180660994786,
+                    34.504260238958324
+                ]
+            },
+            "properties": {
+                "title": "相鹿上神社",
+                "description": "境内に伊蘇上神社と彫られた大きな石碑がある、元伊勢「伊蘇宮」の比定地のひとつ（おおかがみ）",
+                "note": [
+                    "1908（明治41）年に伊蘇上神社・八柱神社・相可牟山神社及びその境内社が合祀して現在の姿になったと伝わる"
+                ],
+                "links": [
+                    {
+                        "text": "相鹿上神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/相鹿上神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "相鹿上神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/8ZSoLuBGhEDvQ8Jp7",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.7011549682357,
+                    34.51967738661831
+                ]
+            },
+            "properties": {
+                "title": "磯神社",
+                "description": "毎年二月十一日に「磯のお頭さん」と愛称される御頭舞が奉納される、元伊勢「伊蘇宮」の比定地のひとつ（いそ）",
+                "note": [
+                    "毎年四月中旬～五月上旬、約三〇〇本の 「ヒラドツツジ」が咲き誇り伊勢市春花の名所として大勢の見物客で賑う"
+                ],
+                "links": [
+                    {
+                        "text": "磯神社（いそじんじゃ） 三重県伊勢市磯町",
+                        "url": "https://isojinja.com/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "磯神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/磯神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "磯神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/nTinPCzWKwvu35y17",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.631298135049,
+                    34.487651687912745
+                ]
+            },
+            "properties": {
+                "title": "松田自転車商会",
+                "description": "レンタサイクルあり 営業時間 9:00 - 18:00（定休日 日曜午後）",
+                "note": [
+                    "JR参宮線「田丸」駅すぐ、内宮の摂末社が点在する玉城町の観光に便利なサイクル拠点"
+                ],
+                "links": [
+                    {
+                        "text": "あったまる玉城町へ | 松田自転車商会",
+                        "url": "http://attamaru-tamaki.com/cn7/matsuda.html",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "松田自転車商会 - Google マップ",
+                        "url": "https://maps.app.goo.gl/NpUc2hBSmqPBtBPw9",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        }
+    ],
+    "featuresJSON": [
+        "naiku/index.json"
+    ]
+}

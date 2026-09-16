@@ -1,0 +1,97 @@
+{
+    "url": "/jingu/date/?map=geku",
+    "lastModified": null,
+    "cover": {
+        "title": [
+            "豊受大神宮 歳時記",
+            "Toyouke Dai-Jingu Annual Ceremonies"
+        ],
+        "description": "外宮の祭典",
+        "note": null,
+        "directory": "https://archive.org/download/jingu/jingu.thumbs/",
+        "url": "20260501/geku/005_000015.jpg"
+    },
+    "info": {
+        "index": null,
+        "markdown": "README.md",
+        "links": [
+            {
+                "text": "外宮周辺の摂末社 Toyouke Dai-Jingu (Geku)",
+                "url": "../?id=geku",
+                "target": "_self"
+            },
+            {
+                "text": "祭典・催しカレンダー | 伊勢神宮",
+                "url": "https://www.isejingu.or.jp/ritual/calendar/",
+                "target": "_blank"
+            }
+        ]
+    },
+    "events": [
+        {
+            "date": {
+                "month": "毎",
+                "date": [
+                    "毎"
+                ]
+            },
+            "title": [
+                "日別朝夕大御饌祭",
+                "外宮 御饌殿"
+            ],
+            "description": "二つの正宮（内宮・外宮）と別宮それぞれの御祭神に神饌を奉る",
+            "note": [
+                "Every Day",
+                "毎日 朝夕 一日二度"
+            ],
+            "info": {
+                "markdown": "../geku/higotoasayu.md",
+                "links": null
+            }
+        },
+        {
+            "month": [
+                9,
+                10
+            ],
+            "title": [
+                "観月会",
+                "外宮 勾玉池奉納舞台"
+            ],
+            "description": "Kangetsu-kai ⛩️ Toyouke Dai-Jingu (Geku)",
+            "note": [
+                "Mid-Autumun every year",
+                "毎年 中秋の名月 午後六時"
+            ],
+            "info": {
+                "note": [
+                    "まがたま池に特設される奉納舞台にて",
+                    "全国から応募のあった短歌と俳句の秀作を、神宮の楽師が古式により披講する雅な行事",
+                    "披講につづき、管絃と舞楽が奏行される"
+                ],
+                "links": null
+            }
+        },
+        {
+            "month": [
+                10
+            ],
+            "title": [
+                "秋の神楽祭（外宮）",
+                "外宮 勾玉池奉納舞台"
+            ],
+            "description": "Autumn Kagura Festival ⛩️ Toyouke Dai-Jingu (Geku)",
+            "note": [
+                "First Saturday and Sunday in October every year",
+                "毎年 十月第一土・日曜日 午前十時"
+            ],
+            "info": {
+                "note": [
+                    "外宮勾玉池奉納舞台にて",
+                    "（雨天はせんぐう館催事室）"
+                ],
+                "links": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "url": "/jingu/date/?name=0624",
+    "lastModified": null,
+    "cover": {
+        "title": [
+            "御神田（御料田）",
+            "伊雑宮・神宮神田"
+        ],
+        "description": "神事に使う稲を育てる田",
+        "note": [
+            "伊勢・志摩 日帰り旅行",
+            "六月二十四日（水）"
+        ],
+        "directory": null,
+        "url": null
+    },
+    "info": {
+        "index": null,
+        "note": [
+            "5:00 出発",
+            "6:00 - 9:00 近鉄特急「大阪難波」から「志摩磯部」へ",
+            "10:00 磯部の御神田 御田植式",
+            "おうむ岩 - まんぷく食堂 板橋 - 恵利原の水穴（天の岩戸）",
+            "",
+            "三重交通バス「宿浦線・御座線」で「五十鈴川駅」へ",
+            "神宮神田 - 奈尾之根宮 - 月讀宮"
+        ],
+        "links": [
+            {
+                "text": "伊雑宮 Izawa no Miya, Shima, Mie",
+                "url": "?id=naiku&name=shima",
+                "target": "_self"
+            }
+        ]
+    },
+    "events": [
+        {
+            "date": {
+                "month": 6,
+                "date": [
+                    24
+                ]
+            },
+            "title": [
+                "磯部の御神田",
+                "伊雑宮"
+            ],
+            "description": "三大御田植祭・国の重要無形民俗文化財",
+            "note": [
+                "June 24th every year",
+                "毎年 六月二十四日"
+            ],
+            "cover": {
+                "directory": null,
+                "url": null
+            },
+            "info": {
+                "markdown": "date/0624.md",
+                "links": [
+                    {
+                        "text": "伊雑宮 Izawa no Miya, Shima, Mie",
+                        "url": "?id=naiku&name=shima",
+                        "target": "_self"
+                    },
+                    {
+                        "text": "磯部の御神田 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/磯部の御神田",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        }
+    ]
+}

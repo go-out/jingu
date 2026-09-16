@@ -1,0 +1,222 @@
+{
+    "type": "FeatureCollection",
+    "url": "?id=naiku&area=futami",
+    "title": [
+        "Futamiura",
+        "二見浦・神前海岸と潜島"
+    ],
+    "description": "内宮から伊勢湾に注ぐ五十鈴川の三角州地帯",
+    "info": {
+        "markdown": "naiku/futami/README.md",
+        "links": [
+            {
+                "text": "皇大神宮（内宮）九十二社 Kotai Jingu (Naiku)",
+                "url": "?id=naiku",
+                "target": "_self"
+            },
+            {
+                "text": "二見浦 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/二見浦",
+                "target": "_blank"
+            },
+            {
+                "text": "二見浦駅 - Google マップ",
+                "url": "https://maps.app.goo.gl/8uggLDNN6qVkZ2fq5",
+                "target": "_blank"
+            },
+            {
+                "text": "二見興玉神社 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/二見興玉神社",
+                "target": "_blank"
+            },
+            {
+                "text": "二見興玉神社 - Google マップ",
+                "url": "https://maps.app.goo.gl/c3HtiEakikFnmVod6",
+                "target": "_blank"
+            },
+            {
+                "text": "二見浦観光案内所 - Google マップ",
+                "url": "https://maps.app.goo.gl/wdXaURG1SMnYMGVK8",
+                "target": "_blank"
+            },
+            {
+                "text": "レンタサイクル | 公益社団法人 伊勢市観光協会",
+                "url": "https://ise-kanko.jp/purpose/rentacycle/",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            136.77707898370147,
+            34.503989671716546
+        ],
+        "bounds": [
+            [
+                136.7378369126533,
+                34.48905068290621
+            ],
+            [
+                136.84423874539718,
+                34.534786847254864
+            ]
+        ],
+        "zoom": 14
+    },
+    "events": [
+        {
+            "month": [
+                7,
+                8
+            ],
+            "title": [
+                "塩づくり",
+                "御塩浜"
+            ],
+            "description": "採鹹（さいかん）作業",
+            "note": [
+                "Late July - Early August every year",
+                "毎年 七月下旬の土用の頃"
+            ],
+            "info": {
+                "note": [
+                    "川から海水と淡水の入り混じった汽水を塩田に引き、天日で乾かし、1週間ほどかけて「鹹水（かん水、濃い塩水）」がつくられる",
+                    "* 採鹹作業は、御塩浜の外から見学可能"
+                ],
+                "links": null
+            }
+        },
+        {
+            "date": {
+                "month": 10,
+                "date": [
+                    5
+                ]
+            },
+            "title": [
+                "御塩殿祭",
+                "御塩殿神社"
+            ],
+            "description": "全ての祭典に供えられる「堅塩」作りの始まりの式",
+            "note": [
+                "October 5th every year",
+                "毎年 十月五日 午前十時"
+            ],
+            "info": {
+                "note": [
+                    "5日から9日までの5日間、御塩殿で荒塩を三角錐形の土器につめて焼き固める",
+                    "（御塩焼固は10月と3月の二度行われる）"
+                ],
+                "links": null
+            }
+        }
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.80911907476496,
+                    34.508216361702665
+                ],
+                "address": "〒519-0601 三重県伊勢市二見町松下"
+            },
+            "properties": {
+                "title": "神前海岸と潜島",
+                "description": "かつて、神に捧げる魚介類を採集する贄海神事（にえうみのしんじ）が行われていた海岸（こうざき）",
+                "note": [
+                    "浜辺を東へ進んだ先の神前岬には、海を向いて立つ鳥居があり、その先には大潮の干潮時にのみ現れる海食洞門「潜島（くぐりじま）」がある",
+                    "旧暦六月一日頃の午前九時から正午には、村民総出で潜島の「注連縄張り替え」が行われる"
+                ],
+                "links": [
+                    {
+                        "text": "神前海岸 - Google マップ",
+                        "url": "https://maps.app.goo.gl/faJehzWHnZ7hAxup7",
+                        "target": "_blank"
+                    }
+                ],
+                "archive": [
+                    {
+                        "year": 2026,
+                        "month": 5,
+                        "date": [
+                            2
+                        ],
+                        "title": null,
+                        "identifier": "jingu",
+                        "count": 3,
+                        "formats": ".ia.mp4",
+                        "files": [
+                            "20260501/naiku/kouzaki/001",
+                            "20260501/naiku/kouzaki/002",
+                            "20260501/naiku/kouzaki/003",
+                            "20260501/naiku/kouzaki/004",
+                            "20260501/naiku/kouzaki/005",
+                            "20260501/naiku/kouzaki/006",
+                            "20260501/naiku/kouzaki/007",
+                            "20260501/naiku/kouzaki/008",
+                            "20260501/naiku/kouzaki/009"
+                        ],
+                        "cover": "20260501/naiku/kouzaki/007_000010.jpg"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.75551325524265,
+                    34.50949924063684
+                ]
+            },
+            "properties": {
+                "title": "御塩浜",
+                "description": "五十鈴川の清流と伊勢湾の海水が混ざり合う、神宮の御塩が作られる地",
+                "note": [
+                    "毎年七月下旬から八月上旬にかけての土用頃に塩づくりが行われる"
+                ],
+                "links": [
+                    {
+                        "text": "御塩浜 - Google マップ",
+                        "url": "https://maps.app.goo.gl/tMSxf6thFed9KdjU6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.75722246590283,
+                    34.50148914540364
+                ],
+                "address": "三重県伊勢市二見町溝口５３５−２"
+            },
+            "properties": {
+                "title": "神宮御園",
+                "description": "神々に捧げられる50種類ほどの野菜や果物を育てる「御園（みその）」",
+                "note": [
+                    "毎年春分の日には御園祭（みそのさい）が行われ、豊かな稔りと農作業に携わる人々の作業の安全を祈願する"
+                ],
+                "links": [
+                    {
+                        "text": "神宮御園 - Google マップ",
+                        "url": "https://maps.app.goo.gl/wd1rv94qPX3eaZMb9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        }
+    ],
+    "featuresJSON": [
+        "naiku/index.json"
+    ]
+}

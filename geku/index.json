@@ -1,0 +1,947 @@
+{
+    "url": "?id=geku",
+    "title": [
+        "Toyouke Dai-Jingu (Geku)",
+        "豊受大神宮（外宮）三十三社"
+    ],
+    "description": "三重県伊勢市・鳥羽市に分布する、豊受大神宮の正宮・別宮と摂末社",
+    "cover": {
+        "directory": "https://archive.org/download/jingu/jingu.thumbs/",
+        "url": [
+            "20260501/geku/005_000015.jpg"
+        ]
+    },
+    "info": {
+        "markdown": "geku/README.md",
+        "links": [
+            {
+                "text": "豊受大神宮 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/豊受大神宮",
+                "target": "_blank"
+            },
+            {
+                "text": "トヨウケビメ - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/トヨウケビメ",
+                "target": "_blank"
+            },
+            {
+                "text": "度会氏 - Wikipedia",
+                "url": "https://ja.wikipedia.org/wiki/度会氏",
+                "target": "_blank"
+            }
+        ]
+    },
+    "map": {
+        "center": [
+            136.70386272221043,
+            34.48613584627802
+        ],
+        "bounds": [
+            [
+                136.63765738742654,
+                34.38671769916034
+            ],
+            [
+                136.9303437927751,
+                34.56375300573832
+            ]
+        ],
+        "zoom": 12.25
+    },
+    "events": [
+        {
+            "date": {
+                "month": 1,
+                "date": "第三日曜日"
+            },
+            "title": [
+                "御頭神事",
+                "上社"
+            ],
+            "description": "Okashira Shinji ⛩️ Kami no Yashiro",
+            "note": [
+                "Third Sunday of January every year",
+                "毎年 一月第三日曜日 午前八時"
+            ],
+            "info": {
+                "note": [
+                    "外宮の摂社「打懸神社」「大河内神社」「志等美神社」が境内地に隣接する「上社（かみやしろ、通称ごうずさん）」にて",
+                    "午前八時より境内で火を焚き、祢宜・氏子総代・神楽師が参列して、祭典が行われる",
+                    "祭典終了後、御頭神事（獅子舞）"
+                ],
+                "links": [
+                    {
+                        "text": "三重県神社庁教化委員会 » 上社",
+                        "url": "https://kyoka.mie-jinjacho.or.jp/shrine/%E4%B8%8A%E7%A4%BE/",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 4,
+                "date": "桜の開花に合わせた日曜日"
+            },
+            "title": [
+                "淵祭",
+                "朧ヶ池"
+            ],
+            "description": "Bushi Matsuri ⛩️ OborogaIike",
+            "note": [
+                "Sunday of Early April every year",
+                "毎年 四月上旬日曜日"
+            ],
+            "info": {
+                "note": [
+                    "かつて正月8日に行われていた、池に小船を流す古くからの神事（渕祭り）に由来する神事",
+                    "河原淵神社の旧社地とされる船江上社で行われる春の風物詩",
+                    "神職や巫女を乗せた50cmほどの小船に、形代（かたしろ）と人形8体を乗せて池に浮かべる神事"
+                ],
+                "links": [
+                    {
+                        "text": "三重県神社庁教化委員会 » 舩江上社",
+                        "url": "https://kyoka.mie-jinjacho.or.jp/shrine/%E8%88%A9%E6%B1%9F%E4%B8%8A%E7%A4%BE/",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 6,
+                "date": [
+                    22
+                ]
+            },
+            "title": [
+                "赤崎祭り",
+                "赤崎神社"
+            ],
+            "description": "Akasaki Matsuri ⛩️ Akasaki Jinja",
+            "note": [
+                "June 22th every year",
+                "毎年 六月二十二日"
+            ],
+            "info": {
+                "note": [
+                    "鳥羽に夏の到来を告げる祭り",
+                    "祭りの当日にはたくさんの露店が並び、多くの参拝者が浴衣で参拝することから「ゆかた祭り」の愛称で地元の方から親しまれる",
+                    "神社の入り口では、その昔この地方で流行病が発生した際、この宮域内の杉の小枝を門戸につるした家々は難を逃れたという言い伝えにちなんで、崇敬会による厄よけの杉の小枝が売られ、杉の小枝を吊るす習わしは今日まで続く"
+                ],
+                "links": [
+                    {
+                        "text": "赤崎まつり／鳥羽市ホームページ",
+                        "url": "https://www.city.toba.mie.jp/soshiki/kanko_kikaku/gyomu/oshirase/8403.html",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        }
+    ],
+    "eventsJSON": [
+        "geku/date.json"
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.70386272221043,
+                    34.48613584627802
+                ]
+            },
+            "properties": {
+                "title": "外宮（豊受大神宮）",
+                "description": "トヨウケビメの和魂（にきたま）を祀る「正宮」と、3の別宮などから成る「衣食住・産業の守り神」の聖域",
+                "note": [
+                    "宮域内は左側通行、火除橋・手水舎 → 正宮（御敷地）→ 多賀宮（三ツ石）→ 土宮 → 風宮の順に参拝するのが一般的",
+                    "「正宮 しょうぐう」<br>トヨウケビメの穏やかで平和的な魂「和魂」を祀る外宮の正宮",
+                    "「多賀宮 たかのみや」<br>トヨウケビメの荒々しい側面・荒ぶる魂「荒御魂」を祀る外宮第⼀の別宮",
+                    "「土宮 つちのみや」<br>外宮の所在地「山田の原」の地主の神を祀る別宮",
+                    "「風宮 かぜのみや」<br>イザナギとイザナミの間に生まれた風を司る一対の神「級長津彦命（シナツヒコ）・級長戸辺命（シナトベ）」を祀る別宮",
+                    "（上記の三宮が鎮座する山は「檜尾山（ひのきおやま）」と呼ばれる）",
+                    "そのほか、4の所管社（うち2社は一般参拝者立入不可）はすべて外宮に鎮座する",
+                    "「四至神（みやのめぐりのかみ）」神域（宮域）の守護神<br/>「下御井神社（しものみいの）」水の守護神",
+                    "（神の水の守護神「上御井神社（かみのみいの）」・神酒の造酒を司る神「御酒殿神（みさかどののかみ）」の二社は、一般参拝者立入不可）"
+                ],
+                "links": [
+                    {
+                        "text": "豊受大神宮（外宮）｜ 伊勢神宮",
+                        "url": "https://www.isejingu.or.jp/about/geku/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "別宮｜豊受大神宮（外宮）｜神宮について｜伊勢神宮",
+                        "url": "https://www.isejingu.or.jp/about/geku/betsugu.html",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "外宮のモデルコース｜神宮の回り方｜ご参拝・ご祈祷｜伊勢神宮",
+                        "url": "https://www.isejingu.or.jp/visit/course/geku.html",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "多賀宮 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/多賀宮",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "土宮 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/土宮",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "風宮 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/風宮",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "四至神 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/四至神",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "下御井神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/下御井神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "上御井神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/上御井神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "御酒殿神 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/御酒殿神",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "豊受大神宮（伊勢神宮 外宮） - Google マップ",
+                        "url": "https://maps.app.goo.gl/iU64gNjFWtriaPtPA",
+                        "target": "_blank"
+                    }
+                ],
+                "archive": [
+                    {
+                        "year": 2026,
+                        "month": 5,
+                        "date": [
+                            1
+                        ],
+                        "title": null,
+                        "identifier": "jingu",
+                        "count": 4,
+                        "formats": ".ia.mp4",
+                        "files": [
+                            "20260501/geku/001",
+                            "20260501/geku/008",
+                            "20260501/geku/009",
+                            "20260501/geku/010",
+                            "20260501/geku/011",
+                            "20260501/geku/012",
+                            "20260501/geku/013",
+                            "20260501/geku/014",
+                            "20260501/geku/018"
+                        ],
+                        "cover": "20260501/geku/011_000001.jpg"
+                    }
+                ],
+                "zoom": 15
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.7062540233195,
+                    34.48676579834202
+                ]
+            },
+            "properties": {
+                "title": "表参道・まがたま池",
+                "description": "火除橋を渡って手水舎へ進んだ先、左手（東側）に広がる勾玉型の池",
+                "note": [
+                    "池の奥（南側）の神域の山の入り口まで散策路が整備されていて、北側には式年遷宮に関する資料館「せんぐう館」がある",
+                    "毎年6月頃には花菖蒲が美しく咲き誇るほか、毎年中秋の名月の夜に奉納舞台にて「観月会」が行われる",
+                    "（宮外に出て東側の道を南に進んだ先には、度会地方の地主の神を祀る外宮摂社「度会大国玉比賣神社」・末社「伊我理神社・井中神社」が鎮座する）"
+                ],
+                "links": [
+                    {
+                        "text": "勾玉池 - Google マップ",
+                        "url": "https://maps.app.goo.gl/JHm49TChCmXinAHt5",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "式年遷宮記念せんぐう館 - Google マップ",
+                        "url": "https://maps.app.goo.gl/r6o3ekfNr5YXg8V18",
+                        "target": "_blank"
+                    }
+                ],
+                "archive": [
+                    {
+                        "year": 2026,
+                        "month": 5,
+                        "date": [
+                            1
+                        ],
+                        "title": null,
+                        "identifier": "jingu",
+                        "count": 3,
+                        "formats": ".ia.mp4",
+                        "files": [
+                            "20260501/geku/002",
+                            "20260501/geku/003",
+                            "20260501/geku/004",
+                            "20260501/geku/005",
+                            "20260501/geku/006",
+                            "20260501/geku/007"
+                        ],
+                        "cover": "20260501/geku/006_000024.jpg"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.7060015092273,
+                    34.492986644773794
+                ]
+            },
+            "properties": {
+                "title": "月夜見宮",
+                "description": "月（歴）の神「月読命」を祀る豊受大神宮の別宮（つきよみのみや）",
+                "note": [
+                    "豊受大神宮の4の別宮のうち、唯一正宮の宮域外（外宮北御門から北へ伸びる「神路通 かみじどおり」の先）に鎮座",
+                    "その他、社殿右側の後方には外宮摂社第10位の「高河原神社（たかがわら）」が同座する"
+                ],
+                "links": [
+                    {
+                        "text": "月夜見宮 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/月夜見宮",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "豊受大神宮別宮 月夜見宮 - Google マップ",
+                        "url": "https://maps.app.goo.gl/aZfNfcqmJBwVhTtLA",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "高河原神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/高河原神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "高河原神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/sKsuGWXD3HTejp3g7",
+                        "target": "_blank"
+                    }
+                ],
+                "archive": [
+                    {
+                        "year": 2026,
+                        "month": 5,
+                        "date": [
+                            1
+                        ],
+                        "title": null,
+                        "identifier": "jingu",
+                        "count": 3,
+                        "formats": ".ia.mp4",
+                        "files": [
+                            "20260501/geku/024",
+                            "20260501/geku/025",
+                            "20260501/geku/026"
+                        ],
+                        "cover": "20260501/geku/025_000021.jpg"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.69502908135985,
+                    34.49473827218975
+                ]
+            },
+            "properties": {
+                "title": "草奈伎神社・大間国生神社",
+                "description": "大間広と呼ばれる台地上に鎮座する、外宮摂社第1位（くさなぎ）・第2位（おおまくなり）",
+                "note": [
+                    "祭神は外宮の祭祀を司ってきた度会氏に関わる「御剣仗神（剣の霊）」と、この地方の国土生成の神・度会氏の祖とされる二座「大若子命・乙若子命」",
+                    "外宮の中でも格式の高い神社で、20年に1度の社殿の造り替えが行われてきたほか、他の摂社以下の神社に比べ多くの祭祀が行われる"
+                ],
+                "links": [
+                    {
+                        "text": "草奈伎神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/草奈伎神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "草奈伎神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/uXHq93VXYMzsBWwJ9",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "大間国生神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/RYCVE52g91P1KFmy8",
+                        "target": "_blank"
+                    }
+                ],
+                "archive": [
+                    {
+                        "year": 2026,
+                        "month": 5,
+                        "date": [
+                            1
+                        ],
+                        "title": null,
+                        "identifier": "jingu",
+                        "count": 2,
+                        "formats": ".ia.mp4",
+                        "files": [
+                            "20260501/geku/027",
+                            "20260501/geku/028"
+                        ],
+                        "cover": "20260501/geku/028_000015.jpg"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.70210734143785,
+                    34.48883482823615
+                ]
+            },
+            "properties": {
+                "title": "度会国御神社",
+                "description": "外宮の宮域内に鎮座する伊勢国の国魂神「天日別命」の子、外宮摂社3位（わたらいくに）",
+                "note": [
+                    "創建当初の鎮座地は山田前田村であったとされる、外宮の鎮座（雄略天皇22年）以前よりあったと考えられている神社",
+                    "さらに奥には、五十鈴川の河口にある港町の神社（かみやしろ）や大湊の守護神「大津神社（外宮末社8社の第7位、おおつ）」が鎮座<br>（さらに奥の一般立入不可の神域には、所管社「上御井神社」がある）"
+                ],
+                "links": [
+                    {
+                        "text": "度会国御神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/度会国御神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "度会国御神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/uSz6hzd3ebaNJXq67",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "大津神社 (伊勢市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/大津神社_(伊勢市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "大津神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/BvsJZ9DQANBDddgq6",
+                        "target": "_blank"
+                    }
+                ],
+                "archive": [
+                    {
+                        "year": 2026,
+                        "month": 5,
+                        "date": [
+                            1
+                        ],
+                        "title": null,
+                        "identifier": "jingu",
+                        "count": 3,
+                        "formats": ".ia.mp4",
+                        "files": [
+                            "20260501/geku/015",
+                            "20260501/geku/016",
+                            "20260501/geku/017"
+                        ],
+                        "cover": "20260501/geku/016_000012.jpg"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.70810293628972,
+                    34.485078778842706
+                ]
+            },
+            "properties": {
+                "title": "度会大国玉比賣神社",
+                "description": "外宮の宮域林（神宮林）に鎮座する度会地方の地主の神、外宮摂社4位（わたらいおおくにたま）",
+                "note": [
+                    "境内の参道とは直接つながっておらず、外宮の宮域東側の道を南に進むと、森の中に小さな参道口が現れる",
+                    "境内は昼間でも暗いほどの鬱蒼とした大木に囲まれていて、周辺には「伊我理神社（外宮末社8社の第1位、いがり）」・「井中神社（外宮末社8社の第3位、いなか）」がある"
+                ],
+                "links": [
+                    {
+                        "text": "度会大国玉比賣神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/度会大国玉比賣神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "度会大国玉比賣神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/zCA9TtBHSNzthsNu7",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "伊我理神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/伊我理神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "伊我理神社､井中神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/2xPDnnm1ubBtyfhM9",
+                        "target": "_blank"
+                    }
+                ],
+                "archive": [
+                    {
+                        "year": 2026,
+                        "month": 5,
+                        "date": [
+                            1
+                        ],
+                        "title": null,
+                        "identifier": "jingu",
+                        "count": 2,
+                        "formats": ".ia.mp4",
+                        "files": [
+                            "20260501/geku/019",
+                            "20260501/geku/020"
+                        ],
+                        "cover": "20260501/geku/020_000001.jpg"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.70743888458287,
+                    34.48064123524142
+                ]
+            },
+            "properties": {
+                "title": "田上大水神社・田上大水御前神社",
+                "description": "度会氏（外宮神官家）の祖先を祀る二社、外宮摂社第5位（たのえおおみず）・第6位（たのえおおみずみまえ）",
+                "note": [
+                    "付近には宮崎氏神社跡や山宮祭場跡など度会氏にまつわる史跡がある",
+                    "神宮司庁「岡本貯木場」を挟んだ西側には、外宮摂社第13位「山末神社」がある"
+                ],
+                "links": [
+                    {
+                        "text": "田上大水神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/田上大水神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "田上大水神社､田上大水御前神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/6uQT5XxyFsxnbKBF6",
+                        "target": "_blank"
+                    }
+                ],
+                "archive": [
+                    {
+                        "year": 2026,
+                        "month": 5,
+                        "date": [
+                            1
+                        ],
+                        "title": null,
+                        "identifier": "jingu",
+                        "count": 2,
+                        "formats": ".ia.mp4",
+                        "files": [
+                            "20260501/geku/022",
+                            "20260501/geku/023"
+                        ],
+                        "cover": "20260501/geku/022_000010.jpg"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.689389585402,
+                    34.48972974161224
+                ]
+            },
+            "properties": {
+                "title": "志等美神社・大河内神社",
+                "description": "宮川の洪水から地域を守る堤防の守護神、外宮摂社第7位（しとみ）・8位（おおこうち）",
+                "note": [
+                    "同じ社地には、「打懸神社（外宮末社8社の第4位、うちかけ）」が同座",
+                    "（伊勢神宮に属する125社のうちで神階を有するのは志等美・大河内・打懸の3社のみ）",
+                    "上記3社は旧村社の「上社（かみのやしろ）」に包摂される"
+                ],
+                "links": [
+                    {
+                        "text": "志等美神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/志等美神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "志等美神社・大河内神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/92SpLXbbYXTS3ZoSA",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "上社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/ndPTuBfvBJNUZijL6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.69672917197244,
+                    34.49501376949195
+                ]
+            },
+            "properties": {
+                "title": "清野井庭神社",
+                "description": "鎮座地近隣の灌漑用水の神、外宮摂社第9位（きよのいば）",
+                "note": [
+                    "古くは草奈伎神社・大間国生神社の位置に鎮座していたとの説もある",
+                    "公園に隣接する境内には高木のエノキ、クスノキのほか中低木のアラカシ、ケヤキが茂る"
+                ],
+                "links": [
+                    {
+                        "text": "清野井庭神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/清野井庭神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "清野井庭神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/3cUymt8kecGD9nMC9",
+                        "target": "_blank"
+                    }
+                ],
+                "archive": [
+                    {
+                        "year": 2026,
+                        "month": 5,
+                        "date": [
+                            1
+                        ],
+                        "title": null,
+                        "identifier": "jingu",
+                        "count": 2,
+                        "formats": ".ia.mp4",
+                        "files": [
+                            "20260501/geku/029",
+                            "20260501/geku/030"
+                        ],
+                        "cover": "20260501/geku/029_000001.jpg"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.7214667502817,
+                    34.514789705767754
+                ]
+            },
+            "properties": {
+                "title": "河原神社",
+                "description": "水田の中に茂る森の中に鎮座する宮川下流・田の守護神、外宮摂社第11位（かわら）",
+                "note": [
+                    "同じ社地には、森の神木の神「毛理神社（外宮末社8社の第6位、もり）」が同座"
+                ],
+                "links": [
+                    {
+                        "text": "河原神社 (伊勢市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/河原神社_(伊勢市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "河原神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/BDeSWgRCAKmocyZU7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.71450549275107,
+                    34.498907134262936
+                ]
+            },
+            "properties": {
+                "title": "河原淵神社",
+                "description": "河原神社・毛理神社とともに「三ッ社」と称される、外宮摂社第12位（かわらぶち）",
+                "note": [
+                    "同じ社地、地域の氏神「船江上社」などが同座"
+                ],
+                "links": [
+                    {
+                        "text": "河原淵神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/河原淵神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "河原淵神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/sdZZ1hK2RmvxNC6u8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.7059989413586,
+                    34.48142875791011
+                ]
+            },
+            "properties": {
+                "title": "山末神社",
+                "description": "外宮宮域・高倉山南東の端に鎮座する外宮摂社第13位（やまずえ）",
+                "note": [
+                    "鎮座地は、度会大国玉比賣神社からさらに南、神宮司庁「岡本貯木場」に面する地点",
+                    "（岡本貯木場を挟んで東側には、外宮摂社第5・6位「田上大水神社・田上大水御前神社」がある）"
+                ],
+                "links": [
+                    {
+                        "text": "山末神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/山末神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "山末神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/buvrvo5i22NSLPeC8",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "神宮司庁 岡本貯木場 - Google マップ",
+                        "url": "https://maps.app.goo.gl/vYzitTeEPiNgnt6n6",
+                        "target": "_blank"
+                    }
+                ],
+                "archive": [
+                    {
+                        "year": 2026,
+                        "month": 5,
+                        "date": [
+                            1
+                        ],
+                        "title": null,
+                        "identifier": "jingu",
+                        "count": 1,
+                        "formats": ".ia.mp4",
+                        "files": [
+                            "20260501/geku/021"
+                        ],
+                        "cover": "20260501/geku/021_000020.jpg"
+                    }
+                ],
+                "zoom": 16
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.69861733569445,
+                    34.50571666355485
+                ]
+            },
+            "properties": {
+                "title": "宇須乃野神社",
+                "description": "山田原を構成する原野の1つである宇須野（宇須乃野）にゆかりの深い神社、外宮摂社第14位（うすのの）",
+                "note": [
+                    "同じ社地には「県神社（外宮末社8社の第2位、あがた）」が同座"
+                ],
+                "links": [
+                    {
+                        "text": "宇須乃野神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/宇須乃野神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "宇須乃野神社､県神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/HKkSfWgsGiHykGQg6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.7368780663295,
+                    34.51212165274703
+                ]
+            },
+            "properties": {
+                "title": "御食神社",
+                "description": "地域では「辰神さん」と呼ばれる産土神、外宮摂社第15位（みけ）",
+                "note": [
+                    "伊勢の海の玄関口として栄えた三重県伊勢市神社港（かみやしろこう）に鎮座する",
+                    "新年最初の辰の日に「お水取り」が行われる"
+                ],
+                "links": [
+                    {
+                        "text": "御食神社 (伊勢市) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/御食神社_(伊勢市)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "御食神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/qdwe7SkZ3ss34HWm6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.67921385624174,
+                    34.50450535646442
+                ]
+            },
+            "properties": {
+                "title": "小俣神社",
+                "description": "外宮摂社としては唯一宮川の外側（西岸）に鎮座する、外宮摂社第16位（おばた）",
+                "note": [
+                    "地域住民からは「いなべの社」、「稲女（いなめ）さん」と呼ばれ、親しまれる",
+                    "地元では氏神の祭礼当日に小俣神社へ参拝する風習がある"
+                ],
+                "links": [
+                    {
+                        "text": "小俣神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/小俣神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "小俣神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/LARJvtQf9Gfya6gG8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.84570580392767,
+                    34.47153284552819
+                ],
+                "address": "日本 〒517-0011 三重県鳥羽市鳥羽５丁目２番"
+            },
+            "properties": {
+                "title": "赤崎神社",
+                "description": "神宮を構成する125社のうち鳥羽市に鎮座する唯一の神社（外宮末社8社の第5位、あかさき）",
+                "note": [
+                    "鳥羽湾内の海岸から外宮に奉納する御贄（みにえ）採取の守り神",
+                    "地元では「赤崎さん」と呼ばれ、産土神として親しまれる",
+                    "毎年 六月二十二日 鳥羽に夏の到来を告げる祭り「赤崎祭り」が行われる",
+                    "（伊勢・志摩両国の境であった妙慶川より北側（伊勢国側）にある賀多神社が赤崎神社の旧社地だったとする説がある）"
+                ],
+                "links": [
+                    {
+                        "text": "赤崎神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/赤崎神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "赤崎神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/5iygW3dvPNQwKhqC7",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 15.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.72976167509307,
+                    34.526215015221666
+                ]
+            },
+            "properties": {
+                "title": "志宝屋神社",
+                "description": "製塩業が盛んに行われていた鎮座地の塩業の神（外宮末社8社の第8位、しおや）",
+                "note": [
+                    "20世紀までは造船の街であった伊勢市大湊町に鎮座",
+                    "周囲を堤防で囲まれていて、神社の森は「鵜の森」と呼ばれる"
+                ],
+                "links": [
+                    {
+                        "text": "志宝屋神社 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/志宝屋神社",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "志宝屋神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/kZXHr8zpx6P6p71D8",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 17
+            }
+        }
+    ]
+}
