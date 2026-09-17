@@ -1,0 +1,87 @@
+{
+    "url": "/jingu/date/?map=naiku&area=takihara&name=20xx07",
+    "lastModified": null,
+    "cover": {
+        "title": [
+            "奥伊勢・大杉谷旅行",
+            "二〇×× 夏"
+        ],
+        "description": "御塩浜・神田と瀧原宮",
+        "note": [
+            "三泊四日の旅",
+            "七月二十二日まで"
+        ],
+        "directory": null,
+        "url": null
+    },
+    "info": {
+        "index": "旅のしおり",
+        "note": [
+            "七月二十二日",
+            "10:00 夏の御祭 瀧原宮",
+            "御塩浜・神田"
+        ]
+    },
+    "events": [
+        {
+            "date": {
+                "month": 7,
+                "date": [
+                    22
+                ]
+            },
+            "title": [
+                "夏の御祭",
+                "瀧原宮"
+            ],
+            "description": "地元の人々の参加のもとに行われる夏祭り",
+            "note": [
+                "July 22th every year",
+                "毎年 七月二十二日"
+            ],
+            "cover": {
+                "directory": null,
+                "url": null
+            },
+            "info": {
+                "links": [
+                    {
+                        "text": "瀧原宮 Takihara no Miya, Watarai, Mie",
+                        "url": "?id=naiku&area=takihara",
+                        "target": "_self"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 7,
+                "date": [
+                    22
+                ]
+            },
+            "title": [
+                "塩づくり",
+                "御塩浜"
+            ],
+            "description": "採鹹（さいかん）作業",
+            "note": [
+                "Late July - Early August every year",
+                "毎年 七月下旬の土用の頃"
+            ],
+            "info": {
+                "note": [
+                    "川から海水と淡水の入り混じった汽水を塩田に引き、天日で乾かし、1週間ほどかけて「鹹水（かん水、濃い塩水）」がつくられる",
+                    "* 採鹹作業は、御塩浜の外から見学可能"
+                ],
+                "links": [
+                    {
+                        "text": "二見浦・神前海岸と潜島 Futamiura",
+                        "url": "?id=naiku&area=futami",
+                        "target": "_self"
+                    }
+                ]
+            }
+        }
+    ]
+}

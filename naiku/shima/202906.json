@@ -1,0 +1,127 @@
+{
+    "url": "/jingu/date/?map=naiku&area=shima&name=202906",
+    "lastModified": null,
+    "cover": {
+        "title": [
+            "志摩・鳥羽旅行",
+            "二〇二九 夏"
+        ],
+        "description": "磯部の御神田・赤崎祭り",
+        "note": [
+            "二泊三日の旅",
+            "六月 二十二・二十三・二十四日"
+        ],
+        "directory": "https://www2.ntj.jac.go.jp/dglib/contents/learn/edc27/genre/",
+        "url": "dengaku/taueshinji/img/arts01/ph_middle_01.jpg"
+    },
+    "info": {
+        "index": "旅のしおり",
+        "note": [
+            "六月二十二日（金）",
+            "赤崎祭り",
+            "",
+            "六月二十三日（土）",
+            "賢島",
+            "",
+            "六月二十四日（日）",
+            "磯部の御神田"
+        ],
+        "links": [
+            {
+                "text": "伊雑宮 Izawa no Miya, Shima, Mie",
+                "url": "?id=naiku&area=shima",
+                "target": "_self"
+            }
+        ]
+    },
+    "events": [
+        {
+            "date": {
+                "month": 6,
+                "date": [
+                    22
+                ]
+            },
+            "title": [
+                "赤崎祭り",
+                "赤崎神社"
+            ],
+            "description": "鳥羽に夏の到来を告げる祭り",
+            "note": [
+                "June 22th every year",
+                "毎年 六月二十二日"
+            ],
+            "info": {
+                "note": [
+                    "祭りの当日にはたくさんの露店が並び、多くの参拝者が浴衣で参拝することから「ゆかた祭り」の愛称で地元の方から親しまれる",
+                    "神社の入り口では、その昔この地方で流行病が発生した際、この宮域内の杉の小枝を門戸につるした家々は難を逃れたという言い伝えにちなんで、崇敬会による厄よけの杉の小枝が売られ、杉の小枝を吊るす習わしは今日まで続く"
+                ],
+                "links": [
+                    {
+                        "text": "赤崎まつり／鳥羽市ホームページ",
+                        "url": "https://www.city.toba.mie.jp/soshiki/kanko_kikaku/gyomu/oshirase/8403.html",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 6,
+                "date": [
+                    24
+                ]
+            },
+            "title": [
+                "磯部の御神田",
+                "伊雑宮"
+            ],
+            "description": "三大御田植祭・国の重要無形民俗文化財",
+            "note": [
+                "June 24th every year",
+                "毎年 六月二十四日"
+            ],
+            "info": {
+                "markdown": "date/0624.md",
+                "links": [
+                    {
+                        "text": "伊雑宮 Izawa no Miya, Shima, Mie",
+                        "url": "?id=naiku&area=shima",
+                        "target": "_self"
+                    },
+                    {
+                        "text": "磯部の御神田 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/磯部の御神田",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": "毎",
+                "date": [
+                    22
+                ]
+            },
+            "title": [
+                "例祭",
+                "恵利原の水穴・風穴（天の岩戸）"
+            ],
+            "description": "恵利原老人クラブが清掃・整備等の保全活動を行う",
+            "note": [
+                "22th every month",
+                "毎月 二十二日"
+            ],
+            "info": {
+                "links": [
+                    {
+                        "text": "環境省選定 名水百選／詳細ページ",
+                        "url": "https://water-pub.env.go.jp/water-pub/mizu-site/meisui/data/index.asp?info=51",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        }
+    ]
+}

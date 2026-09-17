@@ -83,8 +83,26 @@
         ],
         "zoom": 11.5
     },
-    "eventsJSON": [
-        "naiku/shinsangun/date.json"
+    "events": [
+        {
+            "month": [
+                5,
+                10
+            ],
+            "title": [
+                "神御衣奉織始祭・鎮謝祭",
+                "Kanmiso Hosyoku"
+            ],
+            "description": "神麻績機殿・神服織機殿 ⛩ Hatadono Jinja",
+            "note": [
+                "May 1st and 13th / October 1st and 13th every year",
+                "毎年 五月一日・十三日と十月一日と十三日"
+            ],
+            "info": {
+                "markdown": "naiku/kanmiso.md",
+                "links": null
+            }
+        }
     ],
     "features": [
         {

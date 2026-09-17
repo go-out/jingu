@@ -141,7 +141,7 @@
                 "links": [
                     {
                         "text": "伊雑宮 Izawa no Miya, Shima, Mie",
-                        "url": "?id=naiku&name=shima",
+                        "url": "?id=naiku&area=shima",
                         "target": "_self"
                     },
                     {
@@ -197,7 +197,7 @@
                 "links": [
                     {
                         "text": "瀧原宮 Takihara no Miya, Watarai, Mie",
-                        "url": "?id=naiku&name=takihara",
+                        "url": "?id=naiku&area=takihara",
                         "target": "_self"
                     }
                 ]

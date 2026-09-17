@@ -1,12 +1,12 @@
 {
-    "url": "?id=naiku&name=shima",
+    "url": "?id=naiku&area=shima",
     "title": [
         "Izawa no Miya, Shima, Mie",
         "伊雑宮"
     ],
     "description": "内宮背後の「島路山（しまじ）」を越えた「志摩」の御贄地（神に供える食料を調達する地）",
     "info": {
-        "markdown": "naiku/shima.md",
+        "markdown": "naiku/shima/README.md",
         "links": [
             {
                 "text": "皇大神宮（内宮）九十二社 Kotai Jingu (Naiku)",
@@ -27,16 +27,106 @@
         ],
         "bounds": [
             [
-                136.7421944683228,
-                34.22327863815501
+                136.75535550077882,
+                34.19649290459195
             ],
             [
-                137.02022811945398,
-                34.48721145908618
+                136.9445875135352,
+                34.492168351348944
             ]
         ],
         "zoom": 12
     },
+    "events": [
+        {
+            "date": {
+                "month": 6,
+                "date": [
+                    22
+                ]
+            },
+            "title": [
+                "赤崎祭り",
+                "赤崎神社"
+            ],
+            "description": "鳥羽に夏の到来を告げる祭り",
+            "note": [
+                "June 22th every year",
+                "毎年 六月二十二日"
+            ],
+            "info": {
+                "note": [
+                    "祭りの当日にはたくさんの露店が並び、多くの参拝者が浴衣で参拝することから「ゆかた祭り」の愛称で地元の方から親しまれる",
+                    "神社の入り口では、その昔この地方で流行病が発生した際、この宮域内の杉の小枝を門戸につるした家々は難を逃れたという言い伝えにちなんで、崇敬会による厄よけの杉の小枝が売られ、杉の小枝を吊るす習わしは今日まで続く"
+                ],
+                "links": [
+                    {
+                        "text": "赤崎まつり／鳥羽市ホームページ",
+                        "url": "https://www.city.toba.mie.jp/soshiki/kanko_kikaku/gyomu/oshirase/8403.html",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": 6,
+                "date": [
+                    24
+                ]
+            },
+            "title": [
+                "磯部の御神田",
+                "伊雑宮"
+            ],
+            "description": "三大御田植祭・国の重要無形民俗文化財",
+            "note": [
+                "June 24th every year",
+                "毎年 六月二十四日"
+            ],
+            "info": {
+                "markdown": "date/0624.md",
+                "links": [
+                    {
+                        "text": "伊雑宮 Izawa no Miya, Shima, Mie",
+                        "url": "?id=naiku&area=shima",
+                        "target": "_self"
+                    },
+                    {
+                        "text": "磯部の御神田 - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/磯部の御神田",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        },
+        {
+            "date": {
+                "month": "毎",
+                "date": [
+                    22
+                ]
+            },
+            "title": [
+                "例祭",
+                "恵利原の水穴・風穴（天の岩戸）"
+            ],
+            "description": "恵利原老人クラブが清掃・整備等の保全活動を行う",
+            "note": [
+                "22th every month",
+                "毎月 二十二日"
+            ],
+            "info": {
+                "links": [
+                    {
+                        "text": "環境省選定 名水百選／詳細ページ",
+                        "url": "https://water-pub.env.go.jp/water-pub/mizu-site/meisui/data/index.asp?info=51",
+                        "target": "_blank"
+                    }
+                ]
+            }
+        }
+    ],
     "featuresJSON": [
         "naiku/index.json",
         "geku/index.json"
@@ -64,16 +154,6 @@
                     "<u>アクセス</u><br>三重交通バス「天の岩戸口」より徒歩約20分<br>（磯部バスセンター・伊勢市駅前から「宿浦線・御座線」が運行）"
                 ],
                 "links": [
-                    {
-                        "text": "環境省選定 名水百選／詳細ページ",
-                        "url": "https://water-pub.env.go.jp/water-pub/mizu-site/meisui/data/index.asp?info=51",
-                        "target": "_blank"
-                    },
-                    {
-                        "text": "三重交通 | 築地口（発） 天の岩戸口（着） 経路情報",
-                        "url": "https://www.sanco.co.jp/krs/search/result?dep=8002&arr=8001&timecd=1&date=2026-09-25&time=11%3A00",
-                        "target": "_blank"
-                    },
                     {
                         "text": "天の岩戸（恵利原の水穴） - Google マップ",
                         "url": "https://maps.app.goo.gl/MNisfYXVqByXrVKS9",

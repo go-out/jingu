@@ -20,13 +20,13 @@
             "九月二十五日（金） 5:00 出発",
             "6:00 - 8:30 近鉄特急「大阪難波」から「鳥羽」へ",
             "8:30 - 9:00 近鉄志摩線「鳥羽」から「志摩磯部」へ",
-            "9:00 - 12:00 伊雑宮（いぞうぐう）参拝",
-            "12:00 - 16:00 恵利原の水穴（天の岩戸） - 伊勢市へ",
+            "9:00 - 12:00 伊雑宮（いぞうぐう）",
+            "12:00 - 16:00 恵利原の水穴・風穴（天の岩戸）",
             "18:00 - 20:00 観月会 外宮 勾玉池奉納舞台",
             "ホテルルートイン松阪駅東 チェックイン",
             "",
-            "九月二十六日（土） 9:00チェックアウト",
-            "10:30 - 14:00 瀧原宮（たきはらのみや）参拝 - (三瀬坂峠) - 多岐原神社",
+            "九月二十六日（土） 9:00 チェックアウト",
+            "10:30 - 14:00 瀧原宮（たきはらのみや）",
             "14:00 - 18:00 紀勢本線 阿曽 - 多気 - 松坂"
         ],
         "links": [
@@ -37,23 +37,18 @@
             },
             {
                 "text": "伊雑宮 Izawa no Miya, Shima, Mie",
-                "url": "?id=naiku&name=shima",
+                "url": "?id=naiku&area=shima",
                 "target": "_self"
             },
             {
                 "text": "瀧原宮 Takihara no Miya, Watarai, Mie",
-                "url": "?id=naiku&name=takihara",
+                "url": "?id=naiku&area=takihara",
                 "target": "_self"
             },
             {
-                "text": "伊勢神宮参拝きっぷ｜近畿日本鉄道",
-                "url": "https://www.kintetsu.co.jp/senden/Railway/Ticket/sanpai/",
-                "target": "_blank"
-            },
-            {
-                "text": "【特急券付き】伊勢神宮参拝デジタルきっぷ | 近畿日本鉄道",
-                "url": "https://www.kintetsu.co.jp/senden/Railway/eticket/sanpai/",
-                "target": "_blank"
+                "text": "二〇二六 春に東へ旅行が吉 伊勢旅行",
+                "url": "date/?name=202605",
+                "target": "_self"
             }
         ]
     },
@@ -81,6 +76,16 @@
                     "次発 9:29発 - 9:55着 (次次発 10:29発 - 10:55着)"
                 ],
                 "links": [
+                    {
+                        "text": "伊勢神宮参拝きっぷ｜近畿日本鉄道",
+                        "url": "https://www.kintetsu.co.jp/senden/Railway/Ticket/sanpai/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "【特急券付き】伊勢神宮参拝デジタルきっぷ | 近畿日本鉄道",
+                        "url": "https://www.kintetsu.co.jp/senden/Railway/eticket/sanpai/",
+                        "target": "_blank"
+                    },
                     {
                         "text": "【特急時刻表】大阪難波・京都 → 伊勢志摩",
                         "url": "https://www.kintetsu.co.jp/railway/Dia/pdf/B_osakanamba_kyoto_kashikojima.pdf",
@@ -111,10 +116,9 @@
             ],
             "info": {
                 "note": [
-                    "（志摩磯部周辺に、日本一の面積を誇るコンビニ「ローソン志摩磯部店」がある）",
-                    "",
-                    "内宮背後の「島路山（しまじ）」を越えた「志摩」の御贄地（神に供える食料を調達する地）に鎮座する皇大神宮（内宮）別宮",
-                    "境外には、伊雑宮の外宮のように信仰される伊雑宮の所管社「佐美長神社（佐美長御前神社四社）」があり、伊雑宮と佐美長神社を結ぶ参道「御幸道（ごこうみち）」は、神が両社を行き来する道とされる",
+                    "皇大神宮（内宮）の境外別宮、神田を持つ唯一の別宮（いざわのみや・いぞうぐう）",
+                    "内宮背後の「島路山（しまじ）」を越えた「志摩」の御贄地（神に供える食料を調達する地）",
+                    "境外には、伊雑宮の外宮のように信仰される伊雑宮の所管社「佐美長神社（佐美長御前神社四社）」があり、両社を結ぶ参道「御幸道（ごこうみち）」は、神が行き来する道とされる",
                     "また、途中にある磯部神社は、伊雑宮の摂末社のような関係にあり、伊雑宮・佐美長神社（穂落とし神社）と合わせて三社詣でをする慣わしがある",
                     "",
                     "鸚鵡岩（おうむいわ）は、伊雑宮から北西に約1kmほどの和合山（わごうさん）の山頂近くにある奇岩（頂上は、磯部町の田園風景が一望できる絶景スポット）",
@@ -124,7 +128,7 @@
                 "links": [
                     {
                         "text": "伊雑宮 Izawa no Miya, Shima, Mie",
-                        "url": "?id=naiku&name=shima",
+                        "url": "?id=naiku&area=shima",
                         "target": "_self"
                     },
                     {
@@ -350,7 +354,7 @@
                 "links": [
                     {
                         "text": "瀧原宮 Takihara no Miya, Watarai, Mie",
-                        "url": "?id=naiku&name=takihara",
+                        "url": "?id=naiku&area=takihara",
                         "target": "_self"
                     },
                     {
@@ -428,6 +432,16 @@
             "info": {
                 "note": null,
                 "links": [
+                    {
+                        "text": "伊勢神宮参拝きっぷ｜近畿日本鉄道",
+                        "url": "https://www.kintetsu.co.jp/senden/Railway/Ticket/sanpai/",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "【特急券付き】伊勢神宮参拝デジタルきっぷ | 近畿日本鉄道",
+                        "url": "https://www.kintetsu.co.jp/senden/Railway/eticket/sanpai/",
+                        "target": "_blank"
+                    },
                     {
                         "text": "【特急時刻表】大阪難波・京都 → 伊勢志摩",
                         "url": "https://www.kintetsu.co.jp/railway/Dia/pdf/B_osakanamba_kyoto_kashikojima.pdf",
