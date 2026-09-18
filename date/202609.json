@@ -37,17 +37,17 @@
             },
             {
                 "text": "伊雑宮 Izawa no Miya, Shima, Mie",
-                "url": "?id=naiku&area=shima",
+                "url": "/jingu/?id=naiku&area=shima",
                 "target": "_self"
             },
             {
                 "text": "瀧原宮 Takihara no Miya, Watarai, Mie",
-                "url": "?id=naiku&area=takihara",
+                "url": "/jingu/?id=naiku&area=takihara",
                 "target": "_self"
             },
             {
                 "text": "二〇二六 春に東へ旅行が吉 伊勢旅行",
-                "url": "date/?name=202605",
+                "url": "/jingu/date/?name=202605",
                 "target": "_self"
             }
         ]
@@ -128,7 +128,7 @@
                 "links": [
                     {
                         "text": "伊雑宮 Izawa no Miya, Shima, Mie",
-                        "url": "?id=naiku&area=shima",
+                        "url": "/jingu/?id=naiku&area=shima",
                         "target": "_self"
                     },
                     {
@@ -260,7 +260,7 @@
                     },
                     {
                         "text": "豊受大神宮（外宮）三十三社 Toyouke Dai-Jingu (Geku)",
-                        "url": "../?id=geku",
+                        "url": "/jingu/?id=geku",
                         "target": "_self"
                     }
                 ]
@@ -354,7 +354,7 @@
                 "links": [
                     {
                         "text": "瀧原宮 Takihara no Miya, Watarai, Mie",
-                        "url": "?id=naiku&area=takihara",
+                        "url": "/jingu/?id=naiku&area=takihara",
                         "target": "_self"
                     },
                     {

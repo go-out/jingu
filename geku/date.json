@@ -13,11 +13,11 @@
     },
     "info": {
         "index": null,
-        "markdown": "geku/README.md",
+        "markdown": "/jingu/geku/README.md",
         "links": [
             {
                 "text": "外宮周辺の摂末社 Toyouke Dai-Jingu (Geku)",
-                "url": "../?id=geku",
+                "url": "/jingu/?id=geku",
                 "target": "_self"
             },
             {
@@ -45,7 +45,7 @@
                 "毎日 朝夕 一日二度"
             ],
             "info": {
-                "markdown": "../geku/higotoasayu.md",
+                "markdown": "/jingu/geku/higotoasayu.md",
                 "links": null
             }
         },

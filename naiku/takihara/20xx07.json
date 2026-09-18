@@ -47,7 +47,7 @@
                 "links": [
                     {
                         "text": "瀧原宮 Takihara no Miya, Watarai, Mie",
-                        "url": "?id=naiku&area=takihara",
+                        "url": "/jingu/?id=naiku&area=takihara",
                         "target": "_self"
                     }
                 ]
@@ -77,7 +77,7 @@
                 "links": [
                     {
                         "text": "二見浦・神前海岸と潜島 Futamiura",
-                        "url": "?id=naiku&area=futami",
+                        "url": "/jingu/?id=naiku&area=futami",
                         "target": "_self"
                     }
                 ]

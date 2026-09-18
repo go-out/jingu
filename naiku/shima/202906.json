@@ -29,7 +29,7 @@
         "links": [
             {
                 "text": "伊雑宮 Izawa no Miya, Shima, Mie",
-                "url": "?id=naiku&area=shima",
+                "url": "/jingu/?id=naiku&area=shima",
                 "target": "_self"
             }
         ]
@@ -82,11 +82,11 @@
                 "毎年 六月二十四日"
             ],
             "info": {
-                "markdown": "date/0624.md",
+                "markdown": "/jingu/date/0624.md",
                 "links": [
                     {
                         "text": "伊雑宮 Izawa no Miya, Shima, Mie",
-                        "url": "?id=naiku&area=shima",
+                        "url": "/jingu/?id=naiku&area=shima",
                         "target": "_self"
                     },
                     {

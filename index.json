@@ -13,21 +13,21 @@
         ]
     },
     "info": {
-        "markdown": "README.md",
+        "markdown": "/jingu/README.md",
         "links": [
             {
                 "text": "皇大神宮（内宮）九十二社 Kotai Jingu (Naiku)",
-                "url": "../?id=naiku",
+                "url": "/jingu/?id=naiku",
                 "target": "_self"
             },
             {
                 "text": "豊受大神宮（外宮）三十三社 Toyouke Dai-Jingu (Geku)",
-                "url": "../?id=geku",
+                "url": "/jingu/?id=geku",
                 "target": "_self"
             },
             {
                 "text": "神宮の一年 Jingu Annual Ceremonies",
-                "url": "./date/",
+                "url": "/jingu/date/",
                 "target": "_self"
             },
             {
@@ -75,9 +75,9 @@
         "zoom": 8
     },
     "eventsJSON": [
-        "date/date.json",
-        "naiku/date.json",
-        "geku/date.json"
+        "/jingu/date/date.json",
+        "/jingu/naiku/date.json",
+        "/jingu/geku/date.json"
     ],
     "features": [
         {
@@ -367,7 +367,7 @@
                 "links": [
                     {
                         "text": "神三郡（度会郡・多気郡・飯野郡） Matsusaka - Ise, Mie",
-                        "url": "?id=naiku&area=shinsangun",
+                        "url": "/jingu/?id=naiku&area=shinsangun",
                         "target": "_self"
                     }
                 ],
@@ -416,7 +416,7 @@
                 "links": [
                     {
                         "text": "伊雑宮 Izawa no Miya, Shima, Mie",
-                        "url": "?id=naiku&area=shima",
+                        "url": "/jingu/?id=naiku&area=shima",
                         "target": "_self"
                     }
                 ],
@@ -444,7 +444,7 @@
                 "links": [
                     {
                         "text": "瀧原宮 Takihara no Miya, Watarai, Mie",
-                        "url": "?id=naiku&area=takihara",
+                        "url": "/jingu/?id=naiku&area=takihara",
                         "target": "_self"
                     }
                 ],
@@ -470,7 +470,7 @@
                 "links": [
                     {
                         "text": "皇大神宮（内宮）九十二社 Kotai Jingu (Naiku)",
-                        "url": "?id=naiku",
+                        "url": "/jingu/?id=naiku",
                         "target": "_self"
                     }
                 ],
@@ -518,7 +518,7 @@
                 "links": [
                     {
                         "text": "豊受大神宮（外宮）三十三社 Toyouke Dai-Jingu (Geku)",
-                        "url": "?id=geku",
+                        "url": "/jingu/?id=geku",
                         "target": "_self"
                     }
                 ],

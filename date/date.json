@@ -27,12 +27,12 @@
             },
             {
                 "text": "皇大神宮（内宮）九十二社 Kotai Jingu (Naiku)",
-                "url": "../?id=naiku",
+                "url": "/jingu/?id=naiku",
                 "target": "_self"
             },
             {
                 "text": "豊受大神宮（外宮）三十三社 Toyouke Dai-Jingu (Geku)",
-                "url": "../?id=geku",
+                "url": "/jingu/?id=geku",
                 "target": "_self"
             }
         ]
@@ -78,7 +78,7 @@
                 "毎年 五月上旬 午前九時"
             ],
             "info": {
-                "markdown": "date/shinden-otami.md",
+                "markdown": "/jingu/date/shinden-otami.md",
                 "links": null
             }
         },
@@ -101,16 +101,16 @@
                 "毎年 五月・十月 十四日 正午"
             ],
             "info": {
-                "markdown": "naiku/kanmiso.md",
+                "markdown": "/jingu/naiku/kanmiso.md",
                 "links": [
                     {
                         "text": "皇大神宮（内宮）九十二社 Kotai Jingu (Naiku)",
-                        "url": "../?id=naiku",
+                        "url": "/jingu/?id=naiku",
                         "target": "_self"
                     },
                     {
                         "text": "神三郡（度会郡・多気郡・飯野郡） Matsusaka - Ise, Mie",
-                        "url": "?id=naiku&area=shinsangun",
+                        "url": "/jingu/?id=naiku&area=shinsangun",
                         "target": "_self"
                     }
                 ]
@@ -137,11 +137,11 @@
                 "url": null
             },
             "info": {
-                "markdown": "date/0624.md",
+                "markdown": "/jingu/date/0624.md",
                 "links": [
                     {
                         "text": "伊雑宮 Izawa no Miya, Shima, Mie",
-                        "url": "?id=naiku&area=shima",
+                        "url": "/jingu/?id=naiku&area=shima",
                         "target": "_self"
                     },
                     {
@@ -197,7 +197,7 @@
                 "links": [
                     {
                         "text": "瀧原宮 Takihara no Miya, Watarai, Mie",
-                        "url": "?id=naiku&area=takihara",
+                        "url": "/jingu/?id=naiku&area=takihara",
                         "target": "_self"
                     }
                 ]
@@ -269,7 +269,7 @@
                 "毎年 十月十五日から十七日"
             ],
             "info": {
-                "markdown": "date/kanname.md",
+                "markdown": "/jingu/date/kanname.md",
                 "links": null
             }
         },
@@ -290,7 +290,7 @@
                 "毎年 十一月二十三日"
             ],
             "info": {
-                "markdown": "date/niiname.md",
+                "markdown": "/jingu/date/niiname.md",
                 "links": null
             }
         },
@@ -309,7 +309,7 @@
                 "毎年 六月・十二月 十五日から十七日"
             ],
             "info": {
-                "markdown": "date/tsukinami.md",
+                "markdown": "/jingu/date/tsukinami.md",
                 "links": null
             }
         }

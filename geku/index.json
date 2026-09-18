@@ -1,5 +1,5 @@
 {
-    "url": "?id=geku",
+    "url": "/jingu/?id=geku",
     "title": [
         "Toyouke Dai-Jingu (Geku)",
         "豊受大神宮（外宮）三十三社"
@@ -12,7 +12,7 @@
         ]
     },
     "info": {
-        "markdown": "geku/README.md",
+        "markdown": "/jingu/geku/README.md",
         "links": [
             {
                 "text": "豊受大神宮 - Wikipedia",

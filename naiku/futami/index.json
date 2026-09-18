@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "url": "?id=naiku&area=futami",
+    "url": "/jingu/?id=naiku&area=futami",
     "title": [
         "Futamiura",
         "二見浦・神前海岸と潜島"
@@ -11,7 +11,7 @@
         "links": [
             {
                 "text": "皇大神宮（内宮）九十二社 Kotai Jingu (Naiku)",
-                "url": "?id=naiku",
+                "url": "/jingu/?id=naiku",
                 "target": "_self"
             },
             {
@@ -43,15 +43,15 @@
         ],
         "bounds": [
             [
-                136.7378369126533,
-                34.48905068290621
+                136.73259023113235,
+                34.46680713137957
             ],
             [
                 136.84423874539718,
                 34.534786847254864
             ]
         ],
-        "zoom": 14
+        "zoom": 13
     },
     "events": [
         {
@@ -153,60 +153,9 @@
                 ],
                 "zoom": 16
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    136.75551325524265,
-                    34.50949924063684
-                ]
-            },
-            "properties": {
-                "title": "御塩浜",
-                "description": "五十鈴川の清流と伊勢湾の海水が混ざり合う、神宮の御塩が作られる地",
-                "note": [
-                    "毎年七月下旬から八月上旬にかけての土用頃に塩づくりが行われる"
-                ],
-                "links": [
-                    {
-                        "text": "御塩浜 - Google マップ",
-                        "url": "https://maps.app.goo.gl/tMSxf6thFed9KdjU6",
-                        "target": "_blank"
-                    }
-                ],
-                "zoom": 16.5
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    136.75722246590283,
-                    34.50148914540364
-                ],
-                "address": "三重県伊勢市二見町溝口５３５−２"
-            },
-            "properties": {
-                "title": "神宮御園",
-                "description": "神々に捧げられる50種類ほどの野菜や果物を育てる「御園（みその）」",
-                "note": [
-                    "毎年春分の日には御園祭（みそのさい）が行われ、豊かな稔りと農作業に携わる人々の作業の安全を祈願する"
-                ],
-                "links": [
-                    {
-                        "text": "神宮御園 - Google マップ",
-                        "url": "https://maps.app.goo.gl/wd1rv94qPX3eaZMb9",
-                        "target": "_blank"
-                    }
-                ],
-                "zoom": 16.5
-            }
         }
     ],
     "featuresJSON": [
-        "naiku/index.json"
+        "/jingu/naiku/index.json"
     ]
 }

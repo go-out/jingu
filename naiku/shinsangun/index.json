@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "url": "?id=naiku&area=shinsangun",
+    "url": "/jingu/?id=naiku&area=shinsangun",
     "title": [
         "Matsusaka - Ise, Mie",
         "神三郡（度会郡・多気郡・飯野郡）"
@@ -17,11 +17,11 @@
         ]
     },
     "info": {
-        "markdown": "naiku/shinsangun/README.md",
+        "markdown": "/jingu/naiku/shinsangun/README.md",
         "links": [
             {
                 "text": "皇大神宮（内宮）九十二社 Kotai Jingu (Naiku)",
-                "url": "?id=naiku",
+                "url": "/jingu/?id=naiku",
                 "target": "_self"
             },
             {
@@ -73,11 +73,11 @@
         ],
         "bounds": [
             [
-                136.21630934961564,
-                34.419981563049774
+                136.20534559783414,
+                34.40187338210805
             ],
             [
-                136.71282959046093,
+                136.71693724179372,
                 34.64445491736643
             ]
         ],
@@ -99,7 +99,7 @@
                 "毎年 五月一日・十三日と十月一日と十三日"
             ],
             "info": {
-                "markdown": "naiku/kanmiso.md",
+                "markdown": "/jingu/naiku/kanmiso.md",
                 "links": null
             }
         }
@@ -194,100 +194,6 @@
                     }
                 ],
                 "zoom": 16.5
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    136.46869723407764,
-                    34.59080655480041
-                ]
-            },
-            "properties": {
-                "title": "阿射加神社（小阿坂）",
-                "description": "大阿坂町にある同名の神社とともに、元伊勢「阿佐加藤方片樋宮」の比定地のひとつ",
-                "note": [
-                    "神宮の最大の祭祀「神嘗祭」で用いられる特別な聖火「忌火」の発祥の地",
-                    "祭神の阿耶訶大神とは猿田彦神、伊豆速布留神、竜天大神の三神",
-                    "（猿田彦神は伊勢国の国津神であり、この神を祀る神社では最も由緒ある神社といわれる）",
-                    "<u>アクセス</u><br>近鉄「松阪」駅から三重交通バス「阿坂小野線」 バス停「阿坂小学校前」下車 徒歩約10分"
-                ],
-                "links": [
-                    {
-                        "text": "阿射加神社 - Wikipedia",
-                        "url": "https://ja.wikipedia.org/wiki/阿射加神社",
-                        "target": "_blank"
-                    },
-                    {
-                        "text": "阿射加神社（小阿坂） - Google マップ",
-                        "url": "https://maps.app.goo.gl/rDzKUSsfEYwyWDAw7",
-                        "target": "_blank"
-                    },
-                    {
-                        "text": "阿射加神社（大阿坂） - Google マップ",
-                        "url": "https://maps.app.goo.gl/mmGXVTbice4fwsR19",
-                        "target": "_blank"
-                    }
-                ],
-                "zoom": 15
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    136.46305634919736,
-                    34.574163621828504
-                ]
-            },
-            "properties": {
-                "title": "瑞巌寺庭園",
-                "description": "堀坂山麓の渓谷に人工の庭園美をいかした三重県・松阪市指定名勝",
-                "note": [
-                    "<u>アクセス</u><br>近鉄「松阪」駅から三重交通バス「阿坂小野線」 バス停「岩内口」下車 徒歩約25分"
-                ],
-                "links": [
-                    {
-                        "text": "瑞巌寺 (松阪市) - Wikipedia",
-                        "url": "https://ja.wikipedia.org/wiki/瑞巌寺_(松阪市)",
-                        "target": "_blank"
-                    },
-                    {
-                        "text": "瑞巌寺庭園 - Google マップ",
-                        "url": "https://maps.app.goo.gl/dxR4QhpaqeY5My6M7",
-                        "target": "_blank"
-                    }
-                ],
-                "zoom": 16
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    136.40231479998846,
-                    34.557754814029394
-                ]
-            },
-            "properties": {
-                "title": "飯福田寺",
-                "description": "伊勢山上にある修験道の修行の場（いぶたじ）",
-                "note": [
-                    "写経、阿字観、修行トレッキングなどの体験があり、宿泊も可能",
-                    "<u>アクセス</u><br>三重交通バス「柚原」行き柚原下車 徒歩約40分"
-                ],
-                "links": [
-                    {
-                        "text": "国峰山 飯福田寺 - Google マップ",
-                        "url": "https://maps.app.goo.gl/VVvzKAq5yWigC46PA",
-                        "target": "_blank"
-                    }
-                ],
-                "zoom": 14.5
             }
         },
         {
@@ -455,68 +361,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    136.61867279348866,
-                    34.53678136231653
-                ]
-            },
-            "properties": {
-                "title": "竹神社",
-                "description": "明治44（1911）年に旧斎宮村にあった25社の神を合祀して誕生、元伊勢「佐佐牟江宮」の比定地（たけ）",
-                "note": [
-                    "旧社地は、斎宮跡を整備し博物館やさいくうの杜などを建てた史跡公園の中",
-                    "現社地は、伊勢神宮に仕えた「斎王」が暮らしていた斎宮城があったとされる地",
-                    "（境外南側には、土日曜日のレンタサイクル受付所がある）"
-                ],
-                "links": [
-                    {
-                        "text": "竹神社 (明和町) - Wikipedia",
-                        "url": "https://ja.wikipedia.org/wiki/竹神社_(明和町)",
-                        "target": "_blank"
-                    },
-                    {
-                        "text": "竹神社 - Google マップ",
-                        "url": "https://maps.app.goo.gl/hY3vqkf9UiUgPwCDA",
-                        "target": "_blank"
-                    },
-                    {
-                        "text": "みのりや_斎宮の小さな商店街 - Google マップ",
-                        "url": "https://maps.app.goo.gl/BcVDbiQkw3YE6Ar68",
-                        "target": "_blank"
-                    },
-                    {
-                        "text": "明和町レンタサイクル - 一般社団法人明和観光商社",
-                        "url": "https://dmo.hana-meiwa.jp/2023/01/23/明和町レンタサイクル/",
-                        "target": "_blank"
-                    }
-                ],
-                "archive": [
-                    {
-                        "year": 2026,
-                        "month": 5,
-                        "date": [
-                            2
-                        ],
-                        "title": null,
-                        "identifier": "jingu",
-                        "count": 2,
-                        "formats": ".ia.mp4",
-                        "files": [
-                            "20260501/saiku/001",
-                            "20260501/saiku/002",
-                            "20260501/saiku/003",
-                            "20260501/saiku/004",
-                            "20260501/saiku/005"
-                        ],
-                        "cover": "20260501/saiku/005_000001.jpg"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     136.6164963223958,
                     34.53872802781005
                 ],
@@ -576,6 +420,90 @@
                     }
                 ],
                 "zoom": 15.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.61867279348866,
+                    34.53678136231653
+                ]
+            },
+            "properties": {
+                "title": "竹神社",
+                "description": "明治44（1911）年に旧斎宮村にあった25社の神を合祀して誕生、元伊勢「佐佐牟江宮」の比定地のひとつ（たけ）",
+                "note": [
+                    "旧社地は、斎宮跡を整備し博物館やさいくうの杜などを建てた史跡公園の中",
+                    "現社地は、伊勢神宮に仕えた「斎王」が暮らしていた斎宮城があったとされる地",
+                    "（境外南側には、土日曜日のレンタサイクル受付所がある）"
+                ],
+                "links": [
+                    {
+                        "text": "竹神社 (明和町) - Wikipedia",
+                        "url": "https://ja.wikipedia.org/wiki/竹神社_(明和町)",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "竹神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/hY3vqkf9UiUgPwCDA",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "みのりや_斎宮の小さな商店街 - Google マップ",
+                        "url": "https://maps.app.goo.gl/BcVDbiQkw3YE6Ar68",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "明和町レンタサイクル - 一般社団法人明和観光商社",
+                        "url": "https://dmo.hana-meiwa.jp/2023/01/23/明和町レンタサイクル/",
+                        "target": "_blank"
+                    }
+                ],
+                "archive": [
+                    {
+                        "year": 2026,
+                        "month": 5,
+                        "date": [
+                            2
+                        ],
+                        "title": null,
+                        "identifier": "jingu",
+                        "count": 2,
+                        "formats": ".ia.mp4",
+                        "files": [
+                            "20260501/saiku/001",
+                            "20260501/saiku/002",
+                            "20260501/saiku/003",
+                            "20260501/saiku/004",
+                            "20260501/saiku/005"
+                        ],
+                        "cover": "20260501/saiku/005_000001.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.64966500701146,
+                    34.56506577418145
+                ]
+            },
+            "properties": {
+                "title": "竹佐々夫江神社",
+                "description": "元伊勢「佐佐牟江宮」の比定地のひとつ（たけささふえ）",
+                "note": null,
+                "links": [
+                    {
+                        "text": "竹佐々夫江神社 - Google マップ",
+                        "url": "https://maps.app.goo.gl/6iahaGFyP7oyE8xz9",
+                        "target": "_blank"
+                    }
+                ]
             }
         },
         {
@@ -672,6 +600,6 @@
         }
     ],
     "featuresJSON": [
-        "naiku/index.json"
+        "/jingu/naiku/index.json"
     ]
 }

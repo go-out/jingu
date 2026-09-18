@@ -1,16 +1,16 @@
 {
-    "url": "?id=naiku&area=takihara",
+    "url": "/jingu/?id=naiku&area=takihara",
     "title": [
         "Takihara no Miya, Watarai, Mie",
         "瀧原宮"
     ],
     "description": "伊勢神宮に先駆け、天照大神を祀る地として造立された美しい場所「大河の瀧原の国」",
     "info": {
-        "markdown": "naiku/takihara/README.md",
+        "markdown": "/jingu/naiku/takihara/README.md",
         "links": [
             {
                 "text": "皇大神宮（内宮）九十二社 Kotai Jingu (Naiku)",
-                "url": "?id=naiku",
+                "url": "/jingu/?id=naiku",
                 "target": "_self"
             },
             {
@@ -48,7 +48,7 @@
         "bounds": [
             [
                 136.04276965457572,
-                34.161927311125524
+                34.118445273701234
             ],
             [
                 136.57529211965817,
@@ -57,16 +57,50 @@
         ],
         "zoom": 12.5
     },
-    "featuresJSON": [
-        "naiku/index.json"
-    ],
     "features": [
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    136.18161162847235, 34.23312235856173
+                    136.1653710045146,
+                    34.213796864978896
+                ],
+                "address": "〒519-2634 三重県多気郡大台町大杉"
+            },
+            "properties": {
+                "title": "シシ淵",
+                "description": "日本三大渓谷の一つ「大杉谷」の三重県側登山コースの絶景ポイント",
+                "note": [
+                    "さらに上流へ向かった地に山小屋あり"
+                ],
+                "links": [
+                    {
+                        "text": "シシ淵 - Google マップ",
+                        "url": "https://maps.app.goo.gl/5BFEys13qWoSVNbz7",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "桃の木山の家 - Google マップ",
+                        "url": "https://maps.app.goo.gl/N6pKPie2fehXAudbA",
+                        "target": "_blank"
+                    },
+                    {
+                        "text": "桃の木小屋 - 大杉渓谷 桃の木小屋",
+                        "url": "https://www.momonokigoya.jp/",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 14.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.18161162847235,
+                    34.23312235856173
                 ],
                 "address": "〒519-2634 三重県多気郡大台町大杉"
             },
@@ -96,7 +130,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    136.40890060234693, 34.39393337852181
+                    136.40890060234693,
+                    34.39393337852181
                 ],
                 "address": "〒519-2404 三重県多気郡大台町佐原６６３−１"
             },
@@ -132,7 +167,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    136.41895751350648, 34.3675397233913
+                    136.41895751350648,
+                    34.3675397233913
                 ],
                 "address": "〒519-2703 三重県度会郡大紀町滝原８７０−３７"
             },
@@ -163,7 +199,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    136.40886262696984, 34.33872139360213
+                    136.40886262696984,
+                    34.33872139360213
                 ],
                 "address": "〒519-2704 三重県度会郡大紀町阿曽４２９"
             },
@@ -194,7 +231,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    136.41963328146505, 34.381308759136985
+                    136.41963328146505,
+                    34.381308759136985
                 ],
                 "address": "〒519-2703 三重県度会郡大紀町滝原１４８−１"
             },
@@ -224,7 +262,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    136.4197643269334, 34.37878626481136
+                    136.4197643269334,
+                    34.37878626481136
                 ],
                 "address": "〒519-2703 三重県度会郡大紀町滝原１４８−１"
             },
@@ -249,5 +288,8 @@
                 "zoom": 17
             }
         }
+    ],
+    "featuresJSON": [
+        "/jingu/naiku/index.json"
     ]
 }

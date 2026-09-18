@@ -1,5 +1,5 @@
 {
-    "url": "/?id=naiku",
+    "url": "/jingu/?id=naiku",
     "title": [
         "Kotai Jingu (Naiku)",
         "皇大神宮（内宮）九十二社"
@@ -13,7 +13,7 @@
         ]
     },
     "info": {
-        "markdown": "naiku/README.md",
+        "markdown": "/jingu/naiku/README.md",
         "links": [
             {
                 "text": "皇大神宮 - Wikipedia",
@@ -26,23 +26,23 @@
                 "target": "_blank"
             },
             {
-                "text": "瀧原宮 Takihara no Miya, Watarai, Mie",
-                "url": "?id=naiku&area=takihara",
-                "target": "_self"
-            },
-            {
-                "text": "伊雑宮 Izawa no Miya, Shima, Mie",
-                "url": "?id=naiku&area=shima",
+                "text": "二見浦・神前海岸と潜島 Futamiura",
+                "url": "/jingu/?id=naiku&area=futami",
                 "target": "_self"
             },
             {
                 "text": "神三郡（度会郡・多気郡・飯野郡） Matsusaka - Ise, Mie",
-                "url": "?id=naiku&area=shinsangun",
+                "url": "/jingu/?id=naiku&area=shinsangun",
                 "target": "_self"
             },
             {
-                "text": "二見浦・神前海岸と潜島 Futamiura",
-                "url": "?id=naiku&area=futami",
+                "text": "伊雑宮 Izawa no Miya, Shima, Mie",
+                "url": "/jingu/?id=naiku&area=shima",
+                "target": "_self"
+            },
+            {
+                "text": "瀧原宮 Takihara no Miya, Watarai, Mie",
+                "url": "/jingu/?id=naiku&area=takihara",
                 "target": "_self"
             }
         ]
@@ -670,7 +670,8 @@
                 "description": "社地は「茶屋の森」と呼ばれる神宮神田との関わりが深い神社、内宮摂社第10位（おおつちみおや）・第11位（くにつみおや）",
                 "note": [
                     "同じ社地には土地を守る「宇治乃奴鬼神社（内宮末社16社の第8位、うじのぬき）」が同座",
-                    "参道のさらに奥に、国津御祖神社と「葦立弖神社（内宮末社16社の第14位、あしだて）」が並んで鎮座する"
+                    "参道のさらに奥に、国津御祖神社と「葦立弖神社（内宮末社16社の第14位、あしだて）」が並んで鎮座する",
+                    "（元伊勢「家田々上宮」の伝承地にあたる地）"
                 ],
                 "links": [
                     {
@@ -1424,6 +1425,57 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    136.75551325524265,
+                    34.50949924063684
+                ]
+            },
+            "properties": {
+                "title": "御塩浜",
+                "description": "五十鈴川の清流と伊勢湾の海水が混ざり合う、神宮の御塩が作られる地",
+                "note": [
+                    "毎年七月下旬から八月上旬にかけての土用頃に塩づくりが行われる"
+                ],
+                "links": [
+                    {
+                        "text": "御塩浜 - Google マップ",
+                        "url": "https://maps.app.goo.gl/tMSxf6thFed9KdjU6",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.75722246590283,
+                    34.50148914540364
+                ],
+                "address": "三重県伊勢市二見町溝口５３５−２"
+            },
+            "properties": {
+                "title": "神宮御園",
+                "description": "神々に捧げられる50種類ほどの野菜や果物を育てる「御園（みその）」",
+                "note": [
+                    "毎年春分の日には御園祭（みそのさい）が行われ、豊かな稔りと農作業に携わる人々の作業の安全を祈願する"
+                ],
+                "links": [
+                    {
+                        "text": "神宮御園 - Google マップ",
+                        "url": "https://maps.app.goo.gl/wd1rv94qPX3eaZMb9",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 16.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     136.725081573755,
                     34.45837332781096
                 ]
@@ -1518,6 +1570,31 @@
                     }
                 ],
                 "zoom": 15.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.74089207303695,
+                    34.47590567547692
+                ]
+            },
+            "properties": {
+                "title": "神宮神田",
+                "description": "神々に捧げられる「御料米」を育てる「神田（しんでん）」",
+                "note": [
+                    "神田の正面にある忌鍬山（ゆくわやま）周辺は、瀧原宮の次の元伊勢「矢田宮」の伝承地"
+                ],
+                "links": [
+                    {
+                        "text": "神宮神田 - Google マップ",
+                        "url": "https://maps.app.goo.gl/Rw2YXSKGqQCNdPiXA",
+                        "target": "_blank"
+                    }
+                ],
+                "zoom": 14.5
             }
         }
     ]

@@ -35,7 +35,7 @@
         "links": [
             {
                 "text": "二〇二六 秋 中秋の名月 伊勢旅行",
-                "url": "date/?name=202609",
+                "url": "/jingu/date/?name=202609",
                 "target": "_self"
             }
         ]
@@ -103,7 +103,7 @@
                 "links": [
                     {
                         "text": "皇大神宮（内宮）九十二社 Kotai Jingu (Naiku)",
-                        "url": "?id=naiku",
+                        "url": "/jingu/?id=naiku",
                         "target": "_self"
                     }
                 ]
@@ -130,11 +130,11 @@
                 "毎日 朝夕 一日二度"
             ],
             "info": {
-                "markdown": "geku/higotoasayu.md",
+                "markdown": "/jingu/geku/higotoasayu.md",
                 "links": [
                     {
                         "text": "豊受大神宮（外宮）三十三社 Toyouke Dai-Jingu (Geku)",
-                        "url": "?id=geku",
+                        "url": "/jingu/?id=geku",
                         "target": "_self"
                     }
                 ]
@@ -167,7 +167,7 @@
                 "links": [
                     {
                         "text": "二見浦・神前海岸と潜島 Futamiura",
-                        "url": "?id=naiku&area=futami",
+                        "url": "/jingu/?id=naiku&area=futami",
                         "target": "_self"
                     }
                 ]
@@ -194,11 +194,11 @@
                 "毎年 五月・十月 一日から十四日"
             ],
             "info": {
-                "markdown": "naiku/kanmiso.md",
+                "markdown": "/jingu/naiku/kanmiso.md",
                 "links": [
                     {
                         "text": "神三郡（度会郡・多気郡・飯野郡） Matsusaka - Ise, Mie",
-                        "url": "?id=naiku&area=shinsangun",
+                        "url": "/jingu/?id=naiku&area=shinsangun",
                         "target": "_self"
                     }
                 ]

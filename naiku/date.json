@@ -1,5 +1,5 @@
 {
-    "url": "/date/?map=naiku",
+    "url": "/jingu/date/?map=naiku",
     "lastModified": null,
     "cover": {
         "title": [
@@ -20,7 +20,7 @@
         "links": [
             {
                 "text": "皇大神宮（内宮）九十二社 Kotai Jingu (Naiku)",
-                "url": "?id=naiku",
+                "url": "/jingu/?id=naiku",
                 "target": "_self"
             },
             {

@@ -1,16 +1,16 @@
 {
-    "url": "?id=naiku&area=shima",
+    "url": "/jingu/?id=naiku&area=shima",
     "title": [
         "Izawa no Miya, Shima, Mie",
         "伊雑宮"
     ],
     "description": "内宮背後の「島路山（しまじ）」を越えた「志摩」の御贄地（神に供える食料を調達する地）",
     "info": {
-        "markdown": "naiku/shima/README.md",
+        "markdown": "/jingu/naiku/shima/README.md",
         "links": [
             {
                 "text": "皇大神宮（内宮）九十二社 Kotai Jingu (Naiku)",
-                "url": "../?id=naiku",
+                "url": "/jingu/?id=naiku",
                 "target": "_self"
             },
             {
@@ -85,11 +85,11 @@
                 "毎年 六月二十四日"
             ],
             "info": {
-                "markdown": "date/0624.md",
+                "markdown": "/jingu/date/0624.md",
                 "links": [
                     {
                         "text": "伊雑宮 Izawa no Miya, Shima, Mie",
-                        "url": "?id=naiku&area=shima",
+                        "url": "/jingu/?id=naiku&area=shima",
                         "target": "_self"
                     },
                     {
@@ -126,10 +126,6 @@
                 ]
             }
         }
-    ],
-    "featuresJSON": [
-        "naiku/index.json",
-        "geku/index.json"
     ],
     "features": [
         {
@@ -299,5 +295,9 @@
                 "zoom": 16.5
             }
         }
+    ],
+    "featuresJSON": [
+        "/jingu/naiku/index.json",
+        "/jingu/geku/index.json"
     ]
 }
