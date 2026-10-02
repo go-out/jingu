@@ -51,6 +51,10 @@
                 "Early April every year",
                 "毎年 四月上旬 午前九時"
             ],
+            "cover": {
+                "directory": null,
+                "url": null
+            },
             "info": {
                 "note": [
                     "九月の「抜穂祭」と共に神嘗祭に付属する祭典（しんでんげしゅさい）",
@@ -59,7 +63,13 @@
                     "鍬が完成すると禰宜（ねぎ、宮司の下の役職）以下の奉仕員は、「まさきのかづら」と呼ぶテイカカヅラのつる草を円形に編んで烏帽子（えぼし）に飾り下山し、神田の祭場に整列、神田下種祭に臨む",
                     "祭場には神饌（しんせん、神々に捧げられる食事）を供え田の神を祭り、古来より歌い継がれている御田歌（みたうた）「天鍬（あめくわ）や 真佐岐（まさき）の蔓（かづら） 笠にきて 御田（みた）うちまつる 春の宮人（みやびと）」を唱和しながら水田に入り、忌種（ゆだね、清浄なモミ種）をまく"
                 ],
-                "links": null
+                "links": [
+                    {
+                        "text": "神宮神田・朝熊ヶ岳 Asama Area, Ise, Mie",
+                        "url": "/jingu/?id=naiku&area=shigou",
+                        "target": "_self"
+                    }
+                ]
             }
         },
         {
@@ -76,9 +86,19 @@
                 "Early May every year start at 9am",
                 "毎年 五月上旬 午前九時"
             ],
+            "cover": {
+                "directory": null,
+                "url": null
+            },
             "info": {
                 "markdown": "/jingu/date/shinden-otami.md",
-                "links": null
+                "links": [
+                    {
+                        "text": "神宮神田・朝熊ヶ岳 Asama Area, Ise, Mie",
+                        "url": "/jingu/?id=naiku&area=shigou",
+                        "target": "_self"
+                    }
+                ]
             }
         },
         {
@@ -90,15 +110,15 @@
                 "神御衣祭",
                 "内宮 正宮・荒祭宮"
             ],
-            "cover": {
-                "directory": null,
-                "url": null
-            },
             "description": "天照大神の夏と冬の衣替え",
             "note": [
                 "May/October 14th every year",
                 "毎年 五月・十月 十四日 正午"
             ],
+            "cover": {
+                "directory": null,
+                "url": null
+            },
             "info": {
                 "markdown": "/jingu/naiku/kanmiso.md",
                 "links": [
@@ -157,20 +177,30 @@
                 8
             ],
             "title": [
-                "塩づくり",
-                "御塩浜"
+                "荒塩づくり",
+                "御塩浜 - 御塩殿"
             ],
-            "description": "採鹹（さいかん）作業",
+            "description": "採鹹（さいかん）作業・御塩焼",
             "note": [
                 "Late July - Early August every year",
-                "毎年 七月下旬の土用の頃"
+                "毎年 七月下旬から八月上旬の土用の頃"
             ],
+            "cover": {
+                "directory": null,
+                "url": null
+            },
             "info": {
                 "note": [
-                    "川から海水と淡水の入り混じった汽水を塩田に引き、天日で乾かし、1週間ほどかけて「鹹水（かん水、濃い塩水）」がつくられる",
-                    "* 採鹹作業は、御塩浜の外から見学可能"
+                    "五十鈴川から海水と淡水の入り混じった汽水を塩田に引き、天日で乾かし、1週間ほどかけて「鹹水（かん水、濃い塩水）」がつくられる",
+                    "その後、七月末から八月上旬には、御塩焼所にて御塩浜でつくられたかん水（濃い塩水）を煮詰める「御塩焼」が行われる"
                 ],
-                "links": null
+                "links": [
+                    {
+                        "text": "二見浦・神前海岸と潜島 Futamiura",
+                        "url": "/jingu/?id=naiku&area=futami",
+                        "target": "_self"
+                    }
+                ]
             }
         },
         {
@@ -216,13 +246,23 @@
                 "Early September every year start at 9am",
                 "毎年 九月上旬 午前九時"
             ],
+            "cover": {
+                "directory": null,
+                "url": null
+            },
             "info": {
                 "note": [
                     "四月の「神田下種祭」と共に神嘗祭に付属する祭典（ぬいぼさい）",
                     "この日より神田の稲の収穫が始まり、九月末を目標に全ての稲を刈り取られる",
                     "収穫の後は内宮の御稲御倉・外宮の忌火屋殿に納められ、十月十五日「神嘗祭」にて新穀（初穂）が捧げられる"
                 ],
-                "links": null
+                "links": [
+                    {
+                        "text": "神宮神田・朝熊ヶ岳 Asama Area, Ise, Mie",
+                        "url": "/jingu/?id=naiku&area=shigou",
+                        "target": "_self"
+                    }
+                ]
             }
         },
         {
@@ -241,12 +281,22 @@
                 "October 5th every year",
                 "毎年 十月五日 午前十時"
             ],
+            "cover": {
+                "directory": null,
+                "url": null
+            },
             "info": {
                 "note": [
                     "5日から9日までの5日間、御塩殿で荒塩を三角錐形の土器につめて焼き固める",
                     "（御塩焼固は10月と3月の二度行われる）"
                 ],
-                "links": null
+                "links": [
+                    {
+                        "text": "二見浦・神前海岸と潜島 Futamiura",
+                        "url": "/jingu/?id=naiku&area=futami",
+                        "target": "_self"
+                    }
+                ]
             }
         },
         {
@@ -267,9 +317,46 @@
                 "October 15th - 17th every year",
                 "毎年 十月十五日から十七日"
             ],
+            "cover": {
+                "directory": null,
+                "url": null
+            },
             "info": {
                 "markdown": "/jingu/date/kanname.md",
                 "links": null
+            }
+        },
+        {
+            "date": {
+                "month": 10,
+                "date": [
+                    25
+                ]
+            },
+            "title": [
+                "調献式",
+                "伊雑宮"
+            ],
+            "description": "志摩地方一円の秋祭り（伊雑宮の神嘗祭当日）",
+            "note": [
+                "October 25th every year",
+                "毎年 十月二十五日"
+            ],
+            "cover": {
+                "directory": null,
+                "url": null
+            },
+            "info": {
+                "note": [
+                    "海の幸・山の幸を神前にお供えし、神恩に感謝を捧げる神事（ちょうけんしき）"
+                ],
+                "links": [
+                    {
+                        "text": "伊雑宮 Izawa no Miya, Shima, Mie",
+                        "url": "/jingu/?id=naiku&area=shima",
+                        "target": "_self"
+                    }
+                ]
             }
         },
         {
@@ -285,9 +372,13 @@
             ],
             "description": "新穀の収穫を感謝する大祭",
             "note": [
-                "November 23rd every year",
+                "November 23th every year",
                 "毎年 十一月二十三日"
             ],
+            "cover": {
+                "directory": null,
+                "url": null
+            },
             "info": {
                 "markdown": "/jingu/date/niiname.md",
                 "links": null
@@ -307,6 +398,10 @@
                 "June/December 15th - 17th every year",
                 "毎年 六月・十二月 十五日から十七日"
             ],
+            "cover": {
+                "directory": null,
+                "url": null
+            },
             "info": {
                 "markdown": "/jingu/date/tsukinami.md",
                 "links": null
